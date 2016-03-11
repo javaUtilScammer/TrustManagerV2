@@ -13,6 +13,11 @@ public class Contribution extends Component{
 		timeCreated = System.currentTimeMillis();
 	}
 
+	public int getId()
+	{
+		return id;
+	}
+
 	public Account getContributor()
 	{
 		return account; 
@@ -37,5 +42,4 @@ public class Contribution extends Component{
     {
         return evaluations; 
     }
-
 }

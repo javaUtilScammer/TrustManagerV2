@@ -48,6 +48,36 @@ public class Account extends Component{
 		confidence = conf; 
 	}
 
+	public double getAccepted()
+	{
+		return cacc; 
+	}
+
+	public double getRejected()
+	{
+		return crej; 
+	}
+
+	public double getTotal()
+	{
+		return ctotal; 
+	}
+
+	public void incTotal(double temp)
+	{
+		ctotal += temp; 
+	}
+
+	public void incRejected(double temp)
+	{
+		crej += temp; 
+	}
+
+	public void incAccepted(double temp)
+	{
+		cacc += temp; 
+	}
+
 	public int getNumEv()
 	{
 		int temp = 0; 

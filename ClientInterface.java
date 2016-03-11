@@ -12,6 +12,7 @@ public class ClientInterface{
 	String validation_type;
 	Scorer scorer;
 	Validator validator;
+	HashSet<Account> active_users; 
 
 	public ClientInterface(double rs, double a, double b, int aut, int vt, String type){
 		accountMap = new HashMap<Integer, Account>();
@@ -35,6 +36,7 @@ public class ClientInterface{
 			scorer = new RankTrustScorer(this);
 			validator = new RankTrustValidator();
 		}
+		active_users = new HashSet<Account>(); 
 	}
 
 	public void printSummary(){
@@ -55,17 +57,21 @@ public class ClientInterface{
 
 	public int createContribution(int accId){
 		int ind = nextContId;
-		Contribution co = new Contribution(ind, accountMap.get(accId), rating_scale);
+		Account contributor = accountMap.get(accId); 
+		Contribution co = new Contribution(ind, contributor, rating_scale);
 		double score = scorer.computeInitialScore(co);
 		contributionMap.put(ind, co);
+		active_users.add(contributor); 
 		return nextContId++;
 	}
 
 	public int createEvaluation(int accId, int contId, double rating){
 		int ind = nextEvalId;
-		Evaluation ev = new Evaluation(ind, accountMap.get(accId), contributionMap.get(contId), rating);
+		Account evaluator = accountMap.get(accId); 
+		Evaluation ev = new Evaluation(ind, evaluator, contributionMap.get(contId), rating);
 		evaluationMap.put(ind, ev);
 		// scorer.evaluate();
+		active_users.add(evaluator);
 		return nextEvalId++;
 	}
 
