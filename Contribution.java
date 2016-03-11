@@ -10,6 +10,6 @@ public class Contribution extends Component{
 		account = acc;
 		score = sc;
 		evaluations = new ArrayList<Evaluation>();
-		timeCreated = System.getCurrentTimeMillis();
+		timeCreated = System.currentTimeMillis();
 	}
 }

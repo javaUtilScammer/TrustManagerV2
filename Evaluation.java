@@ -8,7 +8,7 @@ public class Evaluation extends Component{
 		this.id = id;
 		account = acc;
 		contribution = cont;
-		timeCreated = System.getCurrentTimeMillis();
+		timeCreated = System.currentTimeMillis();
 		rating = rat;
 	}
 }

@@ -6,7 +6,7 @@ public class Account extends Component{
 	double rating, confidence, cacc, crej, ctotal;
 	int num_ev;
 
-	public class Account(int id, double rat){
+	public Account(int id, double rat){
 		this.id = id;
 		contributions = new ArrayList<Contribution>();
 		evaluations = new ArrayList<Evaluation>();
@@ -15,6 +15,6 @@ public class Account extends Component{
 		cacc = 0;
 		crej = 0;
 		ctotal = 0;
-		timeCreated = System.getCurrentTimeMillis();
+		timeCreated = System.currentTimeMillis();
 	}
 }
