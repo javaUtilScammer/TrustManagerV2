@@ -12,4 +12,9 @@ public class Contribution extends Component{
 		evaluations = new ArrayList<Evaluation>();
 		timeCreated = System.currentTimeMillis();
 	}
+
+	public Account getContributor()
+	{
+		return account; 
+	}
 }
