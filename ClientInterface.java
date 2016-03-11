@@ -63,4 +63,9 @@ public class ClientInterface{
 	{
 		return active; 
 	}
+
+	public double getRatingScale()
+	{
+		return rating_scale; 
+	}
 }

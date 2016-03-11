@@ -17,4 +17,15 @@ public class Contribution extends Component{
 	{
 		return account; 
 	}
+
+	public double getContributionScore()
+	{
+		return score; 
+	}
+
+	public int getNumEv()
+	{
+		return evaluations.size(); 
+	}
+
 }
