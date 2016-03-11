@@ -8,12 +8,6 @@ public class RankTrustScorer extends Scorer{
 
 	}
 
-	public void acceptContribution(Contribution cont){
-
-	}
-	public void rejectContribution(Contribution cont){
-
-	}
 	public int adminAccept(Contribution cont){
 		return 0;
 	}
