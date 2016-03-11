@@ -33,4 +33,9 @@ public class Contribution extends Component{
 		return evaluations.size(); 
 	}
 
+	public ArrayList<Evaluation> getEvaluations()
+    {
+        return evaluations; 
+    }
+
 }
