@@ -19,6 +19,7 @@ public class TestClient{
 		readInput();
 		intrface = new ClientInterface(rating_scale,alpha,beta,active_user_time,validation_time, validation_type);
 		setup();
+		simulate();
 	}
 
 	public void readInput(){
@@ -56,5 +57,9 @@ public class TestClient{
 		int total = goodAccounts+badAccounts+neutAccounts;
 		accIds = new int[total];
 		for(int i=0; i<total; i++) accIds[i] = intrface.createAccount();
+	}
+
+	public void simulate(){
+		
 	}
 }

@@ -23,10 +23,25 @@ public class Account extends Component{
 		return rating; 
 	}
 
+	public void setTrustRating(double r)
+	{
+		rating = r; 
+	}
+
 	public double getTrustConfidence()
 	{
 		return confidence;
 	}
+
+	public ArrayList<Contribution> getContributions()
+    {
+        return contributions; 
+    }
+
+    public ArrayList<Evaluation> getEvaluations()
+    {
+        return evaluations; 
+    }
 
 	public void setTrustConfidence(double conf)
 	{

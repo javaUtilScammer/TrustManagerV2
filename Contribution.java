@@ -39,8 +39,7 @@ public class Contribution extends Component{
 	}
 
 	public ArrayList<Evaluation> getEvaluations()
-	{
-		return evaluations;
-	}
-
+    {
+        return evaluations; 
+    }
 }
