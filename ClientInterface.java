@@ -78,4 +78,15 @@ public class ClientInterface{
 	{
 		return rating_scale; 
 	}
+
+	public int getMval()
+	{
+		int ans = -1; 
+		for(Integer k: accountMap.keySet())
+		{
+			Account temp = accountMap.get(k);
+			ans = Math.max(ans,temp.getNumEv()); 
+		}
+		return ans; 
+	}
 }

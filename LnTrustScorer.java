@@ -33,17 +33,12 @@ public class LnTrustScorer extends Scorer{
         double conf = contributor.getTrustConfidence(); 
         double active = intrface.getActiveCount();
         double num = Math.log(intrface.getMval())/Math.log(Math.E); 
-        num = Math.pow(num,beta_factor); 
+        num = Math.pow(num,beta); 
         num/=active; 
         num*=contributor.getNumEv(); 
         conf = Math.min(1, 0.50 + 0.50*num );
                     
         contributor.setTrustConfidence(conf); 
-	}
-
-	public void calculateScore(Evaluation ev, Contribution cont)
-	{
-
 	}
 
 	public int adminAccept(Contribution cont){
@@ -58,7 +53,7 @@ public class LnTrustScorer extends Scorer{
         double active = Math.max(intrface.getActiveCount(),5);
         //compute for denominator ln(active) ^ degree_of_strictness
         double denom = Math.log(active / Math.log(Math.E)); 
-        denom = Math.pow(denom,degree_of_strictness);
+        denom = Math.pow(denom,alpha);
         double threshold = active/denom; 
         
         //score is a percentage of the threshold based on trust rating of contributor

@@ -23,6 +23,11 @@ public class Contribution extends Component{
 		return score; 
 	}
 
+	public void setContributionScore(double score)
+	{
+		this.score=score;
+	}
+
 	public int getNumEv()
 	{
 		return evaluations.size(); 
