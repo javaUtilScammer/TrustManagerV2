@@ -11,4 +11,14 @@ public class Evaluation extends Component{
 		timeCreated = System.currentTimeMillis();
 		rating = rat;
 	}
+
+	public double getRating()
+	{
+		return rating; 
+	}
+
+	public Account getCreatedBy()
+	{
+		return account; 
+	}
 }

@@ -17,4 +17,27 @@ public class Account extends Component{
 		ctotal = 0;
 		timeCreated = System.currentTimeMillis();
 	}
+
+	public double getTrustRating()
+	{
+		return rating; 
+	}
+
+	public double getTrustConfidence()
+	{
+		return confidence;
+	}
+
+	public void setTrustConfidence(double conf)
+	{
+		confidence = conf; 
+	}
+
+	public int getNumEv()
+	{
+		int temp = 0; 
+		for(int i=0; i<contributions.size();i++)
+			temp+=contributions.get(i).getNumEv();
+		return temp;
+	}
 }
