@@ -68,10 +68,16 @@ public class ClientInterface{
 	public int createEvaluation(int accId, int contId, double rating){
 		int ind = nextEvalId;
 		Account evaluator = accountMap.get(accId); 
-		Evaluation ev = new Evaluation(ind, evaluator, contributionMap.get(contId), rating);
+		Contribution cont = contributionMap.get(contId); 
+		Evaluation ev = new Evaluation(ind, evaluator, cont, rating);
 		evaluationMap.put(ind, ev);
 		// scorer.evaluate();
 		active_users.add(evaluator);
+
+		scorer.calculateScore(ev,cont);
+		boolean decision = validator.validate(cont); 
+
+
 		return nextEvalId++;
 	}
 
