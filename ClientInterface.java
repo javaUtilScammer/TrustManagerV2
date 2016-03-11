@@ -7,6 +7,7 @@ public class ClientInterface{
 	HashMap<Integer, Evaluation> evaluationMap;
 	int nextAccId, nextContId, nextEvalId;
 	int contsAccepted, contsRejected, contsTotal;
+	int active; 
 	double rating_scale, alpha, beta, active_user_time, validation_time;
 	Scorer scorer;
 	Validator validator;
@@ -23,6 +24,7 @@ public class ClientInterface{
 		beta = b;
 		active_user_time = aut;
 		validation_time = vt;
+		active = 0; 
 	}
 
 	public void printSummary(){
@@ -55,5 +57,10 @@ public class ClientInterface{
 		evaluationMap.put(ind, ev);
 		// scorer.evaluate();
 		return nextEvalId++;
+	}
+
+	public int getActiveCount()
+	{
+		return active; 
 	}
 }
