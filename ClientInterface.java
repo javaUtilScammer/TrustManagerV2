@@ -9,10 +9,11 @@ public class ClientInterface{
 	int contsAccepted, contsRejected, contsTotal;
 	int active; 
 	double rating_scale, alpha, beta, active_user_time, validation_time;
+	String validation_type;
 	Scorer scorer;
 	Validator validator;
 
-	public ClientInterface(double rs, double a, double b, int aut, int vt){
+	public ClientInterface(double rs, double a, double b, int aut, int vt, String type){
 		accountMap = new HashMap<Integer, Account>();
 		contributionMap = new HashMap<Integer, Contribution>();
 		evaluationMap = new HashMap<Integer, Evaluation>();
@@ -24,7 +25,16 @@ public class ClientInterface{
 		beta = b;
 		active_user_time = aut;
 		validation_time = vt;
-		active = 0; 
+		active = 0;
+		validation_type = type;
+		if(type.equals("LnTrust")){
+			scorer = new LnTrustScorer(this);
+			validator = new LnTrustValidator();
+		}
+		else if(type.equals("RankTrust")){
+			scorer = new RankTrustScorer(this);
+			validator = new RankTrustValidator();
+		}
 	}
 
 	public void printSummary(){

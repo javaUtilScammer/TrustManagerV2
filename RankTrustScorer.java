@@ -1,4 +1,9 @@
 public class RankTrustScorer extends Scorer{
+
+	public RankTrustScorer(ClientInterface i){
+		super(i);
+	}
+
 	public void calculateScore(Evaluation ev, Contribution cont){
 
 	}

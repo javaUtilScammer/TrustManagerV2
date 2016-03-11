@@ -8,6 +8,7 @@ public class TestClient{
 	ArrayList<Integer> contIds;
 	double rating_scale, alpha, beta;
 	int active_user_time, validation_time;
+	String validation_type;
 	ClientInterface intrface;
 
 	public static void main(String[] args){
@@ -16,7 +17,7 @@ public class TestClient{
 
 	public TestClient(){
 		readInput();
-		intrface = new ClientInterface(rating_scale,alpha,beta,active_user_time,validation_time);
+		intrface = new ClientInterface(rating_scale,alpha,beta,active_user_time,validation_time, validation_type);
 		setup();
 	}
 
@@ -44,6 +45,7 @@ public class TestClient{
 			beta = Double.parseDouble(in.readLine());
 			active_user_time = Integer.parseInt(in.readLine());
 			validation_time = Integer.parseInt(in.readLine());
+			validation_type = in.readLine();
 		}
 		catch(Exception e){
 			e.printStackTrace();
