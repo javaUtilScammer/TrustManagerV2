@@ -1,4 +1,12 @@
+import java.util.*;
 public class LnTrustScorer extends Scorer{
+	double rating_scale, alpha, beta, active_user_time;
+
+	public LnTrustScorer(ClientInterface intrface)
+	{
+		super(intrface);
+	}
+
 	public void calculateScore(Evaluation ev, Contribution cont){
 		double rating_scale = intrface.getRatingScale(); 
 		double currScore = cont.getContributionScore(); 
@@ -33,11 +41,8 @@ public class LnTrustScorer extends Scorer{
         contributor.setTrustConfidence(conf); 
 	}
 
-	public void acceptContribution(Contribution cont){
-
-	}
-
-	public void rejectContribution(Contribution cont){
+	public void calculateScore(Evaluation ev, Contribution cont)
+	{
 
 	}
 
@@ -45,8 +50,10 @@ public class LnTrustScorer extends Scorer{
 		return 0;
 	}
 
-	public double computeInitialScore(Contribution cont){
-		//first compute for the threshold
+
+    public double computeInitialScore(Contribution cont)
+    {
+    	//first compute for the threshold
         //get number of active users
         double active = Math.max(intrface.getActiveCount(),5);
         //compute for denominator ln(active) ^ degree_of_strictness
@@ -57,5 +64,5 @@ public class LnTrustScorer extends Scorer{
         //score is a percentage of the threshold based on trust rating of contributor
         Account contributor = cont.getContributor(); 
         return threshold * contributor.getTrustRating() * contributor.getTrustConfidence(); 
-	}
+    }
 }

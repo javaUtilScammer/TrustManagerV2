@@ -1,14 +1,13 @@
 public class RankTrustScorer extends Scorer{
+
+	public RankTrustScorer(ClientInterface i){
+		super(i);
+	}
+
 	public void calculateScore(Evaluation ev, Contribution cont){
 
 	}
 
-	public void acceptContribution(Contribution cont){
-
-	}
-	public void rejectContribution(Contribution cont){
-
-	}
 	public int adminAccept(Contribution cont){
 		return 0;
 	}
