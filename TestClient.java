@@ -24,17 +24,17 @@ public class TestClient{
 		try{
 			BufferedReader in = new BufferedReader(new InputStreamReader(new FileInputStream("input.txt")));
 			actChance = new int[3][3];
-			String[] g = in.readLine();
+			String[] g = in.readLine().split(" ");
 			goodAccounts = Integer.parseInt(g[0]);
 			actChance[0][0] = Integer.parseInt(g[1]);
 			actChance[0][1] = Integer.parseInt(g[2]);
 			actChance[0][2] = Integer.parseInt(g[3]);
-			g = in.readLine();
+			g = in.readLine().split(" ");
 			badAccounts = Integer.parseInt(g[0]);
 			actChance[1][0] = Integer.parseInt(g[1]);
 			actChance[1][1] = Integer.parseInt(g[2]);
 			actChance[1][2] = Integer.parseInt(g[3]);
-			g = in.readLine();
+			g = in.readLine().split(" ");
 			neutAccounts = Integer.parseInt(g[0]);
 			actChance[2][0] = Integer.parseInt(g[1]);
 			actChance[2][1] = Integer.parseInt(g[2]);
