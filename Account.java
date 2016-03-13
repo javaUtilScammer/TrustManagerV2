@@ -11,6 +11,7 @@ public class Account extends Component{
 		contributions = new ArrayList<Contribution>();
 		evaluations = new ArrayList<Evaluation>();
 		rating = rat;
+		confidence = rat;
 		num_ev = 0;
 		cacc = 0;
 		crej = 0;
@@ -47,6 +48,7 @@ public class Account extends Component{
 	{
 		confidence = conf; 
 	}
+
 
 	public double getAccepted()
 	{

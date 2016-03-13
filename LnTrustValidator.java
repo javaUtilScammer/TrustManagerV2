@@ -22,7 +22,7 @@ public class LnTrustValidator extends Validator{
         double denom = Math.log(active) / Math.log(Math.E); 
         denom = Math.pow(denom,alpha);
         double threshold = active/denom; 
-        System.out.println("Threshold for "+cont.getId()+" "+threshold);
+        System.out.println("Threshold for "+cont.getId()+" "+threshold + " Score: " + cont.getContributionScore() + " Correct: " + cont.crrct);
         //If accepted, modify the scores of Evaluators that Evaluated this accepted function
         if(score>=threshold)
         {
@@ -57,7 +57,7 @@ public class LnTrustValidator extends Validator{
                 sub.incTotal(total+0.50); 
                 
                 double newTrust = computeTrustRating(sub.getAccepted(), sub.getRejected(), sub.getTotal()); 
-                sub.setTrustConfidence(newTrust); 
+                sub.setTrustRating(newTrust); 
                 //update the database
             }
             
@@ -66,7 +66,7 @@ public class LnTrustValidator extends Validator{
             user.incAccepted(user.getAccepted()+1); 
             user.incTotal(user.getTotal()+1);
             double newTrust = computeTrustRating(user.getAccepted(), user.getRejected(), user.getTotal()); 
-            user.setTrustConfidence(newTrust); 
+            user.setTrustRating(newTrust); 
             return true; 
         }else return false; 
     }

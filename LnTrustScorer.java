@@ -12,8 +12,10 @@ public class LnTrustScorer extends Scorer{
 		double currScore = cont.getContributionScore(); 
         double rating = ev.getRating(); 
         double scaled;
-        if(rating_scale=='1')
+        //System.out.println("HELLO " + rating_scale);
+        if(rating_scale==1)
         {
+
             if(rating==0) scaled = -1;
             else scaled = 1; 
         }else
@@ -26,7 +28,7 @@ public class LnTrustScorer extends Scorer{
         Account submit = ev.getCreatedBy(); 
         double trust_rating = submit.getTrustRating(); 
         double trust_confidence = submit.getTrustConfidence(); 
-        currScore += (scaled * trust_rating * trust_confidence); 
+        currScore += (scaled * trust_rating); 
         cont.setContributionScore(currScore);
         Account contributor = cont.getContributor(); 
 
