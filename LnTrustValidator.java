@@ -14,14 +14,20 @@ public class LnTrustValidator extends Validator{
         return ret; 
     }
 
+    public double computeThreshold()
+    {
+        double active = Math.max(intrface.getActiveCount(),5);
+        double denom = Math.log(active) / Math.log(Math.E); 
+        denom = Math.pow(denom,alpha);
+        double threshold = active/denom;
+        return threshold; 
+    }
+
 
 	public boolean validate(Contribution cont)
     {
         double score = cont.getContributionScore(); 
-        double active = Math.max(intrface.getActiveCount(),5);
-        double denom = Math.log(active) / Math.log(Math.E); 
-        denom = Math.pow(denom,alpha);
-        double threshold = active/denom; 
+        double threshold = computeThreshold(); 
         System.out.println("Threshold for "+cont.getId()+" "+threshold + " Score: " + cont.getContributionScore() + " Correct: " + cont.crrct);
         //If accepted, modify the scores of Evaluators that Evaluated this accepted function
         if(score>=threshold)
