@@ -81,7 +81,7 @@ public class TestClient{
 	}
 
 	public void simulate(){
-		for(int o=0; o<10; o++){
+		for(int o=0; o<1000; o++){
 			for(int i=0; i<totalAccounts; i++){
 				AccountTest curAcc = accs.get(i);
 				int roll = curAcc.move();
