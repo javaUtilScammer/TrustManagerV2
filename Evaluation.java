@@ -12,6 +12,10 @@ public class Evaluation extends Component{
 		rating = rat;
 	}
 
+	public int getId(){
+		return id;
+	}
+
 	public double getRating()
 	{
 		return rating; 

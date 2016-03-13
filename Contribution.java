@@ -4,6 +4,8 @@ public class Contribution extends Component{
 	Account account;
 	double score;
 	ArrayList<Evaluation> evaluations;
+	ArrayList<Contribution> contributions;
+	int state = 0;
 
 	public Contribution(int id, Account acc, double sc){
 		this.id = id;

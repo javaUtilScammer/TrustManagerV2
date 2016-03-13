@@ -43,8 +43,11 @@ public class ClientInterface{
 		active_users = new HashSet<Account>(); 
 	}
 
-	public void checkContribution(Contribution c){
-		// stuff
+	public void checkContribution(Contribution cont){
+		// scorer.calculateScore(ev,cont);
+		boolean decision = validator.validate(cont);
+		if(decision) client.acceptContribution(cont.getId());
+		else client.rejectContribution(cont.getId());
 	}
 
 	public int createAccount(){
@@ -62,6 +65,7 @@ public class ClientInterface{
 		double score = scorer.computeInitialScore(co);
 		contributionMap.put(ind, co);
 		active_users.add(contributor);
+		contributor.contributions.add(co);
 		addTimerTask(co);
 		System.out.println("ClientInterface: Contribution "+ind+" made by Account "+accId+".");
 		return nextContId++;
@@ -73,12 +77,24 @@ public class ClientInterface{
 		Contribution cont = contributionMap.get(contId); 
 		Evaluation ev = new Evaluation(ind, evaluator, cont, rating);
 		evaluationMap.put(ind, ev);
+		cont.evaluations.add(ev);
 		active_users.add(evaluator);
 		System.out.println("ClientInterface: Evaluation "+ind+" made by Account "+accId+" on Contribution "+contId+" with rating "+rating+".");
 		scorer.calculateScore(ev,cont);
 		boolean decision = validator.validate(cont);
-		if(decision) client.acceptContribution();
+		if(decision) {
+			client.acceptContribution(contId);
+			cont.state = 1;
+		}
 		return nextEvalId++;
+	}
+
+	public void removeContribution(Contribution c){
+		c.getContributor().contributions.remove(c);
+		contributionMap.remove(c.getId());
+		for(int i=0; i<c.evaluations.size(); i++){
+			evaluationMap.remove(c.evaluations.get(i).getId());
+		}
 	}
 
 	public void addTimerTask(Contribution c){

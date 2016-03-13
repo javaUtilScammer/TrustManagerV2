@@ -4,6 +4,7 @@ import java.io.*;
 public class TestClient{
 	int goodAccounts, badAccounts, neutAccounts, totalAccounts;
 	int contsAccepted, contsRejected, contsTotal, evalsTotal;
+	int correctVerdict;
 	int contsCorrect, contsWrong;
 	ArrayList<AccountTest> accs = new ArrayList<AccountTest>();
 	ArrayList<Integer> contIds = new ArrayList<Integer>();
@@ -20,6 +21,10 @@ public class TestClient{
 	public TestClient(){
 		readInput();
 		simulate();
+		try{
+			Thread.sleep(11000);
+		}
+		catch(Exception e){e.printStackTrace();}
 		printSummary();
 	}
 
@@ -68,6 +73,7 @@ public class TestClient{
 			evalsTotal = 0;
 			contsCorrect = 0;
 			contsWrong = 0;
+			correctVerdict = 0;
 		}
 		catch(Exception e){
 			e.printStackTrace();
@@ -91,51 +97,79 @@ public class TestClient{
 					contMap.put(ind,new ContributionTest(ind, i, crrct));
 				}
 				else if(roll==2){
-					boolean crrct = RNG(curAcc.chance_Correct);
-					int n = contIds.size();
-					if(n==0) continue;
-					int id = contIds.get(pickRandomID(n));
-	    			ContributionTest cont = contMap.get(id);
-	    			while(true){
-	    				if(cont.account_id!=i) break;
-	    				if(!curAcc.sent.contains(id)) break;
-	    				id = contIds.get(pickRandomID(n));
-	    				cont = contMap.get(id);
-	    			}
-	    			boolean correct = RNG(curAcc.chance_Correct);
+					int ind = 0;
+					if(contIds.size()==0) continue;
+					ContributionTest cont = null;
+					while(true){
+						if(ind>=contIds.size()) break;
+						int id = contIds.get(ind);
+						cont = contMap.get(id);
+						if((cont.account_id==curAcc.id)||
+							(curAcc.sent.contains(id))){
+							ind++;
+							continue;
+						}
+						break;
+					}
+					if(ind>=contIds.size()) continue;
+					boolean correct = RNG(curAcc.chance_Correct);
 	    			double score = 1.0;
 	    			if(correct^cont.correct) score = 0.0;
-	    			int ind = intrface.createEvaluation(i,id,score);
-	    			// EvaluationTest eval = new EvaluationJSON(i, id, score);
-	    			// eval.id = Integer.parseInt(post(gson.toJson(eval)));
-	    			evalsTotal++;
+	    			int id = cont.id;
+	    			int ind2 = intrface.createEvaluation(i,id,score);
+					evalsTotal++;
 	    			curAcc.sent.add(id);
+
+					// boolean crrct = RNG(curAcc.chance_Correct);
+					// int n = contIds.size();
+					// if(n==0) continue;
+					// int id = contIds.get(pickRandomID(n));
+	    // 			ContributionTest cont = contMap.get(id);
+	    // 			while(true){
+	    // 				if(cont.account_id!=i) break;
+	    // 				if(!curAcc.sent.contains(id)) break;
+	    // 				id = contIds.get(pickRandomID(n));
+	    // 				cont = contMap.get(id);
+	    // 			}
+	    // 			boolean correct = RNG(curAcc.chance_Correct);
+	    // 			double score = 1.0;
+	    // 			if(correct^cont.correct) score = 0.0;
+	    // 			int ind = intrface.createEvaluation(i,id,score);
+	    // 			// EvaluationTest eval = new EvaluationJSON(i, id, score);
+	    // 			// eval.id = Integer.parseInt(post(gson.toJson(eval)));
+	    // 			evalsTotal++;
+	    // 			curAcc.sent.add(id);
 				}
 			}
 		}
 	}
 
 	public void printSummary(){
+		System.out.println("*************");
 		System.out.printf("Total Contributions: %d\n", contsTotal);
 		System.out.printf("Accepted Contributions: %d\n", contsAccepted);
 		System.out.printf("Rejected Contributions: %d\n", contsRejected);
 		System.out.printf("Correct Contributions: %d\n", contsCorrect);
 		System.out.printf("Wrong Contributions: %d\n", contsWrong);
 		System.out.printf("Total Evaluations: %d\n", evalsTotal);
+		System.out.printf("Correct Verdicts: %d\n", correctVerdict);
 	}
 
-	public void acceptContribution(){
+	public void acceptContribution(int ci){
 		contsAccepted++;
-		removeContribution();
+		if(contMap.get(ci).correct) correctVerdict++;
+		removeContribution(ci);
 	}
 
-	public void rejectContribution(){
-		contsAccepted++;
-		removeContribution();
+	public void rejectContribution(int ci){
+		contsRejected++;
+		if(!contMap.get(ci).correct) correctVerdict++;
+		removeContribution(ci);
 	}
 
-	public void removeContribution(){
-
+	public void removeContribution(int ci){
+		contIds.remove((Integer)ci);
+		contMap.remove(ci);
 	}
 
 	private int randInRange(int min, int max){

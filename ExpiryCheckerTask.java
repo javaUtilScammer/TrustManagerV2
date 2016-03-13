@@ -14,6 +14,7 @@ public class ExpiryCheckerTask extends TimerTask{
     }
 
     public void run(){
-    	intrface.checkContribution(contribution);
+    	System.out.println("Time's Up for Contribution "+contribution.getId());
+    	if(contribution.state!=1) intrface.checkContribution(contribution);
     }
 }
