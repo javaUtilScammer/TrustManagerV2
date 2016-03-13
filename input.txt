@@ -1,20 +1,25 @@
-2 70 20 10
-2 20 70 10
-2 40 40 20
 1.0
 0.95
 0.95
 10
-30
-30
+10
 LnTrust
+2
+70 20 80
+2
+20 70 20
+2
+40 40 50
 ***
-good
-bad
-neut
 rating scale
 alpha
 beta
 active user time
 validation time
 validation type
+good
+cc ce cd
+bad
+cc ce cd
+neut
+cc ce cd

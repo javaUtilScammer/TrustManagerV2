@@ -2,10 +2,12 @@ import java.util.*;
 import java.io.*;
 
 public class TestClient{
-	int goodAccounts, badAccounts, neutAccounts;
-	int[] accIds;
-	int[][] actChance;
-	ArrayList<Integer> contIds;
+	int goodAccounts, badAccounts, neutAccounts, totalAccounts;
+	int contsAccepted, contsRejected, contsTotal, evalsTotal;
+	int contsCorrect, contsWrong;
+	ArrayList<AccountTest> accs = new ArrayList<AccountTest>();
+	ArrayList<Integer> contIds = new ArrayList<Integer>();
+	HashMap<Integer, ContributionTest> contMap = new HashMap<Integer,ContributionTest>();
 	double rating_scale, alpha, beta;
 	int active_user_time, validation_time;
 	String validation_type;
@@ -17,49 +19,172 @@ public class TestClient{
 
 	public TestClient(){
 		readInput();
-		intrface = new ClientInterface(rating_scale,alpha,beta,active_user_time,validation_time, validation_type);
-		setup();
 		simulate();
+		printSummary();
 	}
 
 	public void readInput(){
 		try{
 			BufferedReader in = new BufferedReader(new InputStreamReader(new FileInputStream("input.txt")));
-			actChance = new int[3][3];
-			String[] g = in.readLine().split(" ");
-			goodAccounts = Integer.parseInt(g[0]);
-			actChance[0][0] = Integer.parseInt(g[1]);
-			actChance[0][1] = Integer.parseInt(g[2]);
-			actChance[0][2] = Integer.parseInt(g[3]);
-			g = in.readLine().split(" ");
-			badAccounts = Integer.parseInt(g[0]);
-			actChance[1][0] = Integer.parseInt(g[1]);
-			actChance[1][1] = Integer.parseInt(g[2]);
-			actChance[1][2] = Integer.parseInt(g[3]);
-			g = in.readLine().split(" ");
-			neutAccounts = Integer.parseInt(g[0]);
-			actChance[2][0] = Integer.parseInt(g[1]);
-			actChance[2][1] = Integer.parseInt(g[2]);
-			actChance[2][2] = Integer.parseInt(g[3]);
 			rating_scale = Double.parseDouble(in.readLine());
 			alpha = Double.parseDouble(in.readLine());
 			beta = Double.parseDouble(in.readLine());
 			active_user_time = Integer.parseInt(in.readLine());
 			validation_time = Integer.parseInt(in.readLine());
 			validation_type = in.readLine();
+			intrface = new ClientInterface(rating_scale,alpha,beta,active_user_time,validation_time, validation_type,this);
+			accs = new ArrayList<AccountTest>();
+			goodAccounts = Integer.parseInt(in.readLine());
+			String[] g = in.readLine().split(" ");
+			int contribute = Integer.parseInt(g[0]);
+			int evaluate = Integer.parseInt(g[1]);
+			int correct = Integer.parseInt(g[2]);
+			for(int i=0; i<goodAccounts; i++){
+				int id = intrface.createAccount();
+				accs.add(new AccountTest(id, contribute, evaluate, correct));
+			}
+			badAccounts = Integer.parseInt(in.readLine());
+			g = in.readLine().split(" ");
+			contribute = Integer.parseInt(g[0]);
+			evaluate = Integer.parseInt(g[1]);
+			correct = Integer.parseInt(g[2]);
+			for(int i=0; i<badAccounts; i++){
+				int id = intrface.createAccount();
+				accs.add(new AccountTest(id, contribute, evaluate, correct));
+			}
+			neutAccounts = Integer.parseInt(in.readLine());
+			g = in.readLine().split(" ");
+			contribute = Integer.parseInt(g[0]);
+			evaluate = Integer.parseInt(g[1]);
+			correct = Integer.parseInt(g[2]);
+			for(int i=0; i<neutAccounts; i++){
+				int id = intrface.createAccount();
+				accs.add(new AccountTest(id, contribute, evaluate, correct));
+			}
+			totalAccounts = goodAccounts+badAccounts+neutAccounts;
+			contsAccepted = 0;
+			contsRejected = 0;
+			contsTotal = 0;
+			evalsTotal = 0;
+			contsCorrect = 0;
+			contsWrong = 0;
 		}
 		catch(Exception e){
 			e.printStackTrace();
 		}
 	}
 
-	public void setup(){
-		int total = goodAccounts+badAccounts+neutAccounts;
-		accIds = new int[total];
-		for(int i=0; i<total; i++) accIds[i] = intrface.createAccount();
+	public void simulate(){
+		for(int o=0; o<10; o++){
+			for(int i=0; i<totalAccounts; i++){
+				AccountTest curAcc = accs.get(i);
+				int roll = curAcc.move();
+				if(roll==0) continue;
+				else if(roll==1){
+					boolean crrct = RNG(curAcc.chance_Correct);
+					int ind = intrface.createContribution(curAcc.id);
+					// accs.get(i).contributions.add(ind);
+					contIds.add(ind);
+					contsTotal++;
+					if(crrct) contsCorrect++;
+					else contsWrong++;
+					contMap.put(ind,new ContributionTest(ind, i, crrct));
+				}
+				else if(roll==2){
+					boolean crrct = RNG(curAcc.chance_Correct);
+					int n = contIds.size();
+					if(n==0) continue;
+					int id = contIds.get(pickRandomID(n));
+	    			ContributionTest cont = contMap.get(id);
+	    			while(true){
+	    				if(cont.account_id!=i) break;
+	    				if(!curAcc.sent.contains(id)) break;
+	    				id = contIds.get(pickRandomID(n));
+	    				cont = contMap.get(id);
+	    			}
+	    			boolean correct = RNG(curAcc.chance_Correct);
+	    			double score = 1.0;
+	    			if(correct^cont.correct) score = 0.0;
+	    			int ind = intrface.createEvaluation(i,id,score);
+	    			// EvaluationTest eval = new EvaluationJSON(i, id, score);
+	    			// eval.id = Integer.parseInt(post(gson.toJson(eval)));
+	    			evalsTotal++;
+	    			curAcc.sent.add(id);
+				}
+			}
+		}
 	}
 
-	public void simulate(){
-		
+	public void printSummary(){
+		System.out.printf("Total Contributions: %d\n", contsTotal);
+		System.out.printf("Accepted Contributions: %d\n", contsAccepted);
+		System.out.printf("Rejected Contributions: %d\n", contsRejected);
+		System.out.printf("Correct Contributions: %d\n", contsCorrect);
+		System.out.printf("Wrong Contributions: %d\n", contsWrong);
+		System.out.printf("Total Evaluations: %d\n", evalsTotal);
+	}
+
+	public void acceptContribution(){
+		contsAccepted++;
+		removeContribution();
+	}
+
+	public void rejectContribution(){
+		contsAccepted++;
+		removeContribution();
+	}
+
+	public void removeContribution(){
+
+	}
+
+	private int randInRange(int min, int max){
+    	return (int)(Math.random() * (max - min) + min);
+    }
+
+    public int pickRandomID(int n){
+    	return (int)(Math.random() * (n-1));
+    }
+
+    public boolean RNG(int chance){
+    	int roll = (int)(Math.random() * 100)+1;
+    	if(chance>=roll) return true;
+    	return false;
+    }
+
+}
+
+class AccountTest{
+	int chance_Contribute, chance_Evaluate, chance_Correct;
+	int chance_Cont, id;
+	// ArrayList<Integer> contributions = new ArrayList<Integer>();
+	HashSet<Integer> sent;
+
+	public AccountTest(int i, int cc, int ce, int ccc){
+		id = i;
+		chance_Contribute = cc;
+		chance_Evaluate = ce;
+		chance_Correct = ccc;
+		chance_Cont = chance_Contribute+chance_Evaluate;
+		sent = new HashSet<Integer>();
+	}
+	public int move(){
+		int roll = (int) (Math.random()*100)+1;
+		int ret = 0;
+		if(roll<=chance_Evaluate) ret = 2; //make an eval
+		else if(roll<=chance_Cont) ret = 1; //make a cont
+		// System.out.println(roll+" "+chance_Eval+" "+ret);
+		return ret; //0 = do nothing
+	}
+}
+
+class ContributionTest{
+	int account_id, id;
+	boolean correct;
+
+	public ContributionTest(int i, int a, boolean c){
+		account_id = a;
+		id = i;	
+		correct = c;
 	}
 }

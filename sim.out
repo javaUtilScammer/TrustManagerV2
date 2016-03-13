@@ -1,0 +1,91 @@
+ClientInterface: Account 0 made.
+ClientInterface: Account 1 made.
+ClientInterface: Account 2 made.
+ClientInterface: Account 3 made.
+ClientInterface: Account 4 made.
+ClientInterface: Account 5 made.
+ClientInterface: Contribution 0 made by Account 1.
+ClientInterface: Evaluation 0 made by Account 2 on Contribution 0 with rating 1.0.
+Threshold for 0 3.1814821301457408
+ClientInterface: Evaluation 1 made by Account 3 on Contribution 0 with rating 0.0.
+Threshold for 0 3.1814821301457408
+ClientInterface: Contribution 1 made by Account 4.
+ClientInterface: Evaluation 2 made by Account 5 on Contribution 0 with rating 0.0.
+Threshold for 0 3.1814821301457408
+ClientInterface: Contribution 2 made by Account 0.
+ClientInterface: Contribution 3 made by Account 1.
+ClientInterface: Contribution 4 made by Account 2.
+ClientInterface: Evaluation 3 made by Account 3 on Contribution 3 with rating 1.0.
+Threshold for 3 3.1814821301457408
+ClientInterface: Contribution 5 made by Account 5.
+ClientInterface: Contribution 6 made by Account 0.
+ClientInterface: Contribution 7 made by Account 1.
+ClientInterface: Evaluation 4 made by Account 2 on Contribution 1 with rating 1.0.
+Threshold for 1 3.1814821301457408
+ClientInterface: Evaluation 5 made by Account 3 on Contribution 5 with rating 1.0.
+Threshold for 5 3.1814821301457408
+ClientInterface: Evaluation 6 made by Account 4 on Contribution 5 with rating 0.0.
+Threshold for 5 3.1814821301457408
+ClientInterface: Contribution 8 made by Account 5.
+ClientInterface: Contribution 9 made by Account 0.
+ClientInterface: Contribution 10 made by Account 1.
+ClientInterface: Contribution 11 made by Account 2.
+ClientInterface: Contribution 12 made by Account 3.
+ClientInterface: Evaluation 7 made by Account 4 on Contribution 3 with rating 0.0.
+Threshold for 3 3.1814821301457408
+ClientInterface: Evaluation 8 made by Account 5 on Contribution 9 with rating 1.0.
+Threshold for 9 3.1814821301457408
+ClientInterface: Contribution 13 made by Account 0.
+ClientInterface: Contribution 14 made by Account 1.
+ClientInterface: Evaluation 9 made by Account 3 on Contribution 0 with rating 1.0.
+Threshold for 0 3.1814821301457408
+ClientInterface: Contribution 15 made by Account 4.
+ClientInterface: Evaluation 10 made by Account 5 on Contribution 2 with rating 1.0.
+Threshold for 2 3.1814821301457408
+ClientInterface: Evaluation 11 made by Account 0 on Contribution 3 with rating 1.0.
+Threshold for 3 3.1814821301457408
+ClientInterface: Contribution 16 made by Account 1.
+ClientInterface: Evaluation 12 made by Account 2 on Contribution 1 with rating 0.0.
+Threshold for 1 3.1814821301457408
+ClientInterface: Evaluation 13 made by Account 3 on Contribution 7 with rating 1.0.
+Threshold for 7 3.1814821301457408
+ClientInterface: Evaluation 14 made by Account 4 on Contribution 3 with rating 0.0.
+Threshold for 3 3.1814821301457408
+ClientInterface: Evaluation 15 made by Account 5 on Contribution 6 with rating 1.0.
+Threshold for 6 3.1814821301457408
+ClientInterface: Evaluation 16 made by Account 0 on Contribution 0 with rating 1.0.
+Threshold for 0 3.1814821301457408
+ClientInterface: Contribution 17 made by Account 1.
+ClientInterface: Evaluation 17 made by Account 2 on Contribution 9 with rating 0.0.
+Threshold for 9 3.1814821301457408
+ClientInterface: Evaluation 18 made by Account 3 on Contribution 15 with rating 1.0.
+Threshold for 15 3.1814821301457408
+ClientInterface: Contribution 18 made by Account 4.
+ClientInterface: Contribution 19 made by Account 5.
+ClientInterface: Contribution 20 made by Account 0.
+ClientInterface: Contribution 21 made by Account 1.
+ClientInterface: Contribution 22 made by Account 2.
+ClientInterface: Contribution 23 made by Account 3.
+ClientInterface: Evaluation 19 made by Account 4 on Contribution 7 with rating 0.0.
+Threshold for 7 3.1814821301457408
+ClientInterface: Contribution 24 made by Account 0.
+ClientInterface: Contribution 25 made by Account 1.
+ClientInterface: Contribution 26 made by Account 2.
+ClientInterface: Evaluation 20 made by Account 3 on Contribution 9 with rating 0.0.
+Threshold for 9 3.1814821301457408
+ClientInterface: Evaluation 21 made by Account 5 on Contribution 20 with rating 0.0.
+Threshold for 20 3.1814821301457408
+ClientInterface: Contribution 27 made by Account 0.
+ClientInterface: Evaluation 22 made by Account 2 on Contribution 15 with rating 1.0.
+Threshold for 15 3.1814821301457408
+ClientInterface: Evaluation 23 made by Account 3 on Contribution 15 with rating 1.0.
+Threshold for 15 3.1814821301457408
+ClientInterface: Evaluation 24 made by Account 4 on Contribution 24 with rating 1.0.
+Threshold for 24 3.1814821301457408
+ClientInterface: Contribution 28 made by Account 5.
+Total Contributions: 29
+Accepted Contributions: 0
+Rejected Contributions: 0
+Correct Contributions: 19
+Wrong Contributions: 10
+Total Evaluations: 25

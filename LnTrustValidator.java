@@ -2,6 +2,10 @@ import java.util.*;
 
 public class LnTrustValidator extends Validator{
 
+    public LnTrustValidator(ClientInterface ci){
+        super(ci);
+    }
+
 	public double computeTrustRating(double accepted, double rejected, double total)
     {
         double ret = 0.50; 
