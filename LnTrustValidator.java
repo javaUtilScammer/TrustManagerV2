@@ -20,8 +20,6 @@ public class LnTrustValidator extends Validator{
         double denom = Math.log(active) / Math.log(Math.E); 
         denom = Math.pow(denom,alpha);
         double threshold = active/denom; 
-        
-        System.out.println("Threshold for "+cont.getId()+" "+threshold+", Score: "+score);
         return threshold; 
     }
 

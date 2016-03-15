@@ -65,6 +65,7 @@ public class ClientInterface{
 		Account contributor = accountMap.get(accId); 
 		Contribution co = new Contribution(ind, contributor, rating_scale, crrct);
 		double score = scorer.computeInitialScore(co);
+		co.setContributionScore(score);
 		contributionMap.put(ind, co);
 		active_users.add(contributor);
 		contributor.contributions.add(co);
@@ -101,6 +102,19 @@ public class ClientInterface{
 		c.getContributor().contributions.remove(c);
 		contributionMap.remove(c.getId());
 		for(int i=0; i<c.evaluations.size(); i++){
+			Evaluation eval = c.evaluations.get(i);
+			eval.account.evaluations.remove(eval);
+			evaluationMap.remove(c.evaluations.get(i).getId());
+		}
+	}
+
+	public void removeContribution(int ci){
+		Contribution c = contributionMap.get(ci);
+		c.getContributor().contributions.remove(c);
+		contributionMap.remove(c.getId());
+		for(int i=0; i<c.evaluations.size(); i++){
+			Evaluation eval = c.evaluations.get(i);
+			eval.account.evaluations.remove(eval);
 			evaluationMap.remove(c.evaluations.get(i).getId());
 		}
 	}

@@ -4,7 +4,7 @@ import java.io.*;
 public class TestClient{
 	int goodAccounts, badAccounts, neutAccounts, totalAccounts;
 	int contsAccepted, contsRejected, contsTotal, evalsTotal;
-	int correctVerdict;
+	int correctVerdict, adminConts;
 	int contsCorrect, contsWrong;
 	ArrayList<AccountTest> accs = new ArrayList<AccountTest>();
 	ArrayList<Integer> contIds = new ArrayList<Integer>();
@@ -13,6 +13,7 @@ public class TestClient{
 	int active_user_time, validation_time;
 	String validation_type;
 	ClientInterface intrface;
+	boolean adminAccept = false;
 
 	public static void main(String[] args){
 		new TestClient();
@@ -74,6 +75,7 @@ public class TestClient{
 			contsCorrect = 0;
 			contsWrong = 0;
 			correctVerdict = 0;
+			adminConts = 0;
 		}
 		catch(Exception e){
 			e.printStackTrace();
@@ -153,6 +155,14 @@ public class TestClient{
 	public void removeContribution(int ci){
 		contIds.remove((Integer)ci);
 		contMap.remove(ci);
+	}
+
+	public void adminAccept(int contID){
+		//assumes that cont is "correct"
+		contsAccepted++;
+		adminConts++;
+		removeContribution(contID);
+		intrface.removeContribution(contID);
 	}
 
 	private int randInRange(int min, int max){
