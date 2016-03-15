@@ -45,7 +45,7 @@ public class TestClient{
 			int evaluate = Integer.parseInt(g[1]);
 			int correct = Integer.parseInt(g[2]);
 			for(int i=0; i<goodAccounts; i++){
-				int id = intrface.createAccount();
+				int id = intrface.createAccount("Trustee");
 				accs.add(new AccountTest(id, contribute, evaluate, correct));
 			}
 			badAccounts = Integer.parseInt(in.readLine());
@@ -54,7 +54,7 @@ public class TestClient{
 			evaluate = Integer.parseInt(g[1]);
 			correct = Integer.parseInt(g[2]);
 			for(int i=0; i<badAccounts; i++){
-				int id = intrface.createAccount();
+				int id = intrface.createAccount("Troll");
 				accs.add(new AccountTest(id, contribute, evaluate, correct));
 			}
 			neutAccounts = Integer.parseInt(in.readLine());
@@ -63,7 +63,7 @@ public class TestClient{
 			evaluate = Integer.parseInt(g[1]);
 			correct = Integer.parseInt(g[2]);
 			for(int i=0; i<neutAccounts; i++){
-				int id = intrface.createAccount();
+				int id = intrface.createAccount("Netural");
 				accs.add(new AccountTest(id, contribute, evaluate, correct));
 			}
 			totalAccounts = goodAccounts+badAccounts+neutAccounts;
