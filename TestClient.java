@@ -13,7 +13,7 @@ public class TestClient{
 	int active_user_time, validation_time;
 	String validation_type;
 	ClientInterface intrface;
-	boolean adminAccept = false;
+	boolean adminAccept = !false;
 
 	public static void main(String[] args){
 		new TestClient();
@@ -123,17 +123,28 @@ public class TestClient{
 	    			curAcc.sent.add(id);
 				}
 			}
+			if(adminAccept){
+				if(contIds.size()!=0){	
+					adminConts++;
+					int conID = contIds.get(0);
+					intrface.adminAccept(conID);
+					acceptContribution(conID);
+					System.out.println("Accepts so far: "+(contsAC+contsAI));
+				}
+			}
 		}
 	}
 
 	public void printSummary(){
 		System.out.println("*************");
+		System.out.println(validation_type);
 		System.out.printf("Total Contributions: %d\n", contsTotal);
 		System.out.printf("		 |	Acc	|	Rej |\n", contsTotal);
 		System.out.printf("Correct  |	%d |	%d |\n", contsAC, contsRC);
 		System.out.printf("Wrong    |	%d |	%d |\n", contsAI, contsRI);
 		System.out.printf("Total Evaluations: %d\n", evalsTotal);
 		System.out.printf("Correct Verdicts: %d\n", correctVerdict);
+		if(adminAccept) System.out.printf("Admin Accepts: %d\n", adminConts);
 	}
 
 	public void acceptContribution(int ci){
