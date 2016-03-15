@@ -75,7 +75,7 @@ public class LnTrustValidator extends Validator{
             user.setTrustConfidence(newTrust); 
             return 0; 
         }
-        else if(score<-threshold) return 1; //reject immediately
+        else if(score<-(threshold/2)) return 1; //reject immediately
         else return 2; //can still be evaluated
     }
 }

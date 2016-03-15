@@ -58,6 +58,7 @@ public class LnTrustScorer extends Scorer{
         Account contributor = cont.getContributor();
         // System.out.println(active+" "+denom+" "+threshold+" "+alpha);
         System.out.println("Threshold: " + threshold + " Trust: " + contributor.getTrustRating()  + " Confidence: " + contributor.getTrustConfidence());
-        return threshold * contributor.getTrustRating() * contributor.getTrustConfidence(); 
+        double initScore = threshold * contributor.getTrustRating() * contributor.getTrustConfidence(); 
+        return Math.min(0.90*threshold, initScore); 
     }
 }

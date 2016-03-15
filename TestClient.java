@@ -3,9 +3,9 @@ import java.io.*;
 
 public class TestClient{
 	int goodAccounts, badAccounts, neutAccounts, totalAccounts;
-	int contsAccepted, contsRejected, contsTotal, evalsTotal;
+	int contsTotal, evalsTotal;
 	int correctVerdict, adminConts;
-	int contsCorrect, contsWrong;
+	int contsAC, contsRC, contsAI, contsRI;
 	ArrayList<AccountTest> accs = new ArrayList<AccountTest>();
 	ArrayList<Integer> contIds = new ArrayList<Integer>();
 	HashMap<Integer, ContributionTest> contMap = new HashMap<Integer,ContributionTest>();
@@ -68,12 +68,12 @@ public class TestClient{
 				accs.add(new AccountTest(id, contribute, evaluate, correct));
 			}
 			totalAccounts = goodAccounts+badAccounts+neutAccounts;
-			contsAccepted = 0;
-			contsRejected = 0;
+			contsAC = 0;
+			contsRC = 0;
+			contsAI = 0;
+			contsRI = 0;
 			contsTotal = 0;
 			evalsTotal = 0;
-			contsCorrect = 0;
-			contsWrong = 0;
 			correctVerdict = 0;
 			adminConts = 0;
 		}
@@ -94,8 +94,8 @@ public class TestClient{
 					// accs.get(i).contributions.add(ind);
 					contIds.add(ind);
 					contsTotal++;
-					if(crrct) contsCorrect++;
-					else contsWrong++;
+					// if(crrct) contsCorrect++;
+					// else contsWrong++;
 					contMap.put(ind,new ContributionTest(ind, i, crrct));
 				}
 				else if(roll==2){
@@ -129,24 +129,29 @@ public class TestClient{
 	public void printSummary(){
 		System.out.println("*************");
 		System.out.printf("Total Contributions: %d\n", contsTotal);
-		System.out.printf("Accepted Contributions: %d\n", contsAccepted);
-		System.out.printf("Rejected Contributions: %d\n", contsRejected);
-		System.out.printf("Correct Contributions: %d\n", contsCorrect);
-		System.out.printf("Wrong Contributions: %d\n", contsWrong);
+		System.out.printf("		 |	Acc	|	Rej |\n", contsTotal);
+		System.out.printf("Correct  |	%d |	%d |\n", contsAC, contsRC);
+		System.out.printf("Wrong    |	%d |	%d |\n", contsAI, contsRI);
 		System.out.printf("Total Evaluations: %d\n", evalsTotal);
 		System.out.printf("Correct Verdicts: %d\n", correctVerdict);
 	}
 
 	public void acceptContribution(int ci){
-		contsAccepted++;
-		if(contMap.get(ci).correct) correctVerdict++;
+		if(contMap.get(ci).correct){
+			correctVerdict++;
+			contsAC++;
+		}
+		else contsAI++;
 		removeContribution(ci);
 	}
 
 	public void rejectContribution(int ci){
-		contsRejected++;
 		try{	
-			if(!contMap.get(ci).correct) correctVerdict++;
+			if(!contMap.get(ci).correct){
+				correctVerdict++;
+				contsRC++;
+			}
+			else contsRI++;
 		}
 		catch(Exception e){e.printStackTrace();System.out.println("huehue");}
 		removeContribution(ci);
@@ -159,7 +164,7 @@ public class TestClient{
 
 	public void adminAccept(int contID){
 		//assumes that cont is "correct"
-		contsAccepted++;
+		// contsAccepted++;
 		adminConts++;
 		removeContribution(contID);
 		intrface.removeContribution(contID);
