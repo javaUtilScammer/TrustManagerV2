@@ -119,26 +119,6 @@ public class TestClient{
 	    			int ind2 = intrface.createEvaluation(i,id,score);
 					evalsTotal++;
 	    			curAcc.sent.add(id);
-
-					// boolean crrct = RNG(curAcc.chance_Correct);
-					// int n = contIds.size();
-					// if(n==0) continue;
-					// int id = contIds.get(pickRandomID(n));
-	    // 			ContributionTest cont = contMap.get(id);
-	    // 			while(true){
-	    // 				if(cont.account_id!=i) break;
-	    // 				if(!curAcc.sent.contains(id)) break;
-	    // 				id = contIds.get(pickRandomID(n));
-	    // 				cont = contMap.get(id);
-	    // 			}
-	    // 			boolean correct = RNG(curAcc.chance_Correct);
-	    // 			double score = 1.0;
-	    // 			if(correct^cont.correct) score = 0.0;
-	    // 			int ind = intrface.createEvaluation(i,id,score);
-	    // 			// EvaluationTest eval = new EvaluationJSON(i, id, score);
-	    // 			// eval.id = Integer.parseInt(post(gson.toJson(eval)));
-	    // 			evalsTotal++;
-	    // 			curAcc.sent.add(id);
 				}
 			}
 		}

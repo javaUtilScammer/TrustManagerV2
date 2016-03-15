@@ -15,13 +15,14 @@ public class LnTrustValidator extends Validator{
     }
 
 
-	public boolean validate(Contribution cont)
+	public int validate(Contribution cont)
     {
         double score = cont.getContributionScore(); 
         double active = Math.max(intrface.getActiveCount(),5);
         double denom = Math.log(active) / Math.log(Math.E); 
         denom = Math.pow(denom,alpha);
         double threshold = active/denom; 
+        
         System.out.println("Threshold for "+cont.getId()+" "+threshold+", Score: "+score);
         //If accepted, modify the scores of Evaluators that Evaluated this accepted function
         if(score>=threshold)
@@ -67,7 +68,9 @@ public class LnTrustValidator extends Validator{
             user.incTotal(user.getTotal()+1);
             double newTrust = computeTrustRating(user.getAccepted(), user.getRejected(), user.getTotal()); 
             user.setTrustConfidence(newTrust); 
-            return true; 
-        }else return false; 
+            return 0; 
+        }
+        else if(score<-threshold) return 1; //reject immediately
+        else return 2; //can still be evaluated
     }
 }

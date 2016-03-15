@@ -45,9 +45,10 @@ public class ClientInterface{
 
 	public void checkContribution(Contribution cont){
 		// scorer.calculateScore(ev,cont);
-		boolean decision = validator.validate(cont);
-		if(decision) client.acceptContribution(cont.getId());
+		int decision = validator.validate(cont);
+		if(decision==0) client.acceptContribution(cont.getId());
 		else client.rejectContribution(cont.getId());
+		removeContribution(cont);
 	}
 
 	public int createAccount(){
@@ -76,14 +77,18 @@ public class ClientInterface{
 		Account evaluator = accountMap.get(accId); 
 		Contribution cont = contributionMap.get(contId); 
 		Evaluation ev = new Evaluation(ind, evaluator, cont, rating);
-		evaluationMap.put(ind, ev);
-		cont.evaluations.add(ev);
 		active_users.add(evaluator);
 		System.out.println("ClientInterface: Evaluation "+ind+" made by Account "+accId+" on Contribution "+contId+" with rating "+rating+".");
 		scorer.calculateScore(ev,cont);
-		boolean decision = validator.validate(cont);
-		if(decision) {
+		cont.evaluations.add(ev);
+		evaluationMap.put(ind, ev);
+		int decision = validator.validate(cont);
+		if(decision==0){
 			client.acceptContribution(contId);
+			cont.state = 1;
+		}
+		else if(decision==1){
+			client.rejectContribution(contId);
 			cont.state = 1;
 		}
 		return nextEvalId++;
