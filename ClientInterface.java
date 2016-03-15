@@ -15,6 +15,7 @@ public class ClientInterface{
 	Validator validator;
 	TestClient client;
 	HashSet<Account> active_users;
+	boolean logging = false;
 
 	public ClientInterface(double rs, double a, double b, int aut, int vt, String type, TestClient cl){
 		accountMap = new HashMap<Integer, Account>();
@@ -55,7 +56,7 @@ public class ClientInterface{
 		int ind = nextAccId;
 		Account ac = new Account(ind, rating_scale);
 		accountMap.put(ind, ac);
-		System.out.println("ClientInterface: Account "+ind+" made.");
+		if(logging) System.out.println("ClientInterface: Account "+ind+" made.");
 		return nextAccId++;
 	}
 
@@ -68,7 +69,7 @@ public class ClientInterface{
 		active_users.add(contributor);
 		contributor.contributions.add(co);
 		addTimerTask(co);
-		System.out.println("ClientInterface: Contribution "+ind+" made by Account "+accId+".");
+		if(logging) System.out.println("ClientInterface: Contribution "+ind+" made by Account "+accId+".");
 		return nextContId++;
 	}
 
@@ -78,7 +79,7 @@ public class ClientInterface{
 		Contribution cont = contributionMap.get(contId); 
 		Evaluation ev = new Evaluation(ind, evaluator, cont, rating);
 		active_users.add(evaluator);
-		System.out.println("ClientInterface: Evaluation "+ind+" made by Account "+accId+" on Contribution "+contId+" with rating "+rating+".");
+		if(logging) System.out.println("ClientInterface: Evaluation "+ind+" made by Account "+accId+" on Contribution "+contId+" with rating "+rating+".");
 		scorer.calculateScore(ev,cont);
 		cont.evaluations.add(ev);
 		evaluationMap.put(ind, ev);
@@ -86,9 +87,11 @@ public class ClientInterface{
 		if(decision==0){
 			client.acceptContribution(contId);
 			cont.state = 1;
+			removeContribution(cont);
 		}
 		else if(decision==1){
 			client.rejectContribution(contId);
+			removeContribution(cont);
 			cont.state = 1;
 		}
 		return nextEvalId++;

@@ -143,7 +143,10 @@ public class TestClient{
 
 	public void rejectContribution(int ci){
 		contsRejected++;
-		if(!contMap.get(ci).correct) correctVerdict++;
+		try{	
+			if(!contMap.get(ci).correct) correctVerdict++;
+		}
+		catch(Exception e){e.printStackTrace();System.out.println("huehue");}
 		removeContribution(ci);
 	}
 

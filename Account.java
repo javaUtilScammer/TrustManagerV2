@@ -84,7 +84,13 @@ public class Account extends Component{
 		for(int i=0; i<contributions.size();i++){
 			Contribution c = contributions.get(i);
 			if(c==null) System.out.println("LOL WUUUT");
-			temp+=c.getNumEv();
+			try{	
+				temp+=c.getNumEv();
+			}
+			catch(Exception e){
+				e.printStackTrace();
+				System.out.println("PLLLLLLSSSS");
+			}
 		}
 		return temp;
 	}

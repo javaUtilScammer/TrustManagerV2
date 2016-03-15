@@ -37,6 +37,7 @@ public class Contribution extends Component{
 
 	public int getNumEv()
 	{
+		if(evaluations==null) System.out.println("WEIRRRD");
 		return evaluations.size();
 	}
 
