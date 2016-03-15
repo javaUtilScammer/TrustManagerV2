@@ -52,9 +52,9 @@ public class ClientInterface{
 		removeContribution(cont);
 	}
 
-	public int createAccount(){
+	public int createAccount(String kind){
 		int ind = nextAccId;
-		Account ac = new Account(ind, 0.5);
+		Account ac = new Account(ind, 0.5, kind);
 		accountMap.put(ind, ac);
 		if(logging) System.out.println("ClientInterface: Account "+ind+" made.");
 		return nextAccId++;

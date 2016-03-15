@@ -52,7 +52,7 @@ public class LnTrustScorer extends Scorer{
     	double active = Math.max(intrface.getActiveCount(),5);
         double denom = Math.log(active) / Math.log(Math.E); 
         denom = Math.pow(denom,alpha);
-        double threshold = active/denom; 
+        double threshold = active/denom;
         
         //score is a percentage of the threshold based on trust rating of contributor
         Account contributor = cont.getContributor();

@@ -4,9 +4,10 @@ public class Account extends Component{
 	ArrayList<Contribution> contributions;
     ArrayList<Evaluation> evaluations;
 	double rating, confidence, cacc, crej, ctotal;
+	String kind; 
 	int num_ev;
 
-	public Account(int id, double rat){
+	public Account(int id, double rat, String kind){
 		this.id = id;
 		contributions = new ArrayList<Contribution>();
 		evaluations = new ArrayList<Evaluation>();
@@ -17,6 +18,7 @@ public class Account extends Component{
 		crej = 0;
 		ctotal = 0;
 		timeCreated = System.currentTimeMillis();
+		this.kind = kind; 
 	}
 
 	public double getTrustRating()
