@@ -49,9 +49,10 @@ public class RankTrustScorer extends Scorer{
     	for(int i=0; i<Na; i++) vec[i] = accList.get(i).getTrustRating();
     	for(int i=0; i<30; i++){
     		double[] vec2 = matrixMult(T,vec);
-    		// System.out.println(i+" "+Arrays.toString(vec2));
-    		vec = vec2;	
-    	}
+            // System.out.println(i+" "+Arrays.toString(vec2));
+            vec = vec2; 
+        }
+    	// System.out.println(Arrays.toString(vec));
     	for(int i=0; i<Na; i++){
     		Account acc = accList.get(i);
     		acc.setTrustRating(vec[i]);
@@ -106,7 +107,7 @@ public class RankTrustScorer extends Scorer{
                 }
                 if(n!=0) for(int o=0; o<Na; o++) T[i][o]/=n;
             }
-            T[conList.indexOf(cont)][Na] = 1.0;
+            T[conList.indexOf(cont)][Na] = (double) conList.size();
             double[] vec = new double[Na+1];
             for(int i=0; i<Na; i++) vec[i] = accList.get(i).getTrustRating();
             vec[Na] = rating_scale;

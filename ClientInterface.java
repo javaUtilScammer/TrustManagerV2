@@ -119,6 +119,19 @@ public class ClientInterface{
 		}
 	}
 
+	public void adminAccept(int ci){
+		scorer.adminAccept(contributionMap.get(ci));
+		Contribution c = contributionMap.get(ci);
+		c.state = 1;
+		c.getContributor().contributions.remove(c);
+		contributionMap.remove(c.getId());
+		for(int i=0; i<c.evaluations.size(); i++){
+			Evaluation eval = c.evaluations.get(i);
+			eval.account.evaluations.remove(eval);
+			evaluationMap.remove(c.evaluations.get(i).getId());
+		}
+	}
+
 	public void addTimerTask(Contribution c){
         timer.schedule(new ExpiryCheckerTask(c,this),validation_time*1000);
     }

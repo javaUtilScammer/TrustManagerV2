@@ -84,6 +84,7 @@ public class TestClient{
 
 	public void simulate(){
 		for(int o=0; o<1000; o++){
+			if(adminAccept) adminAccept();
 			for(int i=0; i<totalAccounts; i++){
 				AccountTest curAcc = accs.get(i);
 				int roll = curAcc.move();
@@ -123,27 +124,31 @@ public class TestClient{
 	    			curAcc.sent.add(id);
 				}
 			}
-			if(adminAccept){
-				if(contIds.size()!=0){	
-					adminConts++;
-					int conID = contIds.get(0);
-					intrface.adminAccept(conID);
-					acceptContribution(conID);
-					System.out.println("Accepts so far: "+(contsAC+contsAI));
-				}
-			}
+			if(adminAccept) adminAccept();
+		}
+	}
+
+	public void adminAccept(){
+		if(contIds.size()!=0){	
+			adminConts++;
+			int conID = contIds.get(0);
+			intrface.adminAccept(conID);
+			acceptContribution(conID);
+			System.out.println("Accepts so far: "+(contsAC+contsAI));
 		}
 	}
 
 	public void printSummary(){
 		System.out.println("*************");
 		System.out.println(validation_type);
-		System.out.printf("Total Contributions: %d\n", contsTotal);
-		System.out.printf("		 |	Acc	|	Rej |\n", contsTotal);
+		System.out.printf("		 |	Acc	|	Rej |\n");
 		System.out.printf("Correct  |	%d |	%d |\n", contsAC, contsRC);
 		System.out.printf("Wrong    |	%d |	%d |\n", contsAI, contsRI);
 		System.out.printf("Total Evaluations: %d\n", evalsTotal);
+		System.out.printf("Total Contributions: %d\n", contsTotal);
 		System.out.printf("Correct Verdicts: %d\n", correctVerdict);
+		double percent = 100.0*((correctVerdict+0.0)/contsTotal);
+		System.out.printf("Percent Correct: %.4f\n", percent);
 		if(adminAccept) System.out.printf("Admin Accepts: %d\n", adminConts);
 	}
 
