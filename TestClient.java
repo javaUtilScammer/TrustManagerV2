@@ -23,7 +23,7 @@ public class TestClient{
 		readInput();
 		simulate();
 		try{
-			Thread.sleep(11000);
+			Thread.sleep(validation_time * 1000 + 500);
 		}
 		catch(Exception e){e.printStackTrace();}
 		printSummary();
@@ -129,11 +129,16 @@ public class TestClient{
 	public void printSummary(){
 		System.out.println("*************");
 		System.out.printf("Total Contributions: %d\n", contsTotal);
-		System.out.printf("		 |	Acc	|	Rej |\n", contsTotal);
-		System.out.printf("Correct  |	%d |	%d |\n", contsAC, contsRC);
-		System.out.printf("Wrong    |	%d |	%d |\n", contsAI, contsRI);
+		System.out.printf("%10s|%6s|%6s|\n", "Class", "Acc", "Rej");
+		System.out.printf("%10s|%6d|%6d|\n", "Correct", contsAC, contsRC);
+		System.out.printf("%10s|%6d|%6d|\n", "Incorrect",contsAI, contsRI);
 		System.out.printf("Total Evaluations: %d\n", evalsTotal);
 		System.out.printf("Correct Verdicts: %d\n", correctVerdict);
+
+		double per_cor = ((contsAC+contsRI)/(double)contsTotal)*100;
+		double per_wrong = ((contsAI+contsRC)/(double)contsTotal)*100;
+		System.out.printf("Percent Correct: %.2f\n",per_cor);
+		System.out.printf("Percent Incorrect: %.2f\n",per_wrong);
 	}
 
 	public void acceptContribution(int ci){
