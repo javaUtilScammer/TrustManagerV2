@@ -32,13 +32,17 @@ public class LnTrustScorer extends Scorer{
         Account contributor = cont.getContributor(); 
 
         double conf = contributor.getTrustConfidence(); 
-        double active = intrface.getActiveCount();
-        double num = Math.log(intrface.getMval())/Math.log(Math.E); 
+        double active = Math.max(5,intrface.getActiveCount());
+        double mval = Math.max(intrface.getMval(),2);
+        double num = Math.log(mval)/Math.log(Math.E); 
+
+        System.out.println(         "NUMMMMMMMMM: " + num);
         num = Math.pow(num,beta); 
         num/=active; 
         num*=contributor.getNumEv(); 
         conf = Math.min(1, 0.50 + 0.50*num );
-                    
+        
+        System.out.println("                 LOOK Confidence Old / New: " + contributor.getTrustConfidence() + " " + conf);
         contributor.setTrustConfidence(conf); 
 	}
 

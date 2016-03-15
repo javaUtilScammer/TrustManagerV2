@@ -72,7 +72,7 @@ public class LnTrustValidator extends Validator{
             user.incAccepted(user.getAccepted()+1); 
             user.incTotal(user.getTotal()+1);
             double newTrust = computeTrustRating(user.getAccepted(), user.getRejected(), user.getTotal()); 
-            user.setTrustConfidence(newTrust); 
+            user.setTrustRating(newTrust); 
             return 0; 
         }
         else if(score<-(threshold/2)) return 1; //reject immediately
