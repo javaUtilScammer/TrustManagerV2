@@ -6,13 +6,15 @@ public class Contribution extends Component{
 	ArrayList<Evaluation> evaluations;
 	ArrayList<Contribution> contributions;
 	int state = 0;
+	boolean crrct; 
 
-	public Contribution(int id, Account acc, double sc){
+	public Contribution(int id, Account acc, double sc, boolean crrct){
 		this.id = id;
 		account = acc;
 		score = sc;
 		evaluations = new ArrayList<Evaluation>();
 		timeCreated = System.currentTimeMillis();
+		this.crrct = crrct;
 	}
 
 	public int getId()

@@ -54,16 +54,16 @@ public class ClientInterface{
 
 	public int createAccount(){
 		int ind = nextAccId;
-		Account ac = new Account(ind, rating_scale);
+		Account ac = new Account(ind, 0.5);
 		accountMap.put(ind, ac);
 		if(logging) System.out.println("ClientInterface: Account "+ind+" made.");
 		return nextAccId++;
 	}
 
-	public int createContribution(int accId){
+	public int createContribution(int accId,boolean crrct){
 		int ind = nextContId;
 		Account contributor = accountMap.get(accId); 
-		Contribution co = new Contribution(ind, contributor, rating_scale);
+		Contribution co = new Contribution(ind, contributor, rating_scale, crrct);
 		double score = scorer.computeInitialScore(co);
 		contributionMap.put(ind, co);
 		active_users.add(contributor);
@@ -111,7 +111,7 @@ public class ClientInterface{
 
 	public int getActiveCount()
 	{
-		return active; 
+		return active_users.size(); 
 	}
 
 	public double getRatingScale()

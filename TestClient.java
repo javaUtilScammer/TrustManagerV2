@@ -88,7 +88,7 @@ public class TestClient{
 				if(roll==0) continue;
 				else if(roll==1){
 					boolean crrct = RNG(curAcc.chance_Correct);
-					int ind = intrface.createContribution(curAcc.id);
+					int ind = intrface.createContribution(curAcc.id,crrct);
 					// accs.get(i).contributions.add(ind);
 					contIds.add(ind);
 					contsTotal++;

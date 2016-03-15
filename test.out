@@ -1,0 +1,2123 @@
+ClientInterface: Account 0 made.
+ClientInterface: Account 1 made.
+ClientInterface: Account 2 made.
+ClientInterface: Account 3 made.
+ClientInterface: Account 4 made.
+ClientInterface: Account 5 made.
+ClientInterface: Account 6 made.
+ClientInterface: Account 7 made.
+ClientInterface: Account 8 made.
+ClientInterface: Account 9 made.
+ClientInterface: Account 10 made.
+ClientInterface: Account 11 made.
+ClientInterface: Account 12 made.
+ClientInterface: Account 13 made.
+ClientInterface: Account 14 made.
+ClientInterface: Account 15 made.
+ClientInterface: Account 16 made.
+ClientInterface: Account 17 made.
+ClientInterface: Account 18 made.
+ClientInterface: Account 19 made.
+ClientInterface: Account 20 made.
+ClientInterface: Account 21 made.
+ClientInterface: Account 22 made.
+ClientInterface: Account 23 made.
+ClientInterface: Account 24 made.
+ClientInterface: Account 25 made.
+ClientInterface: Account 26 made.
+ClientInterface: Account 27 made.
+ClientInterface: Account 28 made.
+ClientInterface: Account 29 made.
+ClientInterface: Account 30 made.
+ClientInterface: Account 31 made.
+ClientInterface: Account 32 made.
+ClientInterface: Account 33 made.
+ClientInterface: Account 34 made.
+ClientInterface: Account 35 made.
+ClientInterface: Account 36 made.
+ClientInterface: Account 37 made.
+ClientInterface: Account 38 made.
+ClientInterface: Account 39 made.
+ClientInterface: Account 40 made.
+ClientInterface: Account 41 made.
+ClientInterface: Account 42 made.
+ClientInterface: Account 43 made.
+ClientInterface: Account 44 made.
+ClientInterface: Account 45 made.
+ClientInterface: Account 46 made.
+ClientInterface: Account 47 made.
+ClientInterface: Account 48 made.
+ClientInterface: Account 49 made.
+ClientInterface: Account 50 made.
+ClientInterface: Account 51 made.
+ClientInterface: Account 52 made.
+ClientInterface: Account 53 made.
+ClientInterface: Account 54 made.
+ClientInterface: Account 55 made.
+ClientInterface: Account 56 made.
+ClientInterface: Account 57 made.
+ClientInterface: Account 58 made.
+ClientInterface: Account 59 made.
+ClientInterface: Account 60 made.
+ClientInterface: Account 61 made.
+ClientInterface: Account 62 made.
+ClientInterface: Account 63 made.
+ClientInterface: Account 64 made.
+ClientInterface: Account 65 made.
+ClientInterface: Account 66 made.
+ClientInterface: Account 67 made.
+ClientInterface: Account 68 made.
+ClientInterface: Account 69 made.
+ClientInterface: Account 70 made.
+ClientInterface: Account 71 made.
+ClientInterface: Account 72 made.
+ClientInterface: Account 73 made.
+ClientInterface: Account 74 made.
+ClientInterface: Account 75 made.
+ClientInterface: Account 76 made.
+ClientInterface: Account 77 made.
+ClientInterface: Account 78 made.
+ClientInterface: Account 79 made.
+ClientInterface: Account 80 made.
+ClientInterface: Account 81 made.
+ClientInterface: Account 82 made.
+ClientInterface: Account 83 made.
+ClientInterface: Account 84 made.
+ClientInterface: Account 85 made.
+ClientInterface: Account 86 made.
+ClientInterface: Account 87 made.
+ClientInterface: Account 88 made.
+ClientInterface: Account 89 made.
+ClientInterface: Account 90 made.
+ClientInterface: Account 91 made.
+ClientInterface: Account 92 made.
+ClientInterface: Account 93 made.
+ClientInterface: Account 94 made.
+ClientInterface: Account 95 made.
+ClientInterface: Account 96 made.
+ClientInterface: Account 97 made.
+ClientInterface: Account 98 made.
+ClientInterface: Account 99 made.
+ClientInterface: Account 100 made.
+ClientInterface: Account 101 made.
+ClientInterface: Account 102 made.
+ClientInterface: Account 103 made.
+ClientInterface: Account 104 made.
+ClientInterface: Account 105 made.
+ClientInterface: Account 106 made.
+ClientInterface: Account 107 made.
+ClientInterface: Account 108 made.
+ClientInterface: Account 109 made.
+ClientInterface: Account 110 made.
+ClientInterface: Account 111 made.
+ClientInterface: Account 112 made.
+ClientInterface: Account 113 made.
+ClientInterface: Account 114 made.
+ClientInterface: Account 115 made.
+ClientInterface: Account 116 made.
+ClientInterface: Account 117 made.
+ClientInterface: Account 118 made.
+ClientInterface: Account 119 made.
+ClientInterface: Contribution 0 made by Account 13.
+ClientInterface: Evaluation 0 made by Account 14, Trust Score: 0.5 on Contribution 0 with rating 1.0.
+Threshold for 0 2.8246258632540453 Score: 1.5 Correct: true
+ClientInterface: Evaluation 1 made by Account 15, Trust Score: 0.5 on Contribution 0 with rating 1.0.
+Threshold for 0 2.8246258632540453 Score: 2.0 Correct: true
+ClientInterface: Evaluation 2 made by Account 16, Trust Score: 0.5 on Contribution 0 with rating 1.0.
+Threshold for 0 2.8246258632540453 Score: 2.5 Correct: true
+ClientInterface: Evaluation 3 made by Account 17, Trust Score: 0.5 on Contribution 0 with rating 1.0.
+Threshold for 0 2.8246258632540453 Score: 3.0 Correct: true
+ClientInterface: Contribution 1 made by Account 20.
+ClientInterface: Evaluation 4 made by Account 21, Trust Score: 0.5 on Contribution 1 with rating 0.0.
+Threshold for 1 3.1488407724553786 Score: 0.5 Correct: true
+ClientInterface: Evaluation 5 made by Account 22, Trust Score: 0.5 on Contribution 1 with rating 1.0.
+Threshold for 1 3.3231804790368287 Score: 1.0 Correct: true
+ClientInterface: Evaluation 6 made by Account 24, Trust Score: 0.5 on Contribution 1 with rating 0.0.
+Threshold for 1 3.4993966486117505 Score: 0.5 Correct: true
+ClientInterface: Evaluation 7 made by Account 27, Trust Score: 0.5 on Contribution 1 with rating 1.0.
+Threshold for 1 3.6757094391344 Score: 1.0 Correct: true
+ClientInterface: Evaluation 8 made by Account 28, Trust Score: 0.5 on Contribution 1 with rating 0.0.
+Threshold for 1 3.851203178178206 Score: 0.5 Correct: true
+ClientInterface: Evaluation 9 made by Account 29, Trust Score: 0.5 on Contribution 1 with rating 1.0.
+Threshold for 1 4.02540101816407 Score: 1.0 Correct: true
+ClientInterface: Evaluation 10 made by Account 30, Trust Score: 0.5 on Contribution 1 with rating 1.0.
+Threshold for 1 4.198061519476554 Score: 1.5 Correct: true
+ClientInterface: Evaluation 11 made by Account 31, Trust Score: 0.5 on Contribution 1 with rating 1.0.
+Threshold for 1 4.369074457626685 Score: 2.0 Correct: true
+ClientInterface: Evaluation 12 made by Account 32, Trust Score: 0.5 on Contribution 1 with rating 1.0.
+Threshold for 1 4.5384045498858665 Score: 2.5 Correct: true
+ClientInterface: Contribution 2 made by Account 34.
+ClientInterface: Evaluation 13 made by Account 35, Trust Score: 0.5 on Contribution 1 with rating 1.0.
+Threshold for 1 4.872073002199729 Score: 3.0 Correct: true
+ClientInterface: Evaluation 14 made by Account 36, Trust Score: 0.5 on Contribution 1 with rating 1.0.
+Threshold for 1 5.036490963185154 Score: 3.5 Correct: true
+ClientInterface: Evaluation 15 made by Account 37, Trust Score: 0.5 on Contribution 1 with rating 1.0.
+Threshold for 1 5.199367688040509 Score: 4.0 Correct: true
+ClientInterface: Contribution 3 made by Account 38.
+ClientInterface: Evaluation 16 made by Account 39, Trust Score: 0.5 on Contribution 1 with rating 1.0.
+Threshold for 1 5.5207271018902695 Score: 4.5 Correct: true
+ClientInterface: Evaluation 17 made by Account 40, Trust Score: 0.5 on Contribution 1 with rating 1.0.
+Threshold for 1 5.679324935489251 Score: 5.0 Correct: true
+ClientInterface: Evaluation 18 made by Account 41, Trust Score: 0.5 on Contribution 1 with rating 1.0.
+Threshold for 1 5.836609413600299 Score: 5.5 Correct: true
+ClientInterface: Evaluation 19 made by Account 43, Trust Score: 0.5 on Contribution 1 with rating 1.0.
+Threshold for 1 5.9926338459818576 Score: 6.0 Correct: true
+ClientInterface: Evaluation 20 made by Account 44, Trust Score: 0.5 on Contribution 2 with rating 1.0.
+Threshold for 2 6.147449090891525 Score: 1.5 Correct: true
+ClientInterface: Evaluation 21 made by Account 45, Trust Score: 0.5 on Contribution 2 with rating 0.0.
+Threshold for 2 6.30110345123568 Score: 1.0 Correct: true
+ClientInterface: Contribution 4 made by Account 46.
+ClientInterface: Evaluation 22 made by Account 47, Trust Score: 0.5 on Contribution 2 with rating 1.0.
+Threshold for 2 6.605109988507276 Score: 1.5 Correct: true
+ClientInterface: Evaluation 23 made by Account 48, Trust Score: 0.5 on Contribution 2 with rating 1.0.
+Threshold for 2 6.755546238669681 Score: 2.0 Correct: true
+ClientInterface: Contribution 5 made by Account 49.
+ClientInterface: Evaluation 24 made by Account 50, Trust Score: 0.5 on Contribution 2 with rating 1.0.
+Threshold for 2 7.0534775229385085 Score: 2.5 Correct: true
+ClientInterface: Evaluation 25 made by Account 51, Trust Score: 0.5 on Contribution 2 with rating 1.0.
+Threshold for 2 7.201043258769774 Score: 3.0 Correct: true
+ClientInterface: Evaluation 26 made by Account 52, Trust Score: 0.5 on Contribution 2 with rating 1.0.
+Threshold for 2 7.347719585275441 Score: 3.5 Correct: true
+ClientInterface: Evaluation 27 made by Account 54, Trust Score: 0.5 on Contribution 2 with rating 1.0.
+Threshold for 2 7.493537130670458 Score: 4.0 Correct: true
+ClientInterface: Evaluation 28 made by Account 55, Trust Score: 0.5 on Contribution 2 with rating 1.0.
+Threshold for 2 7.638524851138924 Score: 4.5 Correct: true
+ClientInterface: Evaluation 29 made by Account 58, Trust Score: 0.5 on Contribution 2 with rating 0.0.
+Threshold for 2 7.78271014209921 Score: 4.0 Correct: true
+ClientInterface: Evaluation 30 made by Account 59, Trust Score: 0.5 on Contribution 2 with rating 1.0.
+Threshold for 2 7.926118942655464 Score: 4.5 Correct: true
+ClientInterface: Evaluation 31 made by Account 60, Trust Score: 0.5 on Contribution 2 with rating 1.0.
+Threshold for 2 8.068775833159538 Score: 5.0 Correct: true
+ClientInterface: Evaluation 32 made by Account 62, Trust Score: 0.5 on Contribution 2 with rating 0.0.
+Threshold for 2 8.210704126013948 Score: 4.5 Correct: true
+ClientInterface: Evaluation 33 made by Account 65, Trust Score: 0.5 on Contribution 2 with rating 1.0.
+Threshold for 2 8.351925949974282 Score: 5.0 Correct: true
+ClientInterface: Evaluation 34 made by Account 67, Trust Score: 0.5 on Contribution 2 with rating 1.0.
+Threshold for 2 8.492462328284523 Score: 5.5 Correct: true
+ClientInterface: Evaluation 35 made by Account 68, Trust Score: 0.5 on Contribution 2 with rating 1.0.
+Threshold for 2 8.632333251017542 Score: 6.0 Correct: true
+ClientInterface: Evaluation 36 made by Account 69, Trust Score: 0.5 on Contribution 2 with rating 1.0.
+Threshold for 2 8.771557742008127 Score: 6.5 Correct: true
+ClientInterface: Evaluation 37 made by Account 70, Trust Score: 0.5 on Contribution 2 with rating 1.0.
+Threshold for 2 8.910153920765186 Score: 7.0 Correct: true
+ClientInterface: Evaluation 38 made by Account 71, Trust Score: 0.5 on Contribution 2 with rating 1.0.
+Threshold for 2 9.048139059738974 Score: 7.5 Correct: true
+ClientInterface: Evaluation 39 made by Account 72, Trust Score: 0.5 on Contribution 2 with rating 1.0.
+Threshold for 2 9.1855296373022 Score: 8.0 Correct: true
+ClientInterface: Evaluation 40 made by Account 73, Trust Score: 0.5 on Contribution 2 with rating 1.0.
+Threshold for 2 9.322341386783464 Score: 8.5 Correct: true
+ClientInterface: Evaluation 41 made by Account 74, Trust Score: 0.5 on Contribution 2 with rating 1.0.
+Threshold for 2 9.458589341869226 Score: 9.0 Correct: true
+ClientInterface: Contribution 6 made by Account 75.
+ClientInterface: Evaluation 42 made by Account 76, Trust Score: 0.5 on Contribution 2 with rating 1.0.
+Threshold for 2 9.72945075470733 Score: 9.5 Correct: true
+ClientInterface: Evaluation 43 made by Account 78, Trust Score: 0.5 on Contribution 2 with rating 1.0.
+Threshold for 2 9.864091145115038 Score: 10.0 Correct: true
+ClientInterface: Evaluation 44 made by Account 79, Trust Score: 0.5 on Contribution 3 with rating 1.0.
+Threshold for 3 9.998221676210871 Score: 1.5 Correct: true
+ClientInterface: Evaluation 45 made by Account 81, Trust Score: 0.5 on Contribution 3 with rating 0.0.
+Threshold for 3 10.131854456721587 Score: 1.0 Correct: true
+ClientInterface: Evaluation 46 made by Account 83, Trust Score: 0.5 on Contribution 3 with rating 0.0.
+Threshold for 3 10.265001106809798 Score: 0.5 Correct: true
+ClientInterface: Evaluation 47 made by Account 84, Trust Score: 0.5 on Contribution 3 with rating 0.0.
+Threshold for 3 10.397672785092892 Score: 0.0 Correct: true
+ClientInterface: Evaluation 48 made by Account 85, Trust Score: 0.5 on Contribution 3 with rating 0.0.
+Threshold for 3 10.529880213812413 Score: -0.5 Correct: true
+ClientInterface: Evaluation 49 made by Account 87, Trust Score: 0.5 on Contribution 3 with rating 0.0.
+Threshold for 3 10.661633702300573 Score: -1.0 Correct: true
+ClientInterface: Contribution 7 made by Account 88.
+ClientInterface: Evaluation 50 made by Account 89, Trust Score: 0.5 on Contribution 3 with rating 0.0.
+Threshold for 3 10.923818161303403 Score: -1.5 Correct: true
+ClientInterface: Evaluation 51 made by Account 91, Trust Score: 0.5 on Contribution 3 with rating 0.0.
+Threshold for 3 11.05426787589207 Score: -2.0 Correct: true
+ClientInterface: Evaluation 52 made by Account 92, Trust Score: 0.5 on Contribution 3 with rating 0.0.
+Threshold for 3 11.184301175396715 Score: -2.5 Correct: true
+ClientInterface: Evaluation 53 made by Account 93, Trust Score: 0.5 on Contribution 3 with rating 0.0.
+Threshold for 3 11.313926605752842 Score: -3.0 Correct: true
+ClientInterface: Evaluation 54 made by Account 94, Trust Score: 0.5 on Contribution 3 with rating 1.0.
+Threshold for 3 11.443152411768823 Score: -2.5 Correct: true
+ClientInterface: Evaluation 55 made by Account 96, Trust Score: 0.5 on Contribution 3 with rating 0.0.
+Threshold for 3 11.57198655184078 Score: -3.0 Correct: true
+ClientInterface: Evaluation 56 made by Account 97, Trust Score: 0.5 on Contribution 3 with rating 0.0.
+Threshold for 3 11.700436711763704 Score: -3.5 Correct: true
+ClientInterface: Evaluation 57 made by Account 98, Trust Score: 0.5 on Contribution 3 with rating 1.0.
+Threshold for 3 11.828510317704554 Score: -3.0 Correct: true
+ClientInterface: Evaluation 58 made by Account 99, Trust Score: 0.5 on Contribution 3 with rating 0.0.
+Threshold for 3 11.95621454839765 Score: -3.5 Correct: true
+ClientInterface: Evaluation 59 made by Account 100, Trust Score: 0.5 on Contribution 3 with rating 0.0.
+Threshold for 3 12.08355634661777 Score: -4.0 Correct: true
+ClientInterface: Contribution 8 made by Account 101.
+ClientInterface: Evaluation 60 made by Account 102, Trust Score: 0.5 on Contribution 3 with rating 1.0.
+Threshold for 3 12.337179301125827 Score: -3.5 Correct: true
+ClientInterface: Evaluation 61 made by Account 104, Trust Score: 0.5 on Contribution 3 with rating 0.0.
+Threshold for 3 12.463473257300448 Score: -4.0 Correct: true
+ClientInterface: Evaluation 62 made by Account 105, Trust Score: 0.5 on Contribution 3 with rating 0.0.
+Threshold for 3 12.589430399424481 Score: -4.5 Correct: true
+ClientInterface: Evaluation 63 made by Account 107, Trust Score: 0.5 on Contribution 3 with rating 1.0.
+Threshold for 3 12.715056640633119 Score: -4.0 Correct: true
+ClientInterface: Contribution 9 made by Account 108.
+ClientInterface: Contribution 10 made by Account 109.
+ClientInterface: Evaluation 64 made by Account 110, Trust Score: 0.5 on Contribution 3 with rating 1.0.
+Threshold for 3 13.090006439918303 Score: -3.5 Correct: true
+ClientInterface: Contribution 11 made by Account 111.
+ClientInterface: Evaluation 65 made by Account 112, Trust Score: 0.5 on Contribution 3 with rating 0.0.
+Threshold for 3 13.338419129492271 Score: -4.0 Correct: true
+ClientInterface: Evaluation 66 made by Account 113, Trust Score: 0.5 on Contribution 3 with rating 1.0.
+Threshold for 3 13.462174589657876 Score: -3.5 Correct: true
+ClientInterface: Contribution 12 made by Account 115.
+ClientInterface: Evaluation 67 made by Account 116, Trust Score: 0.5 on Contribution 3 with rating 0.0.
+Threshold for 3 13.708807756404877 Score: -4.0 Correct: true
+ClientInterface: Evaluation 68 made by Account 117, Trust Score: 0.5 on Contribution 3 with rating 0.0.
+Threshold for 3 13.831694670184017 Score: -4.5 Correct: true
+ClientInterface: Evaluation 69 made by Account 118, Trust Score: 0.5 on Contribution 3 with rating 0.0.
+Threshold for 3 13.954301066043541 Score: -5.0 Correct: true
+ClientInterface: Contribution 13 made by Account 119.
+ClientInterface: Evaluation 70 made by Account 0, Trust Score: 0.5 on Contribution 3 with rating 1.0.
+Threshold for 3 14.198689374859978 Score: -4.5 Correct: true
+ClientInterface: Evaluation 71 made by Account 1, Trust Score: 0.5 on Contribution 3 with rating 1.0.
+Threshold for 3 14.320479541168634 Score: -4.0 Correct: true
+ClientInterface: Evaluation 72 made by Account 2, Trust Score: 0.5 on Contribution 3 with rating 1.0.
+Threshold for 3 14.442005704639785 Score: -3.5 Correct: true
+ClientInterface: Evaluation 73 made by Account 3, Trust Score: 0.5 on Contribution 3 with rating 1.0.
+Threshold for 3 14.563271728377657 Score: -3.0 Correct: true
+ClientInterface: Evaluation 74 made by Account 4, Trust Score: 0.5 on Contribution 3 with rating 1.0.
+Threshold for 3 14.684281376922343 Score: -2.5 Correct: true
+ClientInterface: Evaluation 75 made by Account 5, Trust Score: 0.5 on Contribution 3 with rating 1.0.
+Threshold for 3 14.805038319788935 Score: -2.0 Correct: true
+ClientInterface: Evaluation 76 made by Account 7, Trust Score: 0.5 on Contribution 3 with rating 0.0.
+Threshold for 3 14.925546134844343 Score: -2.5 Correct: true
+ClientInterface: Evaluation 77 made by Account 8, Trust Score: 0.5 on Contribution 3 with rating 1.0.
+Threshold for 3 15.045808311530683 Score: -2.0 Correct: true
+ClientInterface: Evaluation 78 made by Account 9, Trust Score: 0.5 on Contribution 3 with rating 1.0.
+Threshold for 3 15.165828253943813 Score: -1.5 Correct: true
+ClientInterface: Evaluation 79 made by Account 10, Trust Score: 0.5 on Contribution 3 with rating 1.0.
+Threshold for 3 15.285609283774717 Score: -1.0 Correct: true
+ClientInterface: Contribution 14 made by Account 11.
+ClientInterface: Evaluation 80 made by Account 12, Trust Score: 0.5 on Contribution 3 with rating 1.0.
+Threshold for 3 15.52446749717721 Score: -0.5 Correct: true
+ClientInterface: Evaluation 81 made by Account 13, Trust Score: 1.0 on Contribution 3 with rating 1.0.
+Threshold for 3 15.52446749717721 Score: 0.5 Correct: true
+ClientInterface: Evaluation 82 made by Account 14, Trust Score: 0.835 on Contribution 3 with rating 1.0.
+Threshold for 3 15.52446749717721 Score: 1.335 Correct: true
+ClientInterface: Evaluation 83 made by Account 15, Trust Score: 0.835 on Contribution 3 with rating 1.0.
+Threshold for 3 15.52446749717721 Score: 2.17 Correct: true
+ClientInterface: Contribution 15 made by Account 16.
+ClientInterface: Evaluation 84 made by Account 17, Trust Score: 0.835 on Contribution 3 with rating 1.0.
+Threshold for 3 15.52446749717721 Score: 3.005 Correct: true
+ClientInterface: Evaluation 85 made by Account 20, Trust Score: 1.0 on Contribution 3 with rating 1.0.
+Threshold for 3 15.52446749717721 Score: 4.005 Correct: true
+ClientInterface: Evaluation 86 made by Account 21, Trust Score: 1.0 on Contribution 3 with rating 1.0.
+Threshold for 3 15.52446749717721 Score: 5.005 Correct: true
+ClientInterface: Evaluation 87 made by Account 22, Trust Score: 0.835 on Contribution 3 with rating 1.0.
+Threshold for 3 15.52446749717721 Score: 5.84 Correct: true
+ClientInterface: Evaluation 88 made by Account 24, Trust Score: 1.0 on Contribution 3 with rating 1.0.
+Threshold for 3 15.52446749717721 Score: 6.84 Correct: true
+ClientInterface: Evaluation 89 made by Account 25, Trust Score: 0.5 on Contribution 3 with rating 1.0.
+Threshold for 3 15.643550936804864 Score: 7.34 Correct: true
+ClientInterface: Evaluation 90 made by Account 26, Trust Score: 0.5 on Contribution 3 with rating 1.0.
+Threshold for 3 15.762407980997631 Score: 7.84 Correct: true
+ClientInterface: Evaluation 91 made by Account 27, Trust Score: 0.835 on Contribution 3 with rating 1.0.
+Threshold for 3 15.762407980997631 Score: 8.675 Correct: true
+ClientInterface: Evaluation 92 made by Account 28, Trust Score: 1.0 on Contribution 3 with rating 1.0.
+Threshold for 3 15.762407980997631 Score: 9.675 Correct: true
+ClientInterface: Contribution 16 made by Account 30.
+ClientInterface: Evaluation 93 made by Account 31, Trust Score: 0.835 on Contribution 3 with rating 0.0.
+Threshold for 3 15.762407980997631 Score: 8.84 Correct: true
+ClientInterface: Evaluation 94 made by Account 33, Trust Score: 0.5 on Contribution 3 with rating 1.0.
+Threshold for 3 15.88104157923804 Score: 9.34 Correct: true
+ClientInterface: Evaluation 95 made by Account 34, Trust Score: 1.0 on Contribution 3 with rating 1.0.
+Threshold for 3 15.88104157923804 Score: 10.34 Correct: true
+ClientInterface: Evaluation 96 made by Account 35, Trust Score: 0.835 on Contribution 3 with rating 1.0.
+Threshold for 3 15.88104157923804 Score: 11.175 Correct: true
+ClientInterface: Evaluation 97 made by Account 36, Trust Score: 0.835 on Contribution 3 with rating 1.0.
+Threshold for 3 15.88104157923804 Score: 12.010000000000002 Correct: true
+ClientInterface: Contribution 17 made by Account 37.
+ClientInterface: Evaluation 98 made by Account 38, Trust Score: 0.5 on Contribution 4 with rating 1.0.
+Threshold for 4 15.88104157923804 Score: 1.5 Correct: true
+ClientInterface: Contribution 18 made by Account 39.
+ClientInterface: Evaluation 99 made by Account 40, Trust Score: 0.835 on Contribution 3 with rating 1.0.
+Threshold for 3 15.88104157923804 Score: 12.845000000000002 Correct: true
+ClientInterface: Evaluation 100 made by Account 41, Trust Score: 0.835 on Contribution 3 with rating 1.0.
+Threshold for 3 15.88104157923804 Score: 13.680000000000003 Correct: true
+ClientInterface: Evaluation 101 made by Account 43, Trust Score: 0.835 on Contribution 3 with rating 1.0.
+Threshold for 3 15.88104157923804 Score: 14.515000000000004 Correct: true
+ClientInterface: Evaluation 102 made by Account 44, Trust Score: 0.835 on Contribution 3 with rating 1.0.
+Threshold for 3 15.88104157923804 Score: 15.350000000000005 Correct: true
+ClientInterface: Evaluation 103 made by Account 45, Trust Score: 1.0 on Contribution 3 with rating 1.0.
+Threshold for 3 15.88104157923804 Score: 16.350000000000005 Correct: true
+ClientInterface: Evaluation 104 made by Account 46, Trust Score: 0.5 on Contribution 5 with rating 1.0.
+Threshold for 5 15.88104157923804 Score: 1.5 Correct: true
+ClientInterface: Evaluation 105 made by Account 48, Trust Score: 0.835 on Contribution 4 with rating 1.0.
+Threshold for 4 15.88104157923804 Score: 2.335 Correct: true
+ClientInterface: Evaluation 106 made by Account 50, Trust Score: 0.835 on Contribution 4 with rating 1.0.
+Threshold for 4 15.88104157923804 Score: 3.17 Correct: true
+ClientInterface: Evaluation 107 made by Account 52, Trust Score: 0.835 on Contribution 4 with rating 1.0.
+Threshold for 4 15.88104157923804 Score: 4.005 Correct: true
+ClientInterface: Contribution 19 made by Account 53.
+ClientInterface: Evaluation 108 made by Account 54, Trust Score: 0.835 on Contribution 4 with rating 1.0.
+Threshold for 4 15.999454613756665 Score: 4.84 Correct: true
+ClientInterface: Evaluation 109 made by Account 55, Trust Score: 0.835 on Contribution 4 with rating 1.0.
+Threshold for 4 15.999454613756665 Score: 5.675 Correct: true
+ClientInterface: Evaluation 110 made by Account 56, Trust Score: 0.5 on Contribution 4 with rating 1.0.
+Threshold for 4 16.117649901697014 Score: 6.175 Correct: true
+ClientInterface: Evaluation 111 made by Account 57, Trust Score: 0.5 on Contribution 4 with rating 1.0.
+Threshold for 4 16.235630197191075 Score: 6.675 Correct: true
+ClientInterface: Evaluation 112 made by Account 58, Trust Score: 1.0 on Contribution 4 with rating 1.0.
+Threshold for 4 16.235630197191075 Score: 7.675 Correct: true
+ClientInterface: Evaluation 113 made by Account 59, Trust Score: 0.835 on Contribution 4 with rating 1.0.
+Threshold for 4 16.235630197191075 Score: 8.51 Correct: true
+ClientInterface: Evaluation 114 made by Account 60, Trust Score: 0.835 on Contribution 4 with rating 1.0.
+Threshold for 4 16.235630197191075 Score: 9.344999999999999 Correct: true
+ClientInterface: Evaluation 115 made by Account 61, Trust Score: 0.5 on Contribution 4 with rating 1.0.
+Threshold for 4 16.35339819335002 Score: 9.844999999999999 Correct: true
+ClientInterface: Evaluation 116 made by Account 62, Trust Score: 1.0 on Contribution 4 with rating 0.0.
+Threshold for 4 16.35339819335002 Score: 8.844999999999999 Correct: true
+ClientInterface: Evaluation 117 made by Account 63, Trust Score: 0.5 on Contribution 4 with rating 1.0.
+Threshold for 4 16.470956524174294 Score: 9.344999999999999 Correct: true
+ClientInterface: Evaluation 118 made by Account 65, Trust Score: 0.835 on Contribution 4 with rating 1.0.
+Threshold for 4 16.470956524174294 Score: 10.18 Correct: true
+ClientInterface: Evaluation 119 made by Account 66, Trust Score: 0.5 on Contribution 4 with rating 1.0.
+Threshold for 4 16.588307766386997 Score: 10.68 Correct: true
+ClientInterface: Evaluation 120 made by Account 68, Trust Score: 0.835 on Contribution 4 with rating 1.0.
+Threshold for 4 16.588307766386997 Score: 11.515 Correct: true
+ClientInterface: Evaluation 121 made by Account 70, Trust Score: 0.835 on Contribution 4 with rating 1.0.
+Threshold for 4 16.588307766386997 Score: 12.350000000000001 Correct: true
+ClientInterface: Evaluation 122 made by Account 74, Trust Score: 0.835 on Contribution 4 with rating 1.0.
+Threshold for 4 16.588307766386997 Score: 13.185000000000002 Correct: true
+ClientInterface: Evaluation 123 made by Account 75, Trust Score: 0.5 on Contribution 4 with rating 1.0.
+Threshold for 4 16.588307766386997 Score: 13.685000000000002 Correct: true
+ClientInterface: Evaluation 124 made by Account 76, Trust Score: 0.835 on Contribution 4 with rating 1.0.
+Threshold for 4 16.588307766386997 Score: 14.520000000000003 Correct: true
+ClientInterface: Contribution 20 made by Account 77.
+ClientInterface: Contribution 21 made by Account 79.
+ClientInterface: Evaluation 125 made by Account 80, Trust Score: 0.5 on Contribution 4 with rating 0.0.
+Threshold for 4 16.822399015976558 Score: 14.020000000000003 Correct: true
+ClientInterface: Evaluation 126 made by Account 81, Trust Score: 1.0 on Contribution 4 with rating 1.0.
+Threshold for 4 16.822399015976558 Score: 15.020000000000003 Correct: true
+ClientInterface: Evaluation 127 made by Account 82, Trust Score: 0.5 on Contribution 4 with rating 0.0.
+Threshold for 4 16.93914390591308 Score: 14.520000000000003 Correct: true
+ClientInterface: Evaluation 128 made by Account 84, Trust Score: 1.0 on Contribution 4 with rating 0.0.
+Threshold for 4 16.93914390591308 Score: 13.520000000000003 Correct: true
+ClientInterface: Contribution 22 made by Account 85.
+ClientInterface: Evaluation 129 made by Account 88, Trust Score: 0.5 on Contribution 4 with rating 0.0.
+Threshold for 4 16.93914390591308 Score: 13.020000000000003 Correct: true
+ClientInterface: Evaluation 130 made by Account 89, Trust Score: 1.0 on Contribution 4 with rating 1.0.
+Threshold for 4 16.93914390591308 Score: 14.020000000000003 Correct: true
+ClientInterface: Evaluation 131 made by Account 90, Trust Score: 0.5 on Contribution 4 with rating 0.0.
+Threshold for 4 17.055691475544233 Score: 13.520000000000003 Correct: true
+ClientInterface: Evaluation 132 made by Account 92, Trust Score: 1.0 on Contribution 4 with rating 1.0.
+Threshold for 4 17.055691475544233 Score: 14.520000000000003 Correct: true
+ClientInterface: Evaluation 133 made by Account 93, Trust Score: 1.0 on Contribution 4 with rating 0.0.
+Threshold for 4 17.055691475544233 Score: 13.520000000000003 Correct: true
+ClientInterface: Evaluation 134 made by Account 96, Trust Score: 1.0 on Contribution 4 with rating 0.0.
+Threshold for 4 17.055691475544233 Score: 12.520000000000003 Correct: true
+ClientInterface: Evaluation 135 made by Account 97, Trust Score: 1.0 on Contribution 4 with rating 0.0.
+Threshold for 4 17.055691475544233 Score: 11.520000000000003 Correct: true
+ClientInterface: Evaluation 136 made by Account 98, Trust Score: 0.835 on Contribution 4 with rating 1.0.
+Threshold for 4 17.055691475544233 Score: 12.355000000000004 Correct: true
+ClientInterface: Evaluation 137 made by Account 100, Trust Score: 1.0 on Contribution 4 with rating 1.0.
+Threshold for 4 17.055691475544233 Score: 13.355000000000004 Correct: true
+ClientInterface: Evaluation 138 made by Account 101, Trust Score: 0.5 on Contribution 4 with rating 1.0.
+Threshold for 4 17.055691475544233 Score: 13.855000000000004 Correct: true
+ClientInterface: Evaluation 139 made by Account 102, Trust Score: 0.835 on Contribution 4 with rating 1.0.
+Threshold for 4 17.055691475544233 Score: 14.690000000000005 Correct: true
+ClientInterface: Evaluation 140 made by Account 103, Trust Score: 0.5 on Contribution 4 with rating 1.0.
+Threshold for 4 17.172044040273306 Score: 15.190000000000005 Correct: true
+ClientInterface: Evaluation 141 made by Account 104, Trust Score: 1.0 on Contribution 4 with rating 1.0.
+Threshold for 4 17.172044040273306 Score: 16.190000000000005 Correct: true
+ClientInterface: Evaluation 142 made by Account 105, Trust Score: 1.0 on Contribution 4 with rating 0.0.
+Threshold for 4 17.172044040273306 Score: 15.190000000000005 Correct: true
+ClientInterface: Evaluation 143 made by Account 106, Trust Score: 0.5 on Contribution 4 with rating 1.0.
+Threshold for 4 17.2882038678113 Score: 15.690000000000005 Correct: true
+ClientInterface: Evaluation 144 made by Account 107, Trust Score: 0.835 on Contribution 4 with rating 1.0.
+Threshold for 4 17.2882038678113 Score: 16.525000000000006 Correct: true
+ClientInterface: Evaluation 145 made by Account 109, Trust Score: 0.5 on Contribution 4 with rating 1.0.
+Threshold for 4 17.2882038678113 Score: 17.025000000000006 Correct: true
+ClientInterface: Evaluation 146 made by Account 111, Trust Score: 0.5 on Contribution 4 with rating 1.0.
+Threshold for 4 17.2882038678113 Score: 17.525000000000006 Correct: true
+ClientInterface: Evaluation 147 made by Account 112, Trust Score: 1.0 on Contribution 5 with rating 0.0.
+Threshold for 5 17.2882038678113 Score: 0.5 Correct: true
+ClientInterface: Evaluation 148 made by Account 113, Trust Score: 0.835 on Contribution 5 with rating 0.0.
+Threshold for 5 17.2882038678113 Score: -0.33499999999999996 Correct: true
+ClientInterface: Evaluation 149 made by Account 114, Trust Score: 0.5 on Contribution 5 with rating 1.0.
+Threshold for 5 17.404173179567106 Score: 0.16500000000000004 Correct: true
+ClientInterface: Evaluation 150 made by Account 115, Trust Score: 0.5 on Contribution 5 with rating 1.0.
+Threshold for 5 17.404173179567106 Score: 0.665 Correct: true
+ClientInterface: Evaluation 151 made by Account 117, Trust Score: 1.0 on Contribution 5 with rating 1.0.
+Threshold for 5 17.404173179567106 Score: 1.665 Correct: true
+ClientInterface: Evaluation 152 made by Account 118, Trust Score: 1.0 on Contribution 5 with rating 0.0.
+Threshold for 5 17.404173179567106 Score: 0.665 Correct: true
+ClientInterface: Evaluation 153 made by Account 119, Trust Score: 0.5 on Contribution 5 with rating 0.0.
+Threshold for 5 17.404173179567106 Score: 0.16500000000000004 Correct: true
+ClientInterface: Evaluation 154 made by Account 0, Trust Score: 0.835 on Contribution 5 with rating 1.0.
+Threshold for 5 17.404173179567106 Score: 1.0 Correct: true
+ClientInterface: Evaluation 155 made by Account 1, Trust Score: 0.835 on Contribution 5 with rating 1.0.
+Threshold for 5 17.404173179567106 Score: 1.835 Correct: true
+ClientInterface: Evaluation 156 made by Account 3, Trust Score: 0.835 on Contribution 5 with rating 1.0.
+Threshold for 5 17.404173179567106 Score: 2.67 Correct: true
+ClientInterface: Evaluation 157 made by Account 4, Trust Score: 0.835 on Contribution 5 with rating 1.0.
+Threshold for 5 17.404173179567106 Score: 3.505 Correct: true
+ClientInterface: Evaluation 158 made by Account 5, Trust Score: 0.835 on Contribution 5 with rating 1.0.
+Threshold for 5 17.404173179567106 Score: 4.34 Correct: true
+ClientInterface: Evaluation 159 made by Account 6, Trust Score: 0.5 on Contribution 5 with rating 1.0.
+Threshold for 5 17.51995415198564 Score: 4.84 Correct: true
+ClientInterface: Evaluation 160 made by Account 7, Trust Score: 1.0 on Contribution 5 with rating 1.0.
+Threshold for 5 17.51995415198564 Score: 5.84 Correct: true
+ClientInterface: Evaluation 161 made by Account 8, Trust Score: 0.835 on Contribution 5 with rating 1.0.
+Threshold for 5 17.51995415198564 Score: 6.675 Correct: true
+ClientInterface: Evaluation 162 made by Account 11, Trust Score: 0.5 on Contribution 5 with rating 1.0.
+Threshold for 5 17.51995415198564 Score: 7.175 Correct: true
+ClientInterface: Evaluation 163 made by Account 12, Trust Score: 0.835 on Contribution 5 with rating 1.0.
+Threshold for 5 17.51995415198564 Score: 8.01 Correct: true
+ClientInterface: Evaluation 164 made by Account 13, Trust Score: 0.767 on Contribution 5 with rating 1.0.
+Threshold for 5 17.51995415198564 Score: 8.777 Correct: true
+ClientInterface: Evaluation 165 made by Account 14, Trust Score: 0.835 on Contribution 5 with rating 1.0.
+Threshold for 5 17.51995415198564 Score: 9.611999999999998 Correct: true
+ClientInterface: Evaluation 166 made by Account 16, Trust Score: 0.835 on Contribution 5 with rating 1.0.
+Threshold for 5 17.51995415198564 Score: 10.447 Correct: true
+ClientInterface: Evaluation 167 made by Account 17, Trust Score: 0.835 on Contribution 5 with rating 1.0.
+Threshold for 5 17.51995415198564 Score: 11.282 Correct: true
+ClientInterface: Evaluation 168 made by Account 19, Trust Score: 0.5 on Contribution 5 with rating 1.0.
+Threshold for 5 17.635548917836324 Score: 11.782 Correct: true
+ClientInterface: Evaluation 169 made by Account 20, Trust Score: 0.767 on Contribution 5 with rating 1.0.
+Threshold for 5 17.635548917836324 Score: 12.549 Correct: true
+ClientInterface: Evaluation 170 made by Account 21, Trust Score: 0.9450000000000001 on Contribution 5 with rating 1.0.
+Threshold for 5 17.635548917836324 Score: 13.494 Correct: true
+ClientInterface: Contribution 23 made by Account 22.
+ClientInterface: Evaluation 171 made by Account 23, Trust Score: 0.5 on Contribution 5 with rating 0.0.
+Threshold for 5 17.750959567454064 Score: 12.994 Correct: true
+ClientInterface: Evaluation 172 made by Account 24, Trust Score: 0.9450000000000001 on Contribution 5 with rating 1.0.
+Threshold for 5 17.750959567454064 Score: 13.939 Correct: true
+ClientInterface: Evaluation 173 made by Account 25, Trust Score: 0.835 on Contribution 5 with rating 1.0.
+Threshold for 5 17.750959567454064 Score: 14.774000000000001 Correct: true
+ClientInterface: Contribution 24 made by Account 26.
+ClientInterface: Evaluation 174 made by Account 27, Trust Score: 0.835 on Contribution 5 with rating 1.0.
+Threshold for 5 17.750959567454064 Score: 15.609000000000002 Correct: true
+ClientInterface: Contribution 25 made by Account 28.
+ClientInterface: Contribution 26 made by Account 29.
+ClientInterface: Evaluation 175 made by Account 30, Trust Score: 0.835 on Contribution 5 with rating 1.0.
+Threshold for 5 17.750959567454064 Score: 16.444000000000003 Correct: true
+ClientInterface: Evaluation 176 made by Account 31, Trust Score: 0.8899999999999999 on Contribution 5 with rating 1.0.
+Threshold for 5 17.750959567454064 Score: 17.334000000000003 Correct: true
+ClientInterface: Evaluation 177 made by Account 32, Trust Score: 0.835 on Contribution 5 with rating 1.0.
+Threshold for 5 17.750959567454064 Score: 18.169000000000004 Correct: true
+ClientInterface: Evaluation 178 made by Account 33, Trust Score: 0.835 on Contribution 6 with rating 1.0.
+Threshold for 6 17.750959567454064 Score: 1.835 Correct: true
+ClientInterface: Evaluation 179 made by Account 34, Trust Score: 0.767 on Contribution 6 with rating 1.0.
+Threshold for 6 17.750959567454064 Score: 2.602 Correct: true
+ClientInterface: Evaluation 180 made by Account 37, Trust Score: 0.835 on Contribution 6 with rating 1.0.
+Threshold for 6 17.750959567454064 Score: 3.437 Correct: true
+ClientInterface: Evaluation 181 made by Account 38, Trust Score: 0.767 on Contribution 6 with rating 1.0.
+Threshold for 6 17.750959567454064 Score: 4.204 Correct: true
+ClientInterface: Evaluation 182 made by Account 39, Trust Score: 0.835 on Contribution 6 with rating 1.0.
+Threshold for 6 17.750959567454064 Score: 5.039 Correct: true
+ClientInterface: Evaluation 183 made by Account 40, Trust Score: 0.835 on Contribution 6 with rating 1.0.
+Threshold for 6 17.750959567454064 Score: 5.874 Correct: true
+ClientInterface: Evaluation 184 made by Account 44, Trust Score: 0.835 on Contribution 6 with rating 1.0.
+Threshold for 6 17.750959567454064 Score: 6.709 Correct: true
+ClientInterface: Evaluation 185 made by Account 46, Trust Score: 0.767 on Contribution 6 with rating 0.0.
+Threshold for 6 17.750959567454064 Score: 5.941999999999999 Correct: true
+ClientInterface: Evaluation 186 made by Account 47, Trust Score: 0.835 on Contribution 6 with rating 1.0.
+Threshold for 6 17.750959567454064 Score: 6.776999999999999 Correct: true
+ClientInterface: Contribution 27 made by Account 48.
+ClientInterface: Evaluation 187 made by Account 49, Trust Score: 1.0 on Contribution 6 with rating 0.0.
+Threshold for 6 17.750959567454064 Score: 5.776999999999999 Correct: true
+ClientInterface: Evaluation 188 made by Account 51, Trust Score: 0.835 on Contribution 6 with rating 1.0.
+Threshold for 6 17.750959567454064 Score: 6.611999999999999 Correct: true
+ClientInterface: Evaluation 189 made by Account 53, Trust Score: 0.5 on Contribution 6 with rating 1.0.
+Threshold for 6 17.750959567454064 Score: 7.111999999999999 Correct: true
+ClientInterface: Evaluation 190 made by Account 54, Trust Score: 0.835 on Contribution 6 with rating 1.0.
+Threshold for 6 17.750959567454064 Score: 7.946999999999999 Correct: true
+ClientInterface: Evaluation 191 made by Account 55, Trust Score: 0.835 on Contribution 6 with rating 1.0.
+Threshold for 6 17.750959567454064 Score: 8.782 Correct: true
+ClientInterface: Evaluation 192 made by Account 56, Trust Score: 0.835 on Contribution 6 with rating 1.0.
+Threshold for 6 17.750959567454064 Score: 9.617 Correct: true
+ClientInterface: Contribution 28 made by Account 57.
+ClientInterface: Evaluation 193 made by Account 58, Trust Score: 0.9450000000000001 on Contribution 6 with rating 1.0.
+Threshold for 6 17.750959567454064 Score: 10.562000000000001 Correct: true
+ClientInterface: Evaluation 194 made by Account 59, Trust Score: 0.835 on Contribution 6 with rating 1.0.
+Threshold for 6 17.750959567454064 Score: 11.397000000000002 Correct: true
+ClientInterface: Evaluation 195 made by Account 60, Trust Score: 0.835 on Contribution 6 with rating 1.0.
+Threshold for 6 17.750959567454064 Score: 12.232000000000003 Correct: true
+ClientInterface: Evaluation 196 made by Account 61, Trust Score: 0.835 on Contribution 6 with rating 1.0.
+Threshold for 6 17.750959567454064 Score: 13.067000000000004 Correct: true
+ClientInterface: Evaluation 197 made by Account 62, Trust Score: 1.0 on Contribution 6 with rating 1.0.
+Threshold for 6 17.750959567454064 Score: 14.067000000000004 Correct: true
+ClientInterface: Evaluation 198 made by Account 63, Trust Score: 0.835 on Contribution 6 with rating 1.0.
+Threshold for 6 17.750959567454064 Score: 14.902000000000005 Correct: true
+ClientInterface: Evaluation 199 made by Account 64, Trust Score: 0.5 on Contribution 6 with rating 1.0.
+Threshold for 6 17.866188149934956 Score: 15.402000000000005 Correct: true
+ClientInterface: Contribution 29 made by Account 65.
+ClientInterface: Evaluation 200 made by Account 66, Trust Score: 0.835 on Contribution 6 with rating 1.0.
+Threshold for 6 17.866188149934956 Score: 16.237000000000005 Correct: true
+ClientInterface: Evaluation 201 made by Account 67, Trust Score: 0.835 on Contribution 6 with rating 1.0.
+Threshold for 6 17.866188149934956 Score: 17.072000000000006 Correct: true
+ClientInterface: Evaluation 202 made by Account 70, Trust Score: 0.835 on Contribution 6 with rating 1.0.
+Threshold for 6 17.866188149934956 Score: 17.907000000000007 Correct: true
+ClientInterface: Evaluation 203 made by Account 71, Trust Score: 0.835 on Contribution 7 with rating 1.0.
+Threshold for 7 17.866188149934956 Score: 1.835 Correct: true
+ClientInterface: Evaluation 204 made by Account 75, Trust Score: 0.83375 on Contribution 7 with rating 1.0.
+Threshold for 7 17.866188149934956 Score: 2.66875 Correct: true
+ClientInterface: Evaluation 205 made by Account 77, Trust Score: 0.5 on Contribution 7 with rating 1.0.
+Threshold for 7 17.866188149934956 Score: 3.16875 Correct: true
+ClientInterface: Evaluation 206 made by Account 78, Trust Score: 0.835 on Contribution 7 with rating 1.0.
+Threshold for 7 17.866188149934956 Score: 4.00375 Correct: true
+ClientInterface: Evaluation 207 made by Account 79, Trust Score: 0.835 on Contribution 7 with rating 1.0.
+Threshold for 7 17.866188149934956 Score: 4.83875 Correct: true
+ClientInterface: Evaluation 208 made by Account 80, Trust Score: 1.0 on Contribution 7 with rating 0.0.
+Threshold for 7 17.866188149934956 Score: 3.83875 Correct: true
+ClientInterface: Evaluation 209 made by Account 81, Trust Score: 0.9450000000000001 on Contribution 7 with rating 0.0.
+Threshold for 7 17.866188149934956 Score: 2.89375 Correct: true
+ClientInterface: Evaluation 210 made by Account 82, Trust Score: 1.0 on Contribution 7 with rating 0.0.
+Threshold for 7 17.866188149934956 Score: 1.8937499999999998 Correct: true
+ClientInterface: Contribution 30 made by Account 85.
+ClientInterface: Evaluation 211 made by Account 86, Trust Score: 0.5 on Contribution 7 with rating 1.0.
+Threshold for 7 17.981236674288652 Score: 2.39375 Correct: true
+ClientInterface: Evaluation 212 made by Account 87, Trust Score: 1.0 on Contribution 7 with rating 0.0.
+Threshold for 7 17.981236674288652 Score: 1.3937499999999998 Correct: true
+ClientInterface: Evaluation 213 made by Account 88, Trust Score: 1.0 on Contribution 8 with rating 1.0.
+Threshold for 8 17.981236674288652 Score: 2.0 Correct: false
+ClientInterface: Evaluation 214 made by Account 90, Trust Score: 1.0 on Contribution 7 with rating 0.0.
+Threshold for 7 17.981236674288652 Score: 0.3937499999999998 Correct: true
+ClientInterface: Evaluation 215 made by Account 91, Trust Score: 1.0 on Contribution 7 with rating 0.0.
+Threshold for 7 17.981236674288652 Score: -0.6062500000000002 Correct: true
+ClientInterface: Evaluation 216 made by Account 93, Trust Score: 1.0 on Contribution 7 with rating 1.0.
+Threshold for 7 17.981236674288652 Score: 0.3937499999999998 Correct: true
+ClientInterface: Evaluation 217 made by Account 94, Trust Score: 0.835 on Contribution 7 with rating 0.0.
+Threshold for 7 17.981236674288652 Score: -0.44125000000000014 Correct: true
+ClientInterface: Evaluation 218 made by Account 96, Trust Score: 1.0 on Contribution 7 with rating 0.0.
+Threshold for 7 17.981236674288652 Score: -1.4412500000000001 Correct: true
+ClientInterface: Evaluation 219 made by Account 97, Trust Score: 1.0 on Contribution 7 with rating 1.0.
+Threshold for 7 17.981236674288652 Score: -0.44125000000000014 Correct: true
+ClientInterface: Evaluation 220 made by Account 98, Trust Score: 0.835 on Contribution 7 with rating 0.0.
+Threshold for 7 17.981236674288652 Score: -1.27625 Correct: true
+ClientInterface: Evaluation 221 made by Account 99, Trust Score: 1.0 on Contribution 7 with rating 1.0.
+Threshold for 7 17.981236674288652 Score: -0.2762500000000001 Correct: true
+ClientInterface: Contribution 31 made by Account 101.
+ClientInterface: Evaluation 222 made by Account 102, Trust Score: 0.835 on Contribution 7 with rating 1.0.
+Threshold for 7 17.981236674288652 Score: 0.5587499999999999 Correct: true
+ClientInterface: Evaluation 223 made by Account 103, Trust Score: 0.835 on Contribution 7 with rating 1.0.
+Threshold for 7 17.981236674288652 Score: 1.3937499999999998 Correct: true
+ClientInterface: Contribution 32 made by Account 104.
+ClientInterface: Contribution 33 made by Account 105.
+ClientInterface: Contribution 34 made by Account 108.
+ClientInterface: Evaluation 224 made by Account 109, Trust Score: 0.835 on Contribution 7 with rating 0.0.
+Threshold for 7 17.981236674288652 Score: 0.5587499999999999 Correct: true
+ClientInterface: Evaluation 225 made by Account 110, Trust Score: 0.835 on Contribution 7 with rating 1.0.
+Threshold for 7 17.981236674288652 Score: 1.3937499999999998 Correct: true
+ClientInterface: Evaluation 226 made by Account 112, Trust Score: 1.0 on Contribution 7 with rating 1.0.
+Threshold for 7 17.981236674288652 Score: 2.39375 Correct: true
+ClientInterface: Evaluation 227 made by Account 115, Trust Score: 0.835 on Contribution 7 with rating 0.0.
+Threshold for 7 17.981236674288652 Score: 1.5587499999999999 Correct: true
+ClientInterface: Contribution 35 made by Account 116.
+ClientInterface: Evaluation 228 made by Account 117, Trust Score: 0.9450000000000001 on Contribution 7 with rating 1.0.
+Threshold for 7 17.981236674288652 Score: 2.50375 Correct: true
+ClientInterface: Evaluation 229 made by Account 118, Trust Score: 1.0 on Contribution 7 with rating 1.0.
+Threshold for 7 17.981236674288652 Score: 3.50375 Correct: true
+ClientInterface: Evaluation 230 made by Account 119, Trust Score: 1.0 on Contribution 7 with rating 0.0.
+Threshold for 7 17.981236674288652 Score: 2.50375 Correct: true
+ClientInterface: Evaluation 231 made by Account 0, Trust Score: 0.835 on Contribution 7 with rating 1.0.
+Threshold for 7 17.981236674288652 Score: 3.33875 Correct: true
+ClientInterface: Evaluation 232 made by Account 1, Trust Score: 0.835 on Contribution 7 with rating 1.0.
+Threshold for 7 17.981236674288652 Score: 4.17375 Correct: true
+ClientInterface: Contribution 36 made by Account 3.
+ClientInterface: Evaluation 233 made by Account 4, Trust Score: 0.835 on Contribution 7 with rating 1.0.
+Threshold for 7 17.981236674288652 Score: 5.00875 Correct: true
+ClientInterface: Evaluation 234 made by Account 5, Trust Score: 0.835 on Contribution 7 with rating 1.0.
+Threshold for 7 17.981236674288652 Score: 5.84375 Correct: true
+ClientInterface: Evaluation 235 made by Account 6, Trust Score: 0.835 on Contribution 7 with rating 1.0.
+Threshold for 7 17.981236674288652 Score: 6.67875 Correct: true
+ClientInterface: Evaluation 236 made by Account 7, Trust Score: 0.9450000000000001 on Contribution 7 with rating 1.0.
+Threshold for 7 17.981236674288652 Score: 7.62375 Correct: true
+ClientInterface: Evaluation 237 made by Account 8, Trust Score: 0.835 on Contribution 7 with rating 1.0.
+Threshold for 7 17.981236674288652 Score: 8.45875 Correct: true
+ClientInterface: Evaluation 238 made by Account 9, Trust Score: 0.835 on Contribution 7 with rating 1.0.
+Threshold for 7 17.981236674288652 Score: 9.29375 Correct: true
+ClientInterface: Evaluation 239 made by Account 10, Trust Score: 0.835 on Contribution 7 with rating 1.0.
+Threshold for 7 17.981236674288652 Score: 10.12875 Correct: true
+ClientInterface: Evaluation 240 made by Account 13, Trust Score: 0.6822727272727273 on Contribution 7 with rating 1.0.
+Threshold for 7 17.981236674288652 Score: 10.811022727272727 Correct: true
+ClientInterface: Evaluation 241 made by Account 14, Trust Score: 0.835 on Contribution 7 with rating 1.0.
+Threshold for 7 17.981236674288652 Score: 11.646022727272726 Correct: true
+ClientInterface: Evaluation 242 made by Account 15, Trust Score: 0.835 on Contribution 7 with rating 1.0.
+Threshold for 7 17.981236674288652 Score: 12.481022727272727 Correct: true
+ClientInterface: Contribution 37 made by Account 16.
+ClientInterface: Evaluation 243 made by Account 18, Trust Score: 0.5 on Contribution 7 with rating 1.0.
+Threshold for 7 18.09610711054938 Score: 12.981022727272727 Correct: true
+ClientInterface: Evaluation 244 made by Account 22, Trust Score: 0.835 on Contribution 7 with rating 1.0.
+Threshold for 7 18.09610711054938 Score: 13.816022727272728 Correct: true
+ClientInterface: Evaluation 245 made by Account 23, Trust Score: 1.0 on Contribution 7 with rating 1.0.
+Threshold for 7 18.09610711054938 Score: 14.816022727272728 Correct: true
+ClientInterface: Evaluation 246 made by Account 24, Trust Score: 0.9292857142857143 on Contribution 7 with rating 1.0.
+Threshold for 7 18.09610711054938 Score: 15.745308441558443 Correct: true
+ClientInterface: Evaluation 247 made by Account 25, Trust Score: 0.835 on Contribution 7 with rating 1.0.
+Threshold for 7 18.09610711054938 Score: 16.580308441558444 Correct: true
+ClientInterface: Evaluation 248 made by Account 27, Trust Score: 0.835 on Contribution 7 with rating 1.0.
+Threshold for 7 18.09610711054938 Score: 17.415308441558444 Correct: true
+ClientInterface: Evaluation 249 made by Account 29, Trust Score: 0.835 on Contribution 7 with rating 1.0.
+Threshold for 7 18.09610711054938 Score: 18.250308441558445 Correct: true
+ClientInterface: Evaluation 250 made by Account 31, Trust Score: 0.8821428571428571 on Contribution 8 with rating 0.0.
+Threshold for 8 18.09610711054938 Score: 1.1178571428571429 Correct: false
+ClientInterface: Evaluation 251 made by Account 32, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.09610711054938 Score: 0.2828571428571429 Correct: false
+ClientInterface: Evaluation 252 made by Account 33, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.09610711054938 Score: -0.552142857142857 Correct: false
+ClientInterface: Evaluation 253 made by Account 34, Trust Score: 0.6822727272727273 on Contribution 8 with rating 0.0.
+Threshold for 8 18.09610711054938 Score: -1.2344155844155842 Correct: false
+ClientInterface: Evaluation 254 made by Account 36, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.09610711054938 Score: -2.069415584415584 Correct: false
+ClientInterface: Evaluation 255 made by Account 37, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.09610711054938 Score: -2.904415584415584 Correct: false
+ClientInterface: Evaluation 256 made by Account 38, Trust Score: 0.6822727272727273 on Contribution 8 with rating 0.0.
+Threshold for 8 18.09610711054938 Score: -3.5866883116883113 Correct: false
+ClientInterface: Evaluation 257 made by Account 39, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.09610711054938 Score: -4.421688311688311 Correct: false
+ClientInterface: Contribution 38 made by Account 40.
+ClientInterface: Evaluation 258 made by Account 41, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.09610711054938 Score: -5.256688311688311 Correct: false
+ClientInterface: Evaluation 259 made by Account 42, Trust Score: 0.5 on Contribution 8 with rating 0.0.
+Threshold for 8 18.21080139084728 Score: -5.756688311688311 Correct: false
+ClientInterface: Contribution 39 made by Account 43.
+ClientInterface: Evaluation 260 made by Account 44, Trust Score: 0.835 on Contribution 8 with rating 1.0.
+Threshold for 8 18.21080139084728 Score: -4.921688311688311 Correct: false
+ClientInterface: Evaluation 261 made by Account 46, Trust Score: 0.6972727272727273 on Contribution 8 with rating 1.0.
+Threshold for 8 18.21080139084728 Score: -4.224415584415584 Correct: false
+ClientInterface: Contribution 40 made by Account 47.
+ClientInterface: Evaluation 262 made by Account 48, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.21080139084728 Score: -5.059415584415584 Correct: false
+ClientInterface: Evaluation 263 made by Account 49, Trust Score: 0.8 on Contribution 8 with rating 0.0.
+Threshold for 8 18.21080139084728 Score: -5.859415584415584 Correct: false
+ClientInterface: Contribution 41 made by Account 50.
+ClientInterface: Evaluation 264 made by Account 51, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.21080139084728 Score: -6.694415584415584 Correct: false
+ClientInterface: Evaluation 265 made by Account 52, Trust Score: 0.835 on Contribution 8 with rating 1.0.
+Threshold for 8 18.21080139084728 Score: -5.859415584415584 Correct: false
+ClientInterface: Evaluation 266 made by Account 53, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.21080139084728 Score: -6.694415584415584 Correct: false
+ClientInterface: Evaluation 267 made by Account 54, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.21080139084728 Score: -7.529415584415584 Correct: false
+ClientInterface: Evaluation 268 made by Account 55, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.21080139084728 Score: -8.364415584415584 Correct: false
+ClientInterface: Evaluation 269 made by Account 56, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.21080139084728 Score: -9.199415584415583 Correct: false
+ClientInterface: Contribution 42 made by Account 57.
+ClientInterface: Evaluation 270 made by Account 58, Trust Score: 0.9292857142857143 on Contribution 8 with rating 0.0.
+Threshold for 8 18.21080139084728 Score: -10.128701298701298 Correct: false
+ClientInterface: Contribution 43 made by Account 59.
+ClientInterface: Evaluation 271 made by Account 60, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.21080139084728 Score: -10.963701298701299 Correct: false
+ClientInterface: Evaluation 272 made by Account 61, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.21080139084728 Score: -11.7987012987013 Correct: false
+ClientInterface: Evaluation 273 made by Account 65, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.21080139084728 Score: -12.6337012987013 Correct: false
+ClientInterface: Evaluation 274 made by Account 66, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.21080139084728 Score: -13.468701298701301 Correct: false
+ClientInterface: Contribution 44 made by Account 67.
+ClientInterface: Evaluation 275 made by Account 68, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.21080139084728 Score: -14.303701298701302 Correct: false
+ClientInterface: Evaluation 276 made by Account 69, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.21080139084728 Score: -15.138701298701303 Correct: false
+ClientInterface: Evaluation 277 made by Account 70, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.21080139084728 Score: -15.973701298701304 Correct: false
+ClientInterface: Evaluation 278 made by Account 71, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.21080139084728 Score: -16.808701298701305 Correct: false
+ClientInterface: Evaluation 279 made by Account 72, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.21080139084728 Score: -17.643701298701306 Correct: false
+ClientInterface: Evaluation 280 made by Account 73, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.21080139084728 Score: -18.478701298701306 Correct: false
+ClientInterface: Evaluation 281 made by Account 74, Trust Score: 0.835 on Contribution 8 with rating 1.0.
+Threshold for 8 18.21080139084728 Score: -17.643701298701306 Correct: false
+ClientInterface: Evaluation 282 made by Account 75, Trust Score: 0.7227777777777777 on Contribution 8 with rating 1.0.
+Threshold for 8 18.21080139084728 Score: -16.920923520923527 Correct: false
+ClientInterface: Evaluation 283 made by Account 76, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.21080139084728 Score: -17.755923520923528 Correct: false
+ClientInterface: Evaluation 284 made by Account 77, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.21080139084728 Score: -18.59092352092353 Correct: false
+ClientInterface: Evaluation 285 made by Account 78, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.21080139084728 Score: -19.42592352092353 Correct: false
+ClientInterface: Evaluation 286 made by Account 79, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.21080139084728 Score: -20.26092352092353 Correct: false
+ClientInterface: Evaluation 287 made by Account 80, Trust Score: 1.0 on Contribution 8 with rating 1.0.
+Threshold for 8 18.21080139084728 Score: -19.26092352092353 Correct: false
+ClientInterface: Evaluation 288 made by Account 82, Trust Score: 1.0 on Contribution 8 with rating 1.0.
+Threshold for 8 18.21080139084728 Score: -18.26092352092353 Correct: false
+ClientInterface: Contribution 45 made by Account 84.
+ClientInterface: Evaluation 289 made by Account 85, Trust Score: 1.0 on Contribution 8 with rating 0.0.
+Threshold for 8 18.21080139084728 Score: -19.26092352092353 Correct: false
+ClientInterface: Evaluation 290 made by Account 88, Trust Score: 0.875 on Contribution 9 with rating 0.0.
+Threshold for 9 18.21080139084728 Score: 0.125 Correct: true
+ClientInterface: Evaluation 291 made by Account 89, Trust Score: 0.9450000000000001 on Contribution 8 with rating 1.0.
+Threshold for 8 18.21080139084728 Score: -18.31592352092353 Correct: false
+ClientInterface: Evaluation 292 made by Account 90, Trust Score: 1.0 on Contribution 8 with rating 1.0.
+Threshold for 8 18.21080139084728 Score: -17.31592352092353 Correct: false
+ClientInterface: Evaluation 293 made by Account 92, Trust Score: 0.9450000000000001 on Contribution 8 with rating 1.0.
+Threshold for 8 18.21080139084728 Score: -16.37092352092353 Correct: false
+ClientInterface: Evaluation 294 made by Account 93, Trust Score: 0.9764285714285714 on Contribution 8 with rating 0.0.
+Threshold for 8 18.21080139084728 Score: -17.3473520923521 Correct: false
+ClientInterface: Evaluation 295 made by Account 94, Trust Score: 0.8899999999999999 on Contribution 8 with rating 1.0.
+Threshold for 8 18.21080139084728 Score: -16.4573520923521 Correct: false
+ClientInterface: Evaluation 296 made by Account 95, Trust Score: 0.5 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -15.9573520923521 Correct: false
+ClientInterface: Evaluation 297 made by Account 96, Trust Score: 1.0 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -14.9573520923521 Correct: false
+ClientInterface: Contribution 46 made by Account 97.
+ClientInterface: Evaluation 298 made by Account 99, Trust Score: 0.9450000000000001 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -14.0123520923521 Correct: false
+ClientInterface: Evaluation 299 made by Account 100, Trust Score: 0.9450000000000001 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -14.9573520923521 Correct: false
+ClientInterface: Evaluation 300 made by Account 102, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -15.7923520923521 Correct: false
+ClientInterface: Evaluation 301 made by Account 103, Trust Score: 0.835 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -14.9573520923521 Correct: false
+ClientInterface: Evaluation 302 made by Account 104, Trust Score: 0.9450000000000001 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -14.0123520923521 Correct: false
+ClientInterface: Evaluation 303 made by Account 105, Trust Score: 1.0 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -15.0123520923521 Correct: false
+ClientInterface: Evaluation 304 made by Account 107, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -15.8473520923521 Correct: false
+ClientInterface: Evaluation 305 made by Account 108, Trust Score: 0.5 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -16.3473520923521 Correct: false
+ClientInterface: Contribution 47 made by Account 109.
+ClientInterface: Evaluation 306 made by Account 110, Trust Score: 0.835 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -15.5123520923521 Correct: false
+ClientInterface: Contribution 48 made by Account 111.
+ClientInterface: Evaluation 307 made by Account 112, Trust Score: 0.9764285714285714 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -14.535923520923529 Correct: false
+ClientInterface: Contribution 49 made by Account 113.
+ClientInterface: Contribution 50 made by Account 114.
+ClientInterface: Evaluation 308 made by Account 115, Trust Score: 0.8899999999999999 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -15.42592352092353 Correct: false
+ClientInterface: Evaluation 309 made by Account 116, Trust Score: 1.0 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -14.42592352092353 Correct: false
+ClientInterface: Evaluation 310 made by Account 117, Trust Score: 0.9292857142857143 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -13.496637806637814 Correct: false
+ClientInterface: Evaluation 311 made by Account 118, Trust Score: 0.9764285714285714 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -14.473066378066385 Correct: false
+ClientInterface: Contribution 51 made by Account 0.
+ClientInterface: Evaluation 312 made by Account 1, Trust Score: 0.835 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -13.638066378066384 Correct: false
+ClientInterface: Evaluation 313 made by Account 3, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -14.473066378066385 Correct: false
+ClientInterface: Evaluation 314 made by Account 4, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -15.308066378066385 Correct: false
+ClientInterface: Evaluation 315 made by Account 5, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -16.143066378066386 Correct: false
+ClientInterface: Evaluation 316 made by Account 9, Trust Score: 0.835 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -15.308066378066385 Correct: false
+ClientInterface: Evaluation 317 made by Account 10, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -16.143066378066386 Correct: false
+ClientInterface: Evaluation 318 made by Account 11, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -16.978066378066387 Correct: false
+ClientInterface: Evaluation 319 made by Account 12, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -17.813066378066388 Correct: false
+ClientInterface: Evaluation 320 made by Account 13, Trust Score: 0.6454347826086957 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -17.167631595457692 Correct: false
+ClientInterface: Evaluation 321 made by Account 14, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -18.002631595457693 Correct: false
+ClientInterface: Evaluation 322 made by Account 15, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -18.837631595457694 Correct: false
+ClientInterface: Contribution 52 made by Account 16.
+ClientInterface: Evaluation 323 made by Account 17, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -19.672631595457695 Correct: false
+ClientInterface: Evaluation 324 made by Account 19, Trust Score: 0.835 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -18.837631595457694 Correct: false
+ClientInterface: Evaluation 325 made by Account 20, Trust Score: 0.6822727272727273 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -19.519904322730422 Correct: false
+ClientInterface: Evaluation 326 made by Account 22, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -20.354904322730423 Correct: false
+ClientInterface: Evaluation 327 made by Account 23, Trust Score: 0.9450000000000001 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -21.299904322730423 Correct: false
+ClientInterface: Evaluation 328 made by Account 24, Trust Score: 0.923 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -22.22290432273042 Correct: false
+ClientInterface: Evaluation 329 made by Account 26, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -23.057904322730423 Correct: false
+ClientInterface: Evaluation 330 made by Account 27, Trust Score: 0.835 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -22.22290432273042 Correct: false
+ClientInterface: Evaluation 331 made by Account 28, Trust Score: 0.9450000000000001 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -23.167904322730422 Correct: false
+ClientInterface: Evaluation 332 made by Account 30, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -24.002904322730423 Correct: false
+ClientInterface: Evaluation 333 made by Account 31, Trust Score: 0.8821428571428571 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 1.0071428571428571 Correct: true
+ClientInterface: Evaluation 334 made by Account 32, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 1.842142857142857 Correct: true
+ClientInterface: Evaluation 335 made by Account 33, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 2.677142857142857 Correct: true
+ClientInterface: Contribution 53 made by Account 34.
+ClientInterface: Evaluation 336 made by Account 36, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 3.512142857142857 Correct: true
+ClientInterface: Evaluation 337 made by Account 37, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 4.347142857142857 Correct: true
+ClientInterface: Evaluation 338 made by Account 38, Trust Score: 0.6822727272727273 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 5.029415584415585 Correct: true
+ClientInterface: Evaluation 339 made by Account 39, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 5.8644155844155845 Correct: true
+ClientInterface: Contribution 54 made by Account 40.
+ClientInterface: Contribution 55 made by Account 41.
+ClientInterface: Contribution 56 made by Account 42.
+ClientInterface: Evaluation 340 made by Account 44, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 6.6994155844155845 Correct: true
+ClientInterface: Evaluation 341 made by Account 45, Trust Score: 0.9450000000000001 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -24.947904322730423 Correct: false
+ClientInterface: Evaluation 342 made by Account 47, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -25.782904322730424 Correct: false
+ClientInterface: Evaluation 343 made by Account 49, Trust Score: 0.8 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 7.499415584415584 Correct: true
+ClientInterface: Evaluation 344 made by Account 50, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -26.617904322730425 Correct: false
+ClientInterface: Evaluation 345 made by Account 51, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 8.334415584415584 Correct: true
+ClientInterface: Evaluation 346 made by Account 52, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 9.169415584415585 Correct: true
+ClientInterface: Evaluation 347 made by Account 53, Trust Score: 0.835 on Contribution 9 with rating 0.0.
+Threshold for 9 18.325321410441965 Score: 8.334415584415584 Correct: true
+ClientInterface: Evaluation 348 made by Account 55, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 9.169415584415585 Correct: true
+ClientInterface: Evaluation 349 made by Account 56, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 10.004415584415586 Correct: true
+ClientInterface: Contribution 57 made by Account 57.
+ClientInterface: Evaluation 350 made by Account 58, Trust Score: 0.9292857142857143 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 10.933701298701301 Correct: true
+ClientInterface: Evaluation 351 made by Account 59, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -27.452904322730426 Correct: false
+ClientInterface: Evaluation 352 made by Account 60, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 11.768701298701302 Correct: true
+ClientInterface: Evaluation 353 made by Account 61, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 12.603701298701303 Correct: true
+ClientInterface: Evaluation 354 made by Account 62, Trust Score: 0.9764285714285714 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -26.476475751301855 Correct: false
+ClientInterface: Evaluation 355 made by Account 63, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -27.311475751301856 Correct: false
+ClientInterface: Evaluation 356 made by Account 64, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -28.146475751301857 Correct: false
+ClientInterface: Evaluation 357 made by Account 65, Trust Score: 0.835 on Contribution 9 with rating 0.0.
+Threshold for 9 18.325321410441965 Score: 11.768701298701302 Correct: true
+ClientInterface: Evaluation 358 made by Account 66, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 12.603701298701303 Correct: true
+ClientInterface: Evaluation 359 made by Account 67, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -28.981475751301858 Correct: false
+ClientInterface: Evaluation 360 made by Account 68, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 13.438701298701304 Correct: true
+ClientInterface: Evaluation 361 made by Account 69, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 14.273701298701305 Correct: true
+ClientInterface: Evaluation 362 made by Account 71, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 15.108701298701305 Correct: true
+ClientInterface: Evaluation 363 made by Account 72, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 15.943701298701306 Correct: true
+ClientInterface: Contribution 58 made by Account 73.
+ClientInterface: Evaluation 364 made by Account 74, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 16.778701298701307 Correct: true
+ClientInterface: Evaluation 365 made by Account 77, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 17.613701298701308 Correct: true
+ClientInterface: Contribution 59 made by Account 79.
+ClientInterface: Evaluation 366 made by Account 80, Trust Score: 1.0 on Contribution 9 with rating 0.0.
+Threshold for 9 18.325321410441965 Score: 16.613701298701308 Correct: true
+ClientInterface: Evaluation 367 made by Account 81, Trust Score: 0.9528571428571428 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -28.028618608444717 Correct: false
+ClientInterface: Evaluation 368 made by Account 82, Trust Score: 1.0 on Contribution 9 with rating 0.0.
+Threshold for 9 18.325321410441965 Score: 15.613701298701308 Correct: true
+ClientInterface: Evaluation 369 made by Account 84, Trust Score: 1.0 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -27.028618608444717 Correct: false
+ClientInterface: Evaluation 370 made by Account 85, Trust Score: 1.0 on Contribution 9 with rating 0.0.
+Threshold for 9 18.325321410441965 Score: 14.613701298701308 Correct: true
+ClientInterface: Evaluation 371 made by Account 86, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -27.863618608444717 Correct: false
+ClientInterface: Evaluation 372 made by Account 89, Trust Score: 0.9450000000000001 on Contribution 9 with rating 0.0.
+Threshold for 9 18.325321410441965 Score: 13.668701298701308 Correct: true
+ClientInterface: Evaluation 373 made by Account 91, Trust Score: 1.0 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -26.863618608444717 Correct: false
+ClientInterface: Evaluation 374 made by Account 92, Trust Score: 0.9450000000000001 on Contribution 9 with rating 0.0.
+Threshold for 9 18.325321410441965 Score: 12.723701298701307 Correct: true
+ClientInterface: Evaluation 375 made by Account 93, Trust Score: 0.9764285714285714 on Contribution 9 with rating 0.0.
+Threshold for 9 18.325321410441965 Score: 11.747272727272737 Correct: true
+ClientInterface: Evaluation 376 made by Account 94, Trust Score: 0.8899999999999999 on Contribution 9 with rating 0.0.
+Threshold for 9 18.325321410441965 Score: 10.857272727272736 Correct: true
+ClientInterface: Evaluation 377 made by Account 95, Trust Score: 0.5 on Contribution 9 with rating 0.0.
+Threshold for 9 18.325321410441965 Score: 10.357272727272736 Correct: true
+ClientInterface: Evaluation 378 made by Account 96, Trust Score: 1.0 on Contribution 9 with rating 0.0.
+Threshold for 9 18.325321410441965 Score: 9.357272727272736 Correct: true
+ClientInterface: Evaluation 379 made by Account 97, Trust Score: 0.9764285714285714 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -25.887190037016147 Correct: false
+ClientInterface: Evaluation 380 made by Account 98, Trust Score: 0.8585714285714285 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -25.028618608444717 Correct: false
+ClientInterface: Contribution 60 made by Account 99.
+ClientInterface: Contribution 61 made by Account 100.
+ClientInterface: Contribution 62 made by Account 101.
+ClientInterface: Evaluation 381 made by Account 102, Trust Score: 0.835 on Contribution 9 with rating 0.0.
+Threshold for 9 18.325321410441965 Score: 8.522272727272735 Correct: true
+ClientInterface: Contribution 63 made by Account 103.
+ClientInterface: Evaluation 382 made by Account 104, Trust Score: 0.9450000000000001 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 9.467272727272736 Correct: true
+ClientInterface: Evaluation 383 made by Account 107, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 10.302272727272737 Correct: true
+ClientInterface: Contribution 64 made by Account 108.
+ClientInterface: Evaluation 384 made by Account 109, Trust Score: 0.8899999999999999 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -24.138618608444716 Correct: false
+ClientInterface: Contribution 65 made by Account 110.
+ClientInterface: Contribution 66 made by Account 111.
+ClientInterface: Evaluation 385 made by Account 114, Trust Score: 0.835 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -23.303618608444715 Correct: false
+ClientInterface: Evaluation 386 made by Account 115, Trust Score: 0.8899999999999999 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 11.192272727272737 Correct: true
+ClientInterface: Contribution 67 made by Account 116.
+ClientInterface: Evaluation 387 made by Account 118, Trust Score: 0.9764285714285714 on Contribution 9 with rating 0.0.
+Threshold for 9 18.325321410441965 Score: 10.215844155844167 Correct: true
+ClientInterface: Evaluation 388 made by Account 119, Trust Score: 1.0 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -22.303618608444715 Correct: false
+ClientInterface: Evaluation 389 made by Account 0, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -23.138618608444716 Correct: false
+ClientInterface: Evaluation 390 made by Account 2, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -23.973618608444717 Correct: false
+ClientInterface: Evaluation 391 made by Account 3, Trust Score: 0.835 on Contribution 9 with rating 0.0.
+Threshold for 9 18.325321410441965 Score: 9.380844155844166 Correct: true
+ClientInterface: Evaluation 392 made by Account 4, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 10.215844155844167 Correct: true
+ClientInterface: Evaluation 393 made by Account 5, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 11.050844155844167 Correct: true
+ClientInterface: Evaluation 394 made by Account 7, Trust Score: 0.9292857142857143 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -23.044332894159 Correct: false
+ClientInterface: Evaluation 395 made by Account 8, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -23.879332894159003 Correct: false
+ClientInterface: Evaluation 396 made by Account 10, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 11.885844155844168 Correct: true
+ClientInterface: Evaluation 397 made by Account 11, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 12.72084415584417 Correct: true
+ClientInterface: Evaluation 398 made by Account 13, Trust Score: 0.6454347826086957 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 13.366278938452865 Correct: true
+ClientInterface: Contribution 68 made by Account 15.
+ClientInterface: Evaluation 399 made by Account 16, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -24.714332894159003 Correct: false
+ClientInterface: Evaluation 400 made by Account 17, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 14.201278938452866 Correct: true
+ClientInterface: Evaluation 401 made by Account 18, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -25.549332894159004 Correct: false
+ClientInterface: Evaluation 402 made by Account 19, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 15.036278938452867 Correct: true
+ClientInterface: Evaluation 403 made by Account 20, Trust Score: 0.6822727272727273 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 15.718551665725593 Correct: true
+ClientInterface: Evaluation 404 made by Account 21, Trust Score: 0.9292857142857143 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -26.47861860844472 Correct: false
+ClientInterface: Evaluation 405 made by Account 22, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 16.553551665725593 Correct: true
+ClientInterface: Contribution 69 made by Account 23.
+ClientInterface: Evaluation 406 made by Account 26, Trust Score: 0.835 on Contribution 9 with rating 0.0.
+Threshold for 9 18.325321410441965 Score: 15.718551665725592 Correct: true
+ClientInterface: Contribution 70 made by Account 27.
+ClientInterface: Evaluation 407 made by Account 28, Trust Score: 0.9450000000000001 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 16.663551665725592 Correct: true
+ClientInterface: Evaluation 408 made by Account 29, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -27.31361860844472 Correct: false
+ClientInterface: Evaluation 409 made by Account 30, Trust Score: 0.835 on Contribution 9 with rating 0.0.
+Threshold for 9 18.325321410441965 Score: 15.828551665725591 Correct: true
+ClientInterface: Evaluation 410 made by Account 31, Trust Score: 0.8821428571428571 on Contribution 10 with rating 1.0.
+Threshold for 10 18.325321410441965 Score: 1.8821428571428571 Correct: true
+ClientInterface: Evaluation 411 made by Account 32, Trust Score: 0.835 on Contribution 10 with rating 1.0.
+Threshold for 10 18.325321410441965 Score: 2.717142857142857 Correct: true
+ClientInterface: Evaluation 412 made by Account 33, Trust Score: 0.835 on Contribution 10 with rating 1.0.
+Threshold for 10 18.325321410441965 Score: 3.552142857142857 Correct: true
+ClientInterface: Evaluation 413 made by Account 34, Trust Score: 0.6822727272727273 on Contribution 9 with rating 0.0.
+Threshold for 9 18.325321410441965 Score: 15.146278938452864 Correct: true
+ClientInterface: Contribution 71 made by Account 35.
+ClientInterface: Evaluation 414 made by Account 36, Trust Score: 0.835 on Contribution 10 with rating 1.0.
+Threshold for 10 18.325321410441965 Score: 4.387142857142857 Correct: true
+ClientInterface: Evaluation 415 made by Account 38, Trust Score: 0.6822727272727273 on Contribution 10 with rating 1.0.
+Threshold for 10 18.325321410441965 Score: 5.069415584415585 Correct: true
+ClientInterface: Evaluation 416 made by Account 39, Trust Score: 0.835 on Contribution 10 with rating 1.0.
+Threshold for 10 18.325321410441965 Score: 5.904415584415585 Correct: true
+ClientInterface: Evaluation 417 made by Account 40, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -28.14861860844472 Correct: false
+ClientInterface: Contribution 72 made by Account 41.
+ClientInterface: Evaluation 418 made by Account 42, Trust Score: 0.5 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 15.646278938452864 Correct: true
+ClientInterface: Evaluation 419 made by Account 43, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -28.983618608444722 Correct: false
+ClientInterface: Contribution 73 made by Account 44.
+ClientInterface: Evaluation 420 made by Account 46, Trust Score: 0.6972727272727273 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 16.34355166572559 Correct: true
+ClientInterface: Evaluation 421 made by Account 47, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 17.178551665725593 Correct: true
+ClientInterface: Evaluation 422 made by Account 48, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 18.013551665725593 Correct: true
+ClientInterface: Evaluation 423 made by Account 49, Trust Score: 0.8 on Contribution 10 with rating 1.0.
+Threshold for 10 18.325321410441965 Score: 6.704415584415584 Correct: true
+ClientInterface: Evaluation 424 made by Account 50, Trust Score: 0.835 on Contribution 9 with rating 1.0.
+Threshold for 9 18.325321410441965 Score: 18.848551665725594 Correct: true
+ClientInterface: Evaluation 425 made by Account 51, Trust Score: 0.835 on Contribution 10 with rating 1.0.
+Threshold for 10 18.325321410441965 Score: 7.539415584415584 Correct: true
+ClientInterface: Evaluation 426 made by Account 52, Trust Score: 0.835 on Contribution 10 with rating 1.0.
+Threshold for 10 18.325321410441965 Score: 8.374415584415583 Correct: true
+ClientInterface: Evaluation 427 made by Account 53, Trust Score: 0.8899999999999999 on Contribution 10 with rating 1.0.
+Threshold for 10 18.325321410441965 Score: 9.264415584415584 Correct: true
+ClientInterface: Evaluation 428 made by Account 54, Trust Score: 0.835 on Contribution 10 with rating 1.0.
+Threshold for 10 18.325321410441965 Score: 10.099415584415585 Correct: true
+ClientInterface: Evaluation 429 made by Account 55, Trust Score: 0.835 on Contribution 10 with rating 1.0.
+Threshold for 10 18.325321410441965 Score: 10.934415584415586 Correct: true
+ClientInterface: Evaluation 430 made by Account 56, Trust Score: 0.835 on Contribution 10 with rating 1.0.
+Threshold for 10 18.325321410441965 Score: 11.769415584415587 Correct: true
+ClientInterface: Evaluation 431 made by Account 57, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -29.818618608444723 Correct: false
+ClientInterface: Evaluation 432 made by Account 58, Trust Score: 0.923 on Contribution 10 with rating 1.0.
+Threshold for 10 18.325321410441965 Score: 12.692415584415587 Correct: true
+ClientInterface: Contribution 74 made by Account 59.
+ClientInterface: Evaluation 433 made by Account 61, Trust Score: 0.835 on Contribution 10 with rating 1.0.
+Threshold for 10 18.325321410441965 Score: 13.527415584415586 Correct: true
+ClientInterface: Evaluation 434 made by Account 62, Trust Score: 0.9764285714285714 on Contribution 10 with rating 1.0.
+Threshold for 10 18.325321410441965 Score: 14.503844155844156 Correct: true
+ClientInterface: Evaluation 435 made by Account 63, Trust Score: 0.835 on Contribution 10 with rating 1.0.
+Threshold for 10 18.325321410441965 Score: 15.338844155844157 Correct: true
+ClientInterface: Evaluation 436 made by Account 64, Trust Score: 0.835 on Contribution 10 with rating 1.0.
+Threshold for 10 18.325321410441965 Score: 16.173844155844158 Correct: true
+ClientInterface: Evaluation 437 made by Account 65, Trust Score: 0.8585714285714285 on Contribution 10 with rating 1.0.
+Threshold for 10 18.325321410441965 Score: 17.03241558441559 Correct: true
+ClientInterface: Evaluation 438 made by Account 66, Trust Score: 0.835 on Contribution 10 with rating 1.0.
+Threshold for 10 18.325321410441965 Score: 17.86741558441559 Correct: true
+ClientInterface: Evaluation 439 made by Account 67, Trust Score: 0.835 on Contribution 10 with rating 1.0.
+Threshold for 10 18.325321410441965 Score: 18.70241558441559 Correct: true
+ClientInterface: Contribution 75 made by Account 68.
+ClientInterface: Evaluation 440 made by Account 69, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 1.835 Correct: true
+ClientInterface: Evaluation 441 made by Account 70, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 2.67 Correct: true
+ClientInterface: Evaluation 442 made by Account 71, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 3.505 Correct: true
+ClientInterface: Evaluation 443 made by Account 72, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 4.34 Correct: true
+ClientInterface: Evaluation 444 made by Account 73, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 5.175 Correct: true
+ClientInterface: Evaluation 445 made by Account 74, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 6.01 Correct: true
+ClientInterface: Evaluation 446 made by Account 75, Trust Score: 0.7227777777777777 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 6.732777777777778 Correct: true
+ClientInterface: Evaluation 447 made by Account 76, Trust Score: 0.835 on Contribution 11 with rating 0.0.
+Threshold for 11 18.325321410441965 Score: 5.897777777777778 Correct: true
+ClientInterface: Evaluation 448 made by Account 77, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 6.732777777777778 Correct: true
+ClientInterface: Evaluation 449 made by Account 78, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 7.567777777777778 Correct: true
+ClientInterface: Evaluation 450 made by Account 79, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 8.402777777777779 Correct: true
+ClientInterface: Evaluation 451 made by Account 81, Trust Score: 0.9528571428571428 on Contribution 11 with rating 0.0.
+Threshold for 11 18.325321410441965 Score: 7.449920634920636 Correct: true
+ClientInterface: Evaluation 452 made by Account 82, Trust Score: 1.0 on Contribution 11 with rating 0.0.
+Threshold for 11 18.325321410441965 Score: 6.449920634920636 Correct: true
+ClientInterface: Contribution 76 made by Account 85.
+ClientInterface: Evaluation 453 made by Account 88, Trust Score: 0.7777777777777778 on Contribution 11 with rating 0.0.
+Threshold for 11 18.325321410441965 Score: 5.672142857142858 Correct: true
+ClientInterface: Evaluation 454 made by Account 89, Trust Score: 0.9528571428571428 on Contribution 11 with rating 0.0.
+Threshold for 11 18.325321410441965 Score: 4.719285714285715 Correct: true
+ClientInterface: Evaluation 455 made by Account 90, Trust Score: 1.0 on Contribution 11 with rating 0.0.
+Threshold for 11 18.325321410441965 Score: 3.719285714285715 Correct: true
+ClientInterface: Evaluation 456 made by Account 91, Trust Score: 1.0 on Contribution 11 with rating 0.0.
+Threshold for 11 18.325321410441965 Score: 2.719285714285715 Correct: true
+ClientInterface: Evaluation 457 made by Account 92, Trust Score: 0.9528571428571428 on Contribution 11 with rating 0.0.
+Threshold for 11 18.325321410441965 Score: 1.7664285714285723 Correct: true
+ClientInterface: Evaluation 458 made by Account 93, Trust Score: 0.978 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 2.744428571428572 Correct: true
+ClientInterface: Evaluation 459 made by Account 94, Trust Score: 0.9057142857142857 on Contribution 11 with rating 0.0.
+Threshold for 11 18.325321410441965 Score: 1.8387142857142864 Correct: true
+ClientInterface: Evaluation 460 made by Account 95, Trust Score: 1.0 on Contribution 11 with rating 0.0.
+Threshold for 11 18.325321410441965 Score: 0.8387142857142864 Correct: true
+ClientInterface: Evaluation 461 made by Account 96, Trust Score: 1.0 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 1.8387142857142864 Correct: true
+ClientInterface: Evaluation 462 made by Account 99, Trust Score: 0.9450000000000001 on Contribution 11 with rating 0.0.
+Threshold for 11 18.325321410441965 Score: 0.8937142857142863 Correct: true
+ClientInterface: Evaluation 463 made by Account 100, Trust Score: 0.9450000000000001 on Contribution 11 with rating 0.0.
+Threshold for 11 18.325321410441965 Score: -0.05128571428571371 Correct: true
+ClientInterface: Evaluation 464 made by Account 101, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 0.7837142857142863 Correct: true
+ClientInterface: Evaluation 465 made by Account 103, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 1.6187142857142862 Correct: true
+ClientInterface: Contribution 77 made by Account 104.
+ClientInterface: Evaluation 466 made by Account 105, Trust Score: 1.0 on Contribution 11 with rating 0.0.
+Threshold for 11 18.325321410441965 Score: 0.6187142857142862 Correct: true
+ClientInterface: Contribution 78 made by Account 107.
+ClientInterface: Contribution 79 made by Account 108.
+ClientInterface: Evaluation 467 made by Account 109, Trust Score: 0.77125 on Contribution 11 with rating 0.0.
+Threshold for 11 18.325321410441965 Score: -0.15253571428571377 Correct: true
+ClientInterface: Evaluation 468 made by Account 110, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 0.6824642857142862 Correct: true
+ClientInterface: Evaluation 469 made by Account 111, Trust Score: 0.835 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -28.983618608444722 Correct: false
+ClientInterface: Evaluation 470 made by Account 112, Trust Score: 0.9764285714285714 on Contribution 11 with rating 0.0.
+Threshold for 11 18.325321410441965 Score: -0.29396428571428523 Correct: true
+ClientInterface: Evaluation 471 made by Account 113, Trust Score: 0.8899999999999999 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -29.873618608444723 Correct: false
+ClientInterface: Evaluation 472 made by Account 115, Trust Score: 0.8821428571428571 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 0.5881785714285719 Correct: true
+ClientInterface: Evaluation 473 made by Account 117, Trust Score: 0.9292857142857143 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 1.5174642857142862 Correct: true
+ClientInterface: Contribution 80 made by Account 118.
+ClientInterface: Evaluation 474 made by Account 119, Trust Score: 1.0 on Contribution 11 with rating 0.0.
+Threshold for 11 18.325321410441965 Score: 0.5174642857142862 Correct: true
+ClientInterface: Evaluation 475 made by Account 0, Trust Score: 0.835 on Contribution 11 with rating 0.0.
+Threshold for 11 18.325321410441965 Score: -0.3175357142857138 Correct: true
+ClientInterface: Evaluation 476 made by Account 1, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 0.5174642857142862 Correct: true
+ClientInterface: Evaluation 477 made by Account 2, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 1.3524642857142861 Correct: true
+ClientInterface: Evaluation 478 made by Account 3, Trust Score: 0.8585714285714285 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 2.211035714285715 Correct: true
+ClientInterface: Evaluation 479 made by Account 5, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 3.046035714285715 Correct: true
+ClientInterface: Evaluation 480 made by Account 6, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -30.708618608444723 Correct: false
+ClientInterface: Contribution 81 made by Account 8.
+ClientInterface: Contribution 82 made by Account 10.
+ClientInterface: Evaluation 481 made by Account 11, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 3.881035714285715 Correct: true
+ClientInterface: Evaluation 482 made by Account 12, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 4.716035714285715 Correct: true
+ClientInterface: Evaluation 483 made by Account 13, Trust Score: 0.6281914893617021 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 5.344227203647417 Correct: true
+ClientInterface: Contribution 83 made by Account 15.
+ClientInterface: Contribution 84 made by Account 16.
+ClientInterface: Evaluation 484 made by Account 17, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 6.179227203647417 Correct: true
+ClientInterface: Evaluation 485 made by Account 18, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 7.014227203647417 Correct: true
+ClientInterface: Evaluation 486 made by Account 19, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 7.849227203647417 Correct: true
+ClientInterface: Evaluation 487 made by Account 20, Trust Score: 0.6454347826086957 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 8.494661986256112 Correct: true
+ClientInterface: Evaluation 488 made by Account 21, Trust Score: 0.9292857142857143 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 9.423947700541827 Correct: true
+ClientInterface: Evaluation 489 made by Account 22, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 10.258947700541828 Correct: true
+ClientInterface: Evaluation 490 made by Account 23, Trust Score: 0.9450000000000001 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 11.203947700541828 Correct: true
+ClientInterface: Evaluation 491 made by Account 24, Trust Score: 0.923 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 12.126947700541828 Correct: true
+ClientInterface: Evaluation 492 made by Account 25, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -31.543618608444724 Correct: false
+ClientInterface: Evaluation 493 made by Account 26, Trust Score: 0.8899999999999999 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 13.016947700541829 Correct: true
+ClientInterface: Evaluation 494 made by Account 27, Trust Score: 0.835 on Contribution 11 with rating 0.0.
+Threshold for 11 18.325321410441965 Score: 12.18194770054183 Correct: true
+ClientInterface: Evaluation 495 made by Account 28, Trust Score: 0.9292857142857143 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 13.111233414827545 Correct: true
+ClientInterface: Evaluation 496 made by Account 29, Trust Score: 0.835 on Contribution 11 with rating 0.0.
+Threshold for 11 18.325321410441965 Score: 12.276233414827544 Correct: true
+ClientInterface: Evaluation 497 made by Account 30, Trust Score: 0.8585714285714285 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 13.134804843398973 Correct: true
+ClientInterface: Evaluation 498 made by Account 31, Trust Score: 0.8775806451612902 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 14.012385488560263 Correct: true
+ClientInterface: Evaluation 499 made by Account 32, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 14.847385488560263 Correct: true
+ClientInterface: Evaluation 500 made by Account 33, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 15.682385488560264 Correct: true
+ClientInterface: Evaluation 501 made by Account 35, Trust Score: 0.835 on Contribution 8 with rating 0.0.
+Threshold for 8 18.325321410441965 Score: -32.378618608444725 Correct: false
+ClientInterface: Evaluation 502 made by Account 37, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 16.517385488560265 Correct: true
+ClientInterface: Evaluation 503 made by Account 39, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 17.352385488560266 Correct: true
+ClientInterface: Evaluation 504 made by Account 41, Trust Score: 0.835 on Contribution 11 with rating 0.0.
+Threshold for 11 18.325321410441965 Score: 16.517385488560265 Correct: true
+ClientInterface: Evaluation 505 made by Account 42, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 17.352385488560266 Correct: true
+ClientInterface: Evaluation 506 made by Account 43, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 18.187385488560267 Correct: true
+ClientInterface: Evaluation 507 made by Account 44, Trust Score: 0.835 on Contribution 11 with rating 1.0.
+Threshold for 11 18.325321410441965 Score: 19.022385488560268 Correct: true
+ClientInterface: Contribution 85 made by Account 45.
+ClientInterface: Evaluation 508 made by Account 46, Trust Score: 0.6597826086956522 on Contribution 12 with rating 1.0.
+Threshold for 12 18.325321410441965 Score: 1.6597826086956522 Correct: true
+ClientInterface: Evaluation 509 made by Account 47, Trust Score: 0.835 on Contribution 12 with rating 1.0.
+Threshold for 12 18.325321410441965 Score: 2.494782608695652 Correct: true
+ClientInterface: Evaluation 510 made by Account 50, Trust Score: 0.835 on Contribution 12 with rating 1.0.
+Threshold for 12 18.325321410441965 Score: 3.329782608695652 Correct: true
+ClientInterface: Evaluation 511 made by Account 51, Trust Score: 0.835 on Contribution 12 with rating 1.0.
+Threshold for 12 18.325321410441965 Score: 4.164782608695652 Correct: true
+ClientInterface: Evaluation 512 made by Account 52, Trust Score: 0.835 on Contribution 12 with rating 1.0.
+Threshold for 12 18.325321410441965 Score: 4.999782608695652 Correct: true
+ClientInterface: Evaluation 513 made by Account 53, Trust Score: 0.8821428571428571 on Contribution 12 with rating 1.0.
+Threshold for 12 18.325321410441965 Score: 5.881925465838509 Correct: true
+ClientInterface: Contribution 86 made by Account 55.
+ClientInterface: Evaluation 514 made by Account 56, Trust Score: 0.835 on Contribution 12 with rating 1.0.
+Threshold for 12 18.325321410441965 Score: 6.716925465838509 Correct: true
+ClientInterface: Evaluation 515 made by Account 57, Trust Score: 0.835 on Contribution 12 with rating 1.0.
+Threshold for 12 18.325321410441965 Score: 7.551925465838509 Correct: true
+ClientInterface: Evaluation 516 made by Account 62, Trust Score: 0.967 on Contribution 12 with rating 1.0.
+Threshold for 12 18.325321410441965 Score: 8.518925465838509 Correct: true
+ClientInterface: Evaluation 517 made by Account 63, Trust Score: 0.835 on Contribution 12 with rating 1.0.
+Threshold for 12 18.325321410441965 Score: 9.353925465838508 Correct: true
+ClientInterface: Evaluation 518 made by Account 64, Trust Score: 0.835 on Contribution 12 with rating 1.0.
+Threshold for 12 18.325321410441965 Score: 10.188925465838508 Correct: true
+ClientInterface: Evaluation 519 made by Account 65, Trust Score: 0.857 on Contribution 12 with rating 1.0.
+Threshold for 12 18.325321410441965 Score: 11.045925465838508 Correct: true
+ClientInterface: Evaluation 520 made by Account 66, Trust Score: 0.835 on Contribution 12 with rating 1.0.
+Threshold for 12 18.325321410441965 Score: 11.880925465838509 Correct: true
+ClientInterface: Evaluation 521 made by Account 67, Trust Score: 0.835 on Contribution 12 with rating 1.0.
+Threshold for 12 18.325321410441965 Score: 12.71592546583851 Correct: true
+ClientInterface: Evaluation 522 made by Account 68, Trust Score: 0.835 on Contribution 12 with rating 1.0.
+Threshold for 12 18.325321410441965 Score: 13.55092546583851 Correct: true
+ClientInterface: Evaluation 523 made by Account 69, Trust Score: 0.835 on Contribution 12 with rating 1.0.
+Threshold for 12 18.325321410441965 Score: 14.385925465838511 Correct: true
+ClientInterface: Evaluation 524 made by Account 70, Trust Score: 0.835 on Contribution 12 with rating 1.0.
+Threshold for 12 18.325321410441965 Score: 15.220925465838512 Correct: true
+ClientInterface: Evaluation 525 made by Account 71, Trust Score: 0.835 on Contribution 12 with rating 1.0.
+Threshold for 12 18.325321410441965 Score: 16.055925465838513 Correct: true
+ClientInterface: Evaluation 526 made by Account 72, Trust Score: 0.835 on Contribution 12 with rating 1.0.
+Threshold for 12 18.325321410441965 Score: 16.890925465838514 Correct: true
+ClientInterface: Evaluation 527 made by Account 73, Trust Score: 0.835 on Contribution 12 with rating 1.0.
+Threshold for 12 18.325321410441965 Score: 17.725925465838515 Correct: true
+ClientInterface: Evaluation 528 made by Account 75, Trust Score: 0.6760526315789473 on Contribution 12 with rating 1.0.
+Threshold for 12 18.325321410441965 Score: 18.401978097417462 Correct: true
+ClientInterface: Evaluation 529 made by Account 77, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: 0.16500000000000004 Correct: false
+ClientInterface: Contribution 87 made by Account 78.
+ClientInterface: Evaluation 530 made by Account 79, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -0.6699999999999999 Correct: false
+ClientInterface: Evaluation 531 made by Account 80, Trust Score: 1.0 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: 0.33000000000000007 Correct: false
+ClientInterface: Evaluation 532 made by Account 81, Trust Score: 0.956 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: 1.286 Correct: false
+ClientInterface: Evaluation 533 made by Account 82, Trust Score: 1.0 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: 2.286 Correct: false
+ClientInterface: Evaluation 534 made by Account 83, Trust Score: 1.0 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -31.378618608444725 Correct: false
+ClientInterface: Evaluation 535 made by Account 85, Trust Score: 1.0 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: 1.286 Correct: false
+ClientInterface: Evaluation 536 made by Account 86, Trust Score: 0.835 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: 2.121 Correct: false
+ClientInterface: Evaluation 537 made by Account 87, Trust Score: 1.0 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -30.378618608444725 Correct: false
+ClientInterface: Evaluation 538 made by Account 88, Trust Score: 0.7368421052631579 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: 2.857842105263158 Correct: false
+ClientInterface: Evaluation 539 made by Account 90, Trust Score: 1.0 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: 1.857842105263158 Correct: false
+ClientInterface: Evaluation 540 made by Account 91, Trust Score: 1.0 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: 0.857842105263158 Correct: false
+ClientInterface: Evaluation 541 made by Account 92, Trust Score: 0.956 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: 1.813842105263158 Correct: false
+ClientInterface: Evaluation 542 made by Account 93, Trust Score: 0.9733870967741935 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: 2.7872292020373512 Correct: false
+ClientInterface: Evaluation 543 made by Account 94, Trust Score: 0.9119999999999999 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: 3.699229202037351 Correct: false
+ClientInterface: Evaluation 544 made by Account 95, Trust Score: 1.0 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: 4.699229202037351 Correct: false
+ClientInterface: Evaluation 545 made by Account 100, Trust Score: 0.9528571428571428 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: 5.652086344894494 Correct: false
+ClientInterface: Evaluation 546 made by Account 101, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: 4.817086344894494 Correct: false
+ClientInterface: Evaluation 547 made by Account 102, Trust Score: 0.846 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: 3.971086344894494 Correct: false
+ClientInterface: Contribution 88 made by Account 103.
+ClientInterface: Evaluation 548 made by Account 105, Trust Score: 1.0 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: 2.971086344894494 Correct: false
+ClientInterface: Contribution 89 made by Account 107.
+ClientInterface: Evaluation 549 made by Account 109, Trust Score: 0.7258823529411764 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: 3.69696869783567 Correct: false
+ClientInterface: Evaluation 550 made by Account 110, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: 2.86196869783567 Correct: false
+ClientInterface: Contribution 90 made by Account 113.
+ClientInterface: Evaluation 551 made by Account 114, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: 2.0269686978356702 Correct: false
+ClientInterface: Contribution 91 made by Account 115.
+ClientInterface: Evaluation 552 made by Account 116, Trust Score: 1.0 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: 1.0269686978356702 Correct: false
+ClientInterface: Contribution 92 made by Account 117.
+ClientInterface: Evaluation 553 made by Account 118, Trust Score: 0.978 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: 2.00496869783567 Correct: false
+ClientInterface: Evaluation 554 made by Account 119, Trust Score: 1.0 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: 2.0 Correct: false
+ClientInterface: Contribution 93 made by Account 0.
+ClientInterface: Evaluation 555 made by Account 1, Trust Score: 0.835 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: 2.83996869783567 Correct: false
+ClientInterface: Evaluation 556 made by Account 2, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: 2.00496869783567 Correct: false
+ClientInterface: Contribution 94 made by Account 3.
+ClientInterface: Evaluation 557 made by Account 4, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: 1.16996869783567 Correct: false
+ClientInterface: Evaluation 558 made by Account 5, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: 0.33496869783567007 Correct: false
+ClientInterface: Evaluation 559 made by Account 6, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -0.5000313021643299 Correct: false
+ClientInterface: Evaluation 560 made by Account 7, Trust Score: 0.9292857142857143 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -1.4293170164500442 Correct: false
+ClientInterface: Evaluation 561 made by Account 8, Trust Score: 0.835 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: -0.5943170164500442 Correct: false
+ClientInterface: Contribution 95 made by Account 9.
+ClientInterface: Evaluation 562 made by Account 10, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -1.4293170164500442 Correct: false
+ClientInterface: Evaluation 563 made by Account 11, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -2.264317016450044 Correct: false
+ClientInterface: Evaluation 564 made by Account 12, Trust Score: 0.835 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: -1.4293170164500442 Correct: false
+ClientInterface: Evaluation 565 made by Account 13, Trust Score: 0.6198421052631579 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -2.049159121713202 Correct: false
+ClientInterface: Contribution 96 made by Account 14.
+ClientInterface: Evaluation 566 made by Account 15, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -2.884159121713202 Correct: false
+ClientInterface: Contribution 97 made by Account 17.
+ClientInterface: Evaluation 567 made by Account 18, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -3.719159121713202 Correct: false
+ClientInterface: Contribution 98 made by Account 19.
+ClientInterface: Evaluation 568 made by Account 20, Trust Score: 0.6281914893617021 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -4.347350611074904 Correct: false
+ClientInterface: Evaluation 569 made by Account 21, Trust Score: 0.923 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -5.270350611074904 Correct: false
+ClientInterface: Evaluation 570 made by Account 22, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -6.105350611074904 Correct: false
+ClientInterface: Evaluation 571 made by Account 24, Trust Score: 0.9201612903225806 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -7.0255119013974845 Correct: false
+ClientInterface: Evaluation 572 made by Account 25, Trust Score: 0.835 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: -6.1905119013974845 Correct: false
+ClientInterface: Evaluation 573 made by Account 27, Trust Score: 0.8403225806451613 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -7.030834482042646 Correct: false
+ClientInterface: Evaluation 574 made by Account 28, Trust Score: 0.923 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -7.953834482042646 Correct: false
+ClientInterface: Evaluation 575 made by Account 29, Trust Score: 0.8585714285714285 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -8.812405910614075 Correct: false
+ClientInterface: Evaluation 576 made by Account 30, Trust Score: 0.857 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -9.669405910614074 Correct: false
+ClientInterface: Evaluation 577 made by Account 31, Trust Score: 0.8769047619047619 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -10.546310672518835 Correct: false
+ClientInterface: Evaluation 578 made by Account 32, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -11.381310672518836 Correct: false
+ClientInterface: Contribution 99 made by Account 34.
+ClientInterface: Evaluation 579 made by Account 35, Trust Score: 0.835 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: -10.546310672518835 Correct: false
+ClientInterface: Evaluation 580 made by Account 36, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -11.381310672518836 Correct: false
+ClientInterface: Evaluation 581 made by Account 37, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -12.216310672518837 Correct: false
+ClientInterface: Evaluation 582 made by Account 38, Trust Score: 0.6281914893617021 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -12.84450216188054 Correct: false
+ClientInterface: Evaluation 583 made by Account 39, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -13.679502161880539 Correct: false
+ClientInterface: Evaluation 584 made by Account 40, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -14.51450216188054 Correct: false
+ClientInterface: Evaluation 585 made by Account 41, Trust Score: 0.8585714285714285 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -15.373073590451968 Correct: false
+ClientInterface: Evaluation 586 made by Account 42, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -16.208073590451967 Correct: false
+ClientInterface: Evaluation 587 made by Account 43, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -17.043073590451968 Correct: false
+ClientInterface: Evaluation 588 made by Account 44, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -17.87807359045197 Correct: false
+ClientInterface: Evaluation 589 made by Account 46, Trust Score: 0.6422340425531915 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -18.52030763300516 Correct: false
+ClientInterface: Evaluation 590 made by Account 49, Trust Score: 0.6741304347826087 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -19.194438067787768 Correct: false
+ClientInterface: Evaluation 591 made by Account 51, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -20.02943806778777 Correct: false
+ClientInterface: Evaluation 592 made by Account 53, Trust Score: 0.879 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -20.90843806778777 Correct: false
+ClientInterface: Evaluation 593 made by Account 54, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -21.74343806778777 Correct: false
+ClientInterface: Contribution 100 made by Account 55.
+ClientInterface: Evaluation 594 made by Account 56, Trust Score: 0.835 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: -20.90843806778777 Correct: false
+ClientInterface: Contribution 101 made by Account 57.
+ClientInterface: Evaluation 595 made by Account 58, Trust Score: 0.9201612903225806 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -21.828599358110353 Correct: false
+ClientInterface: Evaluation 596 made by Account 59, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -22.663599358110353 Correct: false
+ClientInterface: Evaluation 597 made by Account 60, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -23.498599358110354 Correct: false
+ClientInterface: Evaluation 598 made by Account 61, Trust Score: 0.835 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: -22.663599358110353 Correct: false
+ClientInterface: Contribution 102 made by Account 62.
+ClientInterface: Evaluation 599 made by Account 63, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -23.498599358110354 Correct: false
+ClientInterface: Contribution 103 made by Account 64.
+ClientInterface: Evaluation 600 made by Account 65, Trust Score: 0.8562903225806451 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -24.354889680691 Correct: false
+ClientInterface: Contribution 104 made by Account 66.
+ClientInterface: Evaluation 601 made by Account 67, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -25.189889680691 Correct: false
+ClientInterface: Evaluation 602 made by Account 69, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -26.024889680691 Correct: false
+ClientInterface: Evaluation 603 made by Account 70, Trust Score: 0.835 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: -25.189889680691 Correct: false
+ClientInterface: Evaluation 604 made by Account 71, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -26.024889680691 Correct: false
+ClientInterface: Evaluation 605 made by Account 72, Trust Score: 0.835 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: -25.189889680691 Correct: false
+ClientInterface: Evaluation 606 made by Account 73, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -26.024889680691 Correct: false
+ClientInterface: Evaluation 607 made by Account 74, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -26.859889680691 Correct: false
+ClientInterface: Evaluation 608 made by Account 76, Trust Score: 0.8585714285714285 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -27.718461109262428 Correct: false
+ClientInterface: Evaluation 609 made by Account 78, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -28.55346110926243 Correct: false
+ClientInterface: Evaluation 610 made by Account 80, Trust Score: 1.0 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: 3.0 Correct: false
+ClientInterface: Evaluation 611 made by Account 81, Trust Score: 0.956 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: 3.956 Correct: false
+ClientInterface: Evaluation 612 made by Account 83, Trust Score: 1.0 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: -27.55346110926243 Correct: false
+ClientInterface: Evaluation 613 made by Account 84, Trust Score: 1.0 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: -26.55346110926243 Correct: false
+ClientInterface: Evaluation 614 made by Account 85, Trust Score: 1.0 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: 4.9559999999999995 Correct: false
+ClientInterface: Evaluation 615 made by Account 86, Trust Score: 0.835 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: 5.7909999999999995 Correct: false
+ClientInterface: Evaluation 616 made by Account 87, Trust Score: 1.0 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: -25.55346110926243 Correct: false
+ClientInterface: Evaluation 617 made by Account 88, Trust Score: 0.7368421052631579 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: 6.527842105263157 Correct: false
+ClientInterface: Contribution 105 made by Account 89.
+ClientInterface: Evaluation 618 made by Account 91, Trust Score: 1.0 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: 5.527842105263157 Correct: false
+ClientInterface: Evaluation 619 made by Account 92, Trust Score: 0.956 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: 6.483842105263157 Correct: false
+ClientInterface: Evaluation 620 made by Account 94, Trust Score: 0.9119999999999999 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: 7.395842105263157 Correct: false
+ClientInterface: Evaluation 621 made by Account 95, Trust Score: 1.0 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: 8.395842105263156 Correct: false
+ClientInterface: Evaluation 622 made by Account 96, Trust Score: 0.9946774193548387 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: -24.55878368990759 Correct: false
+ClientInterface: Evaluation 623 made by Account 97, Trust Score: 0.9764285714285714 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: -23.58235511847902 Correct: false
+ClientInterface: Evaluation 624 made by Account 98, Trust Score: 0.8585714285714285 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: -22.72378368990759 Correct: false
+ClientInterface: Evaluation 625 made by Account 99, Trust Score: 0.9528571428571428 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -23.676640832764733 Correct: false
+ClientInterface: Contribution 106 made by Account 100.
+ClientInterface: Evaluation 626 made by Account 101, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: 7.5608421052631565 Correct: false
+ClientInterface: Evaluation 627 made by Account 102, Trust Score: 0.846 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: 8.406842105263156 Correct: false
+ClientInterface: Evaluation 628 made by Account 104, Trust Score: 0.9292857142857143 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: -22.747355118479017 Correct: false
+ClientInterface: Evaluation 629 made by Account 105, Trust Score: 1.0 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: 7.406842105263156 Correct: false
+ClientInterface: Evaluation 630 made by Account 106, Trust Score: 0.835 on Contribution 8 with rating 1.0.
+Threshold for 8 18.325321410441965 Score: -29.543618608444724 Correct: false
+ClientInterface: Evaluation 631 made by Account 107, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -23.58235511847902 Correct: false
+ClientInterface: Evaluation 632 made by Account 108, Trust Score: 1.0 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -24.58235511847902 Correct: false
+ClientInterface: Evaluation 633 made by Account 109, Trust Score: 0.7258823529411764 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: 6.6809597523219795 Correct: false
+ClientInterface: Evaluation 634 made by Account 110, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: 5.8459597523219795 Correct: false
+ClientInterface: Evaluation 635 made by Account 111, Trust Score: 0.83375 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -25.416105118479017 Correct: false
+ClientInterface: Evaluation 636 made by Account 112, Trust Score: 0.978 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: -24.438105118479015 Correct: false
+ClientInterface: Evaluation 637 made by Account 114, Trust Score: 0.835 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: 6.6809597523219795 Correct: false
+ClientInterface: Contribution 107 made by Account 115.
+ClientInterface: Evaluation 638 made by Account 116, Trust Score: 1.0 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: 7.6809597523219795 Correct: false
+ClientInterface: Evaluation 639 made by Account 117, Trust Score: 0.923 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -25.361105118479017 Correct: false
+ClientInterface: Evaluation 640 made by Account 118, Trust Score: 0.978 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: 6.70295975232198 Correct: false
+ClientInterface: Evaluation 641 made by Account 119, Trust Score: 1.0 on Contribution 15 with rating 0.0.
+Threshold for 15 18.325321410441965 Score: 0.0 Correct: true
+ClientInterface: Evaluation 642 made by Account 0, Trust Score: 0.846 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -26.207105118479017 Correct: false
+ClientInterface: Evaluation 643 made by Account 3, Trust Score: 0.857 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -27.064105118479016 Correct: false
+ClientInterface: Contribution 108 made by Account 4.
+ClientInterface: Evaluation 644 made by Account 5, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: 5.86795975232198 Correct: false
+ClientInterface: Evaluation 645 made by Account 6, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: 5.03295975232198 Correct: false
+ClientInterface: Evaluation 646 made by Account 7, Trust Score: 0.9292857142857143 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: 4.1036740380362655 Correct: false
+ClientInterface: Evaluation 647 made by Account 8, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: 3.2686740380362656 Correct: false
+ClientInterface: Contribution 109 made by Account 9.
+ClientInterface: Evaluation 648 made by Account 12, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: 2.4336740380362656 Correct: false
+ClientInterface: Contribution 110 made by Account 14.
+ClientInterface: Evaluation 649 made by Account 15, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: 1.5986740380362656 Correct: false
+ClientInterface: Evaluation 650 made by Account 16, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -27.899105118479017 Correct: false
+ClientInterface: Evaluation 651 made by Account 17, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -28.734105118479018 Correct: false
+ClientInterface: Evaluation 652 made by Account 18, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: 0.7636740380362657 Correct: false
+ClientInterface: Evaluation 653 made by Account 19, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -29.56910511847902 Correct: false
+ClientInterface: Evaluation 654 made by Account 21, Trust Score: 0.923 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -0.15932596196373439 Correct: false
+ClientInterface: Evaluation 655 made by Account 23, Trust Score: 0.9292857142857143 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -30.498390832764734 Correct: false
+ClientInterface: Evaluation 656 made by Account 24, Trust Score: 0.9201612903225806 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -1.079487252286315 Correct: false
+ClientInterface: Evaluation 657 made by Account 28, Trust Score: 0.923 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -2.002487252286315 Correct: false
+ClientInterface: Evaluation 658 made by Account 29, Trust Score: 0.8585714285714285 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -2.8610586808577434 Correct: false
+ClientInterface: Evaluation 659 made by Account 30, Trust Score: 0.857 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -3.7180586808577436 Correct: false
+ClientInterface: Evaluation 660 made by Account 32, Trust Score: 0.835 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: -2.8830586808577436 Correct: false
+ClientInterface: Evaluation 661 made by Account 33, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -31.333390832764735 Correct: false
+ClientInterface: Evaluation 662 made by Account 35, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -3.7180586808577436 Correct: false
+ClientInterface: Evaluation 663 made by Account 36, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -4.553058680857744 Correct: false
+ClientInterface: Evaluation 664 made by Account 37, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -5.3880586808577435 Correct: false
+ClientInterface: Evaluation 665 made by Account 39, Trust Score: 0.835 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: -4.553058680857744 Correct: false
+ClientInterface: Contribution 111 made by Account 40.
+ClientInterface: Contribution 112 made by Account 41.
+ClientInterface: Evaluation 666 made by Account 42, Trust Score: 0.835 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: -3.7180586808577436 Correct: false
+ClientInterface: Evaluation 667 made by Account 43, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -4.553058680857744 Correct: false
+ClientInterface: Contribution 113 made by Account 44.
+ClientInterface: Evaluation 668 made by Account 45, Trust Score: 0.9450000000000001 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -32.278390832764735 Correct: false
+ClientInterface: Evaluation 669 made by Account 46, Trust Score: 0.6422340425531915 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -5.195292723410935 Correct: false
+ClientInterface: Evaluation 670 made by Account 47, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -33.113390832764736 Correct: false
+ClientInterface: Evaluation 671 made by Account 48, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -33.94839083276474 Correct: false
+ClientInterface: Evaluation 672 made by Account 49, Trust Score: 0.6741304347826087 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -5.869423158193544 Correct: false
+ClientInterface: Contribution 114 made by Account 50.
+ClientInterface: Evaluation 673 made by Account 52, Trust Score: 0.835 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: -33.113390832764736 Correct: false
+ClientInterface: Evaluation 674 made by Account 53, Trust Score: 0.879 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -6.748423158193544 Correct: false
+ClientInterface: Evaluation 675 made by Account 55, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -33.94839083276474 Correct: false
+ClientInterface: Evaluation 676 made by Account 57, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -34.78339083276474 Correct: false
+ClientInterface: Evaluation 677 made by Account 58, Trust Score: 0.9201612903225806 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -7.668584448516125 Correct: false
+ClientInterface: Evaluation 678 made by Account 59, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -8.503584448516126 Correct: false
+ClientInterface: Evaluation 679 made by Account 60, Trust Score: 0.835 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: -7.668584448516126 Correct: false
+ClientInterface: Evaluation 680 made by Account 61, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -8.503584448516126 Correct: false
+ClientInterface: Evaluation 681 made by Account 62, Trust Score: 0.9627419354838709 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -35.74613276824861 Correct: false
+ClientInterface: Evaluation 682 made by Account 63, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -9.338584448516126 Correct: false
+ClientInterface: Evaluation 683 made by Account 64, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -36.58113276824861 Correct: false
+ClientInterface: Evaluation 684 made by Account 66, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -37.41613276824861 Correct: false
+ClientInterface: Evaluation 685 made by Account 67, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -10.173584448516127 Correct: false
+ClientInterface: Evaluation 686 made by Account 68, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -38.25113276824861 Correct: false
+ClientInterface: Evaluation 687 made by Account 69, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -11.008584448516128 Correct: false
+ClientInterface: Evaluation 688 made by Account 71, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -11.843584448516129 Correct: false
+ClientInterface: Evaluation 689 made by Account 72, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -12.67858444851613 Correct: false
+ClientInterface: Evaluation 690 made by Account 73, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -13.51358444851613 Correct: false
+ClientInterface: Evaluation 691 made by Account 74, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -14.348584448516132 Correct: false
+ClientInterface: Contribution 115 made by Account 75.
+ClientInterface: Evaluation 692 made by Account 76, Trust Score: 0.8585714285714285 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -15.20715587708756 Correct: false
+ClientInterface: Evaluation 693 made by Account 78, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -16.04215587708756 Correct: false
+ClientInterface: Evaluation 694 made by Account 79, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -16.87715587708756 Correct: false
+ClientInterface: Evaluation 695 made by Account 80, Trust Score: 1.0 on Contribution 15 with rating 0.0.
+Threshold for 15 18.325321410441965 Score: -1.0 Correct: true
+ClientInterface: Evaluation 696 made by Account 81, Trust Score: 0.956 on Contribution 15 with rating 0.0.
+Threshold for 15 18.325321410441965 Score: -1.956 Correct: true
+ClientInterface: Evaluation 697 made by Account 82, Trust Score: 1.0 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: -15.87715587708756 Correct: false
+ClientInterface: Evaluation 698 made by Account 83, Trust Score: 1.0 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -16.87715587708756 Correct: false
+ClientInterface: Evaluation 699 made by Account 84, Trust Score: 1.0 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: -15.87715587708756 Correct: false
+ClientInterface: Evaluation 700 made by Account 85, Trust Score: 1.0 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: -0.956 Correct: true
+ClientInterface: Evaluation 701 made by Account 86, Trust Score: 0.835 on Contribution 15 with rating 0.0.
+Threshold for 15 18.325321410441965 Score: -1.791 Correct: true
+ClientInterface: Evaluation 702 made by Account 87, Trust Score: 1.0 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: -14.87715587708756 Correct: false
+ClientInterface: Evaluation 703 made by Account 88, Trust Score: 0.7368421052631579 on Contribution 15 with rating 0.0.
+Threshold for 15 18.325321410441965 Score: -2.527842105263158 Correct: true
+ClientInterface: Evaluation 704 made by Account 89, Trust Score: 0.956 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -39.20713276824861 Correct: false
+ClientInterface: Evaluation 705 made by Account 90, Trust Score: 1.0 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -15.87715587708756 Correct: false
+ClientInterface: Evaluation 706 made by Account 91, Trust Score: 1.0 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: -1.527842105263158 Correct: true
+ClientInterface: Evaluation 707 made by Account 94, Trust Score: 0.9119999999999999 on Contribution 15 with rating 0.0.
+Threshold for 15 18.325321410441965 Score: -2.439842105263158 Correct: true
+ClientInterface: Contribution 116 made by Account 95.
+ClientInterface: Evaluation 708 made by Account 96, Trust Score: 0.9946774193548387 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: -14.882478457732722 Correct: false
+ClientInterface: Evaluation 709 made by Account 97, Trust Score: 0.9764285714285714 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: -13.90604988630415 Correct: false
+ClientInterface: Evaluation 710 made by Account 98, Trust Score: 0.8585714285714285 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: -13.047478457732721 Correct: false
+ClientInterface: Contribution 117 made by Account 100.
+ClientInterface: Contribution 118 made by Account 101.
+ClientInterface: Evaluation 711 made by Account 102, Trust Score: 0.846 on Contribution 15 with rating 0.0.
+Threshold for 15 18.325321410441965 Score: -3.285842105263158 Correct: true
+ClientInterface: Evaluation 712 made by Account 103, Trust Score: 0.835 on Contribution 13 with rating 1.0.
+Threshold for 13 18.325321410441965 Score: -38.37213276824861 Correct: false
+ClientInterface: Evaluation 713 made by Account 104, Trust Score: 0.9292857142857143 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: -12.118192743447008 Correct: false
+ClientInterface: Evaluation 714 made by Account 105, Trust Score: 1.0 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: -2.285842105263158 Correct: true
+ClientInterface: Evaluation 715 made by Account 107, Trust Score: 0.835 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: -11.283192743447007 Correct: false
+ClientInterface: Evaluation 716 made by Account 108, Trust Score: 1.0 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -12.283192743447007 Correct: false
+ClientInterface: Evaluation 717 made by Account 112, Trust Score: 0.978 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: -11.305192743447007 Correct: false
+ClientInterface: Evaluation 718 made by Account 113, Trust Score: 0.8899999999999999 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -39.26213276824861 Correct: false
+ClientInterface: Evaluation 719 made by Account 114, Trust Score: 0.835 on Contribution 15 with rating 0.0.
+Threshold for 15 18.325321410441965 Score: -3.120842105263158 Correct: true
+ClientInterface: Evaluation 720 made by Account 115, Trust Score: 0.70890625 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -39.97103901824861 Correct: false
+ClientInterface: Evaluation 721 made by Account 117, Trust Score: 0.923 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: -10.382192743447007 Correct: false
+ClientInterface: Evaluation 722 made by Account 118, Trust Score: 0.978 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: -2.142842105263158 Correct: true
+ClientInterface: Evaluation 723 made by Account 119, Trust Score: 1.0 on Contribution 16 with rating 1.0.
+Threshold for 16 18.325321410441965 Score: 2.0 Correct: true
+ClientInterface: Evaluation 724 made by Account 1, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -11.217192743447008 Correct: false
+ClientInterface: Contribution 119 made by Account 2.
+ClientInterface: Contribution 120 made by Account 3.
+ClientInterface: Evaluation 725 made by Account 4, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -12.052192743447009 Correct: false
+ClientInterface: Evaluation 726 made by Account 6, Trust Score: 0.835 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: -1.3078421052631581 Correct: true
+ClientInterface: Evaluation 727 made by Account 7, Trust Score: 0.9292857142857143 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: -0.37855639097744387 Correct: true
+ClientInterface: Evaluation 728 made by Account 10, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -12.88719274344701 Correct: false
+ClientInterface: Evaluation 729 made by Account 11, Trust Score: 0.835 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: 0.4564436090225561 Correct: true
+ClientInterface: Evaluation 730 made by Account 12, Trust Score: 0.835 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: 1.291443609022556 Correct: true
+ClientInterface: Evaluation 731 made by Account 13, Trust Score: 0.6198421052631579 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -13.507034848710168 Correct: false
+ClientInterface: Evaluation 732 made by Account 14, Trust Score: 0.835 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -40.80603901824861 Correct: false
+ClientInterface: Evaluation 733 made by Account 15, Trust Score: 0.835 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: 2.126443609022556 Correct: true
+ClientInterface: Evaluation 734 made by Account 16, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -14.342034848710167 Correct: false
+ClientInterface: Evaluation 735 made by Account 19, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -15.177034848710168 Correct: false
+ClientInterface: Contribution 121 made by Account 20.
+ClientInterface: Evaluation 736 made by Account 21, Trust Score: 0.923 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: 3.049443609022556 Correct: true
+ClientInterface: Evaluation 737 made by Account 23, Trust Score: 0.9292857142857143 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -16.106320562995883 Correct: false
+ClientInterface: Evaluation 738 made by Account 24, Trust Score: 0.9201612903225806 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: 3.9696048993451365 Correct: true
+ClientInterface: Evaluation 739 made by Account 25, Trust Score: 0.835 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: -15.271320562995882 Correct: false
+ClientInterface: Evaluation 740 made by Account 27, Trust Score: 0.8403225806451613 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -16.111643143641043 Correct: false
+ClientInterface: Evaluation 741 made by Account 32, Trust Score: 0.835 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: 4.8046048993451365 Correct: true
+ClientInterface: Evaluation 742 made by Account 34, Trust Score: 0.6526086956521739 on Contribution 13 with rating 0.0.
+Threshold for 13 18.325321410441965 Score: -41.45864771390079 Correct: false
+ClientInterface: Evaluation 743 made by Account 35, Trust Score: 0.835 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: 5.639604899345136 Correct: true
+ClientInterface: Contribution 122 made by Account 36.
+ClientInterface: Evaluation 744 made by Account 37, Trust Score: 0.835 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: 6.474604899345136 Correct: true
+ClientInterface: Evaluation 745 made by Account 38, Trust Score: 0.6281914893617021 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -16.739834633002744 Correct: false
+ClientInterface: Evaluation 746 made by Account 39, Trust Score: 0.835 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: 7.309604899345136 Correct: true
+ClientInterface: Evaluation 747 made by Account 40, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -17.574834633002745 Correct: false
+ClientInterface: Evaluation 748 made by Account 41, Trust Score: 0.8585714285714285 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -18.433406061574175 Correct: false
+ClientInterface: Evaluation 749 made by Account 42, Trust Score: 0.835 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: 8.144604899345136 Correct: true
+ClientInterface: Evaluation 750 made by Account 43, Trust Score: 0.835 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: 8.979604899345137 Correct: true
+ClientInterface: Contribution 123 made by Account 44.
+ClientInterface: Evaluation 751 made by Account 45, Trust Score: 0.9450000000000001 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -19.378406061574175 Correct: false
+ClientInterface: Evaluation 752 made by Account 46, Trust Score: 0.6422340425531915 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: 9.621838941898329 Correct: true
+ClientInterface: Evaluation 753 made by Account 47, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -20.213406061574176 Correct: false
+ClientInterface: Evaluation 754 made by Account 48, Trust Score: 0.835 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: -19.378406061574175 Correct: false
+ClientInterface: Evaluation 755 made by Account 49, Trust Score: 0.6741304347826087 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: 10.295969376680937 Correct: true
+ClientInterface: Contribution 124 made by Account 50.
+ClientInterface: Evaluation 756 made by Account 51, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -20.213406061574176 Correct: false
+ClientInterface: Evaluation 757 made by Account 52, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -21.048406061574177 Correct: false
+ClientInterface: Evaluation 758 made by Account 53, Trust Score: 0.879 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: 11.174969376680936 Correct: true
+ClientInterface: Evaluation 759 made by Account 54, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -21.883406061574178 Correct: false
+ClientInterface: Evaluation 760 made by Account 55, Trust Score: 0.835 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: -21.048406061574177 Correct: false
+ClientInterface: Evaluation 761 made by Account 56, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -21.883406061574178 Correct: false
+ClientInterface: Evaluation 762 made by Account 57, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -22.71840606157418 Correct: false
+ClientInterface: Evaluation 763 made by Account 59, Trust Score: 0.835 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: 12.009969376680935 Correct: true
+ClientInterface: Evaluation 764 made by Account 60, Trust Score: 0.835 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: 12.844969376680936 Correct: true
+ClientInterface: Evaluation 765 made by Account 61, Trust Score: 0.835 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: 13.679969376680937 Correct: true
+ClientInterface: Evaluation 766 made by Account 62, Trust Score: 0.9627419354838709 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -23.681147997058048 Correct: false
+ClientInterface: Contribution 125 made by Account 63.
+ClientInterface: Evaluation 767 made by Account 64, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -24.51614799705805 Correct: false
+ClientInterface: Evaluation 768 made by Account 65, Trust Score: 0.8562903225806451 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -25.372438319638693 Correct: false
+ClientInterface: Contribution 126 made by Account 66.
+ClientInterface: Evaluation 769 made by Account 67, Trust Score: 0.835 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: 14.514969376680938 Correct: true
+ClientInterface: Evaluation 770 made by Account 70, Trust Score: 0.835 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -26.207438319638694 Correct: false
+ClientInterface: Evaluation 771 made by Account 71, Trust Score: 0.835 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: 15.349969376680939 Correct: true
+ClientInterface: Evaluation 772 made by Account 72, Trust Score: 0.835 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: 16.18496937668094 Correct: true
+ClientInterface: Evaluation 773 made by Account 74, Trust Score: 0.835 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: 17.01996937668094 Correct: true
+ClientInterface: Contribution 127 made by Account 78.
+ClientInterface: Contribution 128 made by Account 79.
+ClientInterface: Evaluation 774 made by Account 80, Trust Score: 1.0 on Contribution 16 with rating 1.0.
+Threshold for 16 18.325321410441965 Score: 3.0 Correct: true
+ClientInterface: Evaluation 775 made by Account 81, Trust Score: 0.956 on Contribution 16 with rating 0.0.
+Threshold for 16 18.325321410441965 Score: 2.044 Correct: true
+ClientInterface: Evaluation 776 made by Account 82, Trust Score: 1.0 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: 18.01996937668094 Correct: true
+ClientInterface: Evaluation 777 made by Account 83, Trust Score: 1.0 on Contribution 15 with rating 0.0.
+Threshold for 15 18.325321410441965 Score: 17.01996937668094 Correct: true
+ClientInterface: Evaluation 778 made by Account 84, Trust Score: 1.0 on Contribution 15 with rating 0.0.
+Threshold for 15 18.325321410441965 Score: 16.01996937668094 Correct: true
+ClientInterface: Evaluation 779 made by Account 85, Trust Score: 1.0 on Contribution 16 with rating 0.0.
+Threshold for 16 18.325321410441965 Score: 1.044 Correct: true
+ClientInterface: Evaluation 780 made by Account 87, Trust Score: 1.0 on Contribution 15 with rating 0.0.
+Threshold for 15 18.325321410441965 Score: 15.01996937668094 Correct: true
+ClientInterface: Evaluation 781 made by Account 88, Trust Score: 0.7368421052631579 on Contribution 16 with rating 0.0.
+Threshold for 16 18.325321410441965 Score: 0.3071578947368422 Correct: true
+ClientInterface: Contribution 129 made by Account 89.
+ClientInterface: Evaluation 782 made by Account 90, Trust Score: 1.0 on Contribution 15 with rating 0.0.
+Threshold for 15 18.325321410441965 Score: 14.01996937668094 Correct: true
+ClientInterface: Evaluation 783 made by Account 91, Trust Score: 1.0 on Contribution 16 with rating 0.0.
+Threshold for 16 18.325321410441965 Score: -0.6928421052631578 Correct: true
+ClientInterface: Evaluation 784 made by Account 92, Trust Score: 0.956 on Contribution 15 with rating 0.0.
+Threshold for 15 18.325321410441965 Score: 13.06396937668094 Correct: true
+ClientInterface: Evaluation 785 made by Account 93, Trust Score: 0.9733870967741935 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: -25.2340512228645 Correct: false
+ClientInterface: Evaluation 786 made by Account 94, Trust Score: 0.9119999999999999 on Contribution 16 with rating 1.0.
+Threshold for 16 18.325321410441965 Score: 0.2191578947368421 Correct: true
+ClientInterface: Contribution 130 made by Account 95.
+ClientInterface: Evaluation 787 made by Account 96, Trust Score: 0.9946774193548387 on Contribution 15 with rating 0.0.
+Threshold for 15 18.325321410441965 Score: 12.069291957326103 Correct: true
+ClientInterface: Evaluation 788 made by Account 97, Trust Score: 0.9764285714285714 on Contribution 15 with rating 0.0.
+Threshold for 15 18.325321410441965 Score: 11.09286338589753 Correct: true
+ClientInterface: Evaluation 789 made by Account 98, Trust Score: 0.8585714285714285 on Contribution 15 with rating 0.0.
+Threshold for 15 18.325321410441965 Score: 10.234291957326102 Correct: true
+ClientInterface: Evaluation 790 made by Account 99, Trust Score: 0.9528571428571428 on Contribution 14 with rating 1.0.
+Threshold for 14 18.325321410441965 Score: -24.28119408000736 Correct: false
+ClientInterface: Contribution 131 made by Account 100.
+ClientInterface: Evaluation 791 made by Account 101, Trust Score: 0.835 on Contribution 15 with rating 0.0.
+Threshold for 15 18.325321410441965 Score: 9.399291957326103 Correct: true
+ClientInterface: Contribution 132 made by Account 102.
+ClientInterface: Evaluation 792 made by Account 104, Trust Score: 0.9292857142857143 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: 10.328577671611818 Correct: true
+ClientInterface: Evaluation 793 made by Account 107, Trust Score: 0.835 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: 11.163577671611819 Correct: true
+ClientInterface: Contribution 133 made by Account 109.
+ClientInterface: Evaluation 794 made by Account 110, Trust Score: 0.835 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: 11.99857767161182 Correct: true
+ClientInterface: Contribution 134 made by Account 112.
+ClientInterface: Evaluation 795 made by Account 113, Trust Score: 0.8899999999999999 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -25.17119408000736 Correct: false
+ClientInterface: Evaluation 796 made by Account 114, Trust Score: 0.835 on Contribution 16 with rating 0.0.
+Threshold for 16 18.325321410441965 Score: -0.6158421052631579 Correct: true
+ClientInterface: Evaluation 797 made by Account 115, Trust Score: 0.70890625 on Contribution 14 with rating 0.0.
+Threshold for 14 18.325321410441965 Score: -25.88010033000736 Correct: false
+ClientInterface: Evaluation 798 made by Account 116, Trust Score: 1.0 on Contribution 15 with rating 1.0.
+Threshold for 15 18.325321410441965 Score: 12.99857767161182 Correct: true
+ClientInterface: Evaluation 799 made by Account 118, Trust Score: 0.978 on Contribution 16 with rating 0.0.
+Threshold for 16 18.325321410441965 Score: -1.5938421052631577 Correct: true
+ClientInterface: Evaluation 800 made by Account 119, Trust Score: 1.0 on Contribution 17 with rating 1.0.
+Threshold for 17 18.325321410441965 Score: 2.0 Correct: true
+Time's Up for Contribution 0
+Time's Up for Contribution 1
+Time's Up for Contribution 3
+Time's Up for Contribution 2
+Time's Up for Contribution 4
+Time's Up for Contribution 5
+Time's Up for Contribution 6
+Time's Up for Contribution 7
+Time's Up for Contribution 8
+Threshold for 8 18.325321410441965 Score: -29.543618608444724 Correct: false
+Time's Up for Contribution 9
+Time's Up for Contribution 10
+Time's Up for Contribution 11
+Time's Up for Contribution 12
+Time's Up for Contribution 13
+Threshold for 13 18.325321410441965 Score: -41.45864771390079 Correct: false
+Time's Up for Contribution 15
+Threshold for 15 18.325321410441965 Score: 12.99857767161182 Correct: true
+Time's Up for Contribution 16
+Threshold for 16 18.325321410441965 Score: -1.5938421052631577 Correct: true
+Time's Up for Contribution 14
+Threshold for 14 18.325321410441965 Score: -25.88010033000736 Correct: false
+Time's Up for Contribution 17
+Threshold for 17 18.325321410441965 Score: 2.0 Correct: true
+Time's Up for Contribution 18
+Threshold for 18 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 19
+Threshold for 19 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 20
+Threshold for 20 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 21
+Threshold for 21 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 22
+Threshold for 22 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 23
+Threshold for 23 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 24
+Threshold for 24 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 25
+Threshold for 25 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 26
+Threshold for 26 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 27
+Threshold for 27 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 28
+Threshold for 28 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 29
+Threshold for 29 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 31
+Threshold for 31 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 32
+Threshold for 32 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 33
+Threshold for 33 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 34
+Threshold for 34 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 30
+Threshold for 30 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 35
+Threshold for 35 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 36
+Threshold for 36 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 37
+Threshold for 37 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 38
+Threshold for 38 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 39
+Threshold for 39 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 40
+Threshold for 40 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 41
+Threshold for 41 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 42
+Threshold for 42 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 43
+Threshold for 43 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 44
+Threshold for 44 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 45
+Threshold for 45 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 46
+Threshold for 46 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 47
+Threshold for 47 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 48
+Threshold for 48 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 49
+Threshold for 49 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 50
+Threshold for 50 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 51
+Threshold for 51 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 52
+Threshold for 52 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 53
+Threshold for 53 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 54
+Threshold for 54 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 55
+Threshold for 55 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 56
+Threshold for 56 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 57
+Threshold for 57 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 58
+Threshold for 58 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 59
+Threshold for 59 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 60
+Threshold for 60 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 61
+Threshold for 61 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 62
+Threshold for 62 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 63
+Threshold for 63 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 64
+Threshold for 64 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 70
+Threshold for 70 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 65
+Threshold for 65 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 66
+Threshold for 66 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 67
+Threshold for 67 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 68
+Threshold for 68 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 69
+Threshold for 69 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 71
+Threshold for 71 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 72
+Threshold for 72 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 73
+Threshold for 73 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 75
+Threshold for 75 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 74
+Threshold for 74 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 76
+Threshold for 76 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 77
+Threshold for 77 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 79
+Threshold for 79 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 80
+Threshold for 80 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 81
+Threshold for 81 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 82
+Threshold for 82 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 83
+Threshold for 83 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 84
+Threshold for 84 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 78
+Threshold for 78 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 85
+Threshold for 85 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 87
+Threshold for 87 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 86
+Threshold for 86 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 98
+Threshold for 98 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 93
+Threshold for 93 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 91
+Threshold for 91 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 94
+Threshold for 94 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 88
+Threshold for 88 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 89
+Threshold for 89 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 92
+Threshold for 92 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 95
+Threshold for 95 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 96
+Threshold for 96 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 97
+Threshold for 97 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 90
+Threshold for 90 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 104
+Threshold for 104 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 105
+Threshold for 105 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 101
+Threshold for 101 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 99
+Threshold for 99 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 103
+Threshold for 103 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 100
+Threshold for 100 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 102
+Threshold for 102 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 108
+Threshold for 108 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 107
+Threshold for 107 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 110
+Threshold for 110 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 106
+Threshold for 106 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 109
+Threshold for 109 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 115
+Threshold for 115 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 116
+Threshold for 116 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 118
+Threshold for 118 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 113
+Threshold for 113 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 114
+Threshold for 114 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 111
+Threshold for 111 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 117
+Threshold for 117 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 112
+Threshold for 112 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 123
+Threshold for 123 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 124
+Threshold for 124 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 120
+Threshold for 120 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 122
+Threshold for 122 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 119
+Threshold for 119 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 121
+Threshold for 121 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 128
+Threshold for 128 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 127
+Threshold for 127 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 134
+Threshold for 134 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 129
+Threshold for 129 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 125
+Threshold for 125 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 133
+Threshold for 133 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 130
+Threshold for 130 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 126
+Threshold for 126 18.325321410441965 Score: 1.0 Correct: true
+Time's Up for Contribution 132
+Threshold for 132 18.325321410441965 Score: 1.0 Correct: false
+Time's Up for Contribution 131
+Threshold for 131 18.325321410441965 Score: 1.0 Correct: true
+*************
+Total Contributions: 135
+Accepted Contributions: 12
+Rejected Contributions: 123
+Correct Contributions: 96
+Wrong Contributions: 39
+Total Evaluations: 801
+Correct Verdicts: 51
