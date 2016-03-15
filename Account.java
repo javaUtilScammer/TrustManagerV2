@@ -85,8 +85,17 @@ public class Account extends Component{
 	public int getNumEv()
 	{
 		int temp = 0; 
-		for(int i=0; i<contributions.size();i++)
-			temp+=contributions.get(i).getNumEv();
+		for(int i=0; i<contributions.size();i++){
+			Contribution c = contributions.get(i);
+			if(c==null) System.out.println("LOL WUUUT");
+			try{	
+				temp+=c.getNumEv();
+			}
+			catch(Exception e){
+				e.printStackTrace();
+				System.out.println("PLLLLLLSSSS");
+			}
+		}
 		return temp;
 	}
 }

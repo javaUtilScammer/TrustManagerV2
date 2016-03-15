@@ -6,6 +6,10 @@ public abstract class Scorer{
 
 	public Scorer(ClientInterface i){
 		intrface = i;
+		alpha = intrface.alpha;
+		beta = intrface.beta;
+		rating_scale = intrface.rating_scale;
+		active_user_time = intrface.active_user_time;
 	}
 
 	abstract void calculateScore(Evaluation ev, Contribution cont);

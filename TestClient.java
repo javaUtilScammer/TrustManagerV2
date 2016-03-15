@@ -4,7 +4,7 @@ import java.io.*;
 public class TestClient{
 	int goodAccounts, badAccounts, neutAccounts, totalAccounts;
 	int contsAccepted, contsRejected, contsTotal, evalsTotal;
-	int correctVerdict;
+	int correctVerdict, adminConts;
 	int contsCorrect, contsWrong;
 	ArrayList<AccountTest> accs = new ArrayList<AccountTest>();
 	ArrayList<Integer> contIds = new ArrayList<Integer>();
@@ -13,6 +13,7 @@ public class TestClient{
 	int active_user_time, validation_time;
 	String validation_type;
 	ClientInterface intrface;
+	boolean adminAccept = false;
 
 	public static void main(String[] args){
 		new TestClient();
@@ -74,6 +75,7 @@ public class TestClient{
 			contsCorrect = 0;
 			contsWrong = 0;
 			correctVerdict = 0;
+			adminConts = 0;
 		}
 		catch(Exception e){
 			e.printStackTrace();
@@ -81,7 +83,7 @@ public class TestClient{
 	}
 
 	public void simulate(){
-		for(int o=0; o<10; o++){
+		for(int o=0; o<1000; o++){
 			for(int i=0; i<totalAccounts; i++){
 				AccountTest curAcc = accs.get(i);
 				int roll = curAcc.move();
@@ -119,26 +121,6 @@ public class TestClient{
 	    			int ind2 = intrface.createEvaluation(i,id,score);
 					evalsTotal++;
 	    			curAcc.sent.add(id);
-
-					// boolean crrct = RNG(curAcc.chance_Correct);
-					// int n = contIds.size();
-					// if(n==0) continue;
-					// int id = contIds.get(pickRandomID(n));
-	    // 			ContributionTest cont = contMap.get(id);
-	    // 			while(true){
-	    // 				if(cont.account_id!=i) break;
-	    // 				if(!curAcc.sent.contains(id)) break;
-	    // 				id = contIds.get(pickRandomID(n));
-	    // 				cont = contMap.get(id);
-	    // 			}
-	    // 			boolean correct = RNG(curAcc.chance_Correct);
-	    // 			double score = 1.0;
-	    // 			if(correct^cont.correct) score = 0.0;
-	    // 			int ind = intrface.createEvaluation(i,id,score);
-	    // 			// EvaluationTest eval = new EvaluationJSON(i, id, score);
-	    // 			// eval.id = Integer.parseInt(post(gson.toJson(eval)));
-	    // 			evalsTotal++;
-	    // 			curAcc.sent.add(id);
 				}
 			}
 		}
@@ -163,13 +145,24 @@ public class TestClient{
 
 	public void rejectContribution(int ci){
 		contsRejected++;
-		if(!contMap.get(ci).correct) correctVerdict++;
+		try{	
+			if(!contMap.get(ci).correct) correctVerdict++;
+		}
+		catch(Exception e){e.printStackTrace();System.out.println("huehue");}
 		removeContribution(ci);
 	}
 
 	public void removeContribution(int ci){
 		contIds.remove((Integer)ci);
 		contMap.remove(ci);
+	}
+
+	public void adminAccept(int contID){
+		//assumes that cont is "correct"
+		contsAccepted++;
+		adminConts++;
+		removeContribution(contID);
+		intrface.removeContribution(contID);
 	}
 
 	private int randInRange(int min, int max){

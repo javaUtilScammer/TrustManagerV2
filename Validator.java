@@ -10,5 +10,5 @@ public abstract class Validator{
 		active_user_time = intrface.active_user_time;
 	}
 
-	abstract boolean validate(Contribution cont);
+	abstract int validate(Contribution cont);
 }

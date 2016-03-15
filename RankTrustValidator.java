@@ -7,7 +7,10 @@ public class RankTrustValidator extends Validator{
 		threshold = rating_scale/2.0;
 	}
 
-	public boolean validate(Contribution cont){
-		return cont.getContributionScore()>=threshold;
+	public int validate(Contribution cont){
+		// return cont.getContributionScore()>=threshold;
+		if(cont.getContributionScore()>=threshold) return 0;
+		return 2;
+		// return 0;
 	}
 }
